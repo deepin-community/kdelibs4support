@@ -4,8 +4,8 @@ CurrencyCodeIsoNumeric3=528
 #Context for Name: Adjectival Country Name and Currency Name
 Name=Netherlands Guilder
 Name[ar]=الغويلدر الهولندي
-Name[ast]=Florín neerlandés
 Name[az]=Niderland Qulderi
+Name[bg]=Холандски гулден
 Name[bs]=holandski gulden
 Name[ca]=Florí neerlandès
 Name[ca@valencia]=Florí neerlandés
@@ -26,6 +26,7 @@ Name[ia]=Guilder del Antilles Nederlandese
 Name[id]=Guilder Belanda
 Name[is]=Hollenskt gyllini
 Name[it]=Fiorino olandese
+Name[ka]=ნიდერლანდების ანტილეის გილდერი
 Name[ko]=네덜란드 휠던
 Name[lt]=Nyderlandų guldenas
 Name[mr]=नेधरलेन्डझ गिल्डर

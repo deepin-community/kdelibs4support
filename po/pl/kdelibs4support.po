@@ -10,13 +10,13 @@
 # Krzysztof Lichota <lichota@mimuw.edu.pl>, 2005, 2006.
 # Marta Rybczyńska <kde-i18n@rybczynska.net>, 2007, 2008, 2009, 2011.
 # Marta Rybczynska <kde-i18n@rybczynska.net>, 2009, 2010.
-# Łukasz Wojniłowicz <lukasz.wojnilowicz@gmail.com>, 2011, 2014, 2015, 2016, 2017, 2019, 2021.
+# Łukasz Wojniłowicz <lukasz.wojnilowicz@gmail.com>, 2011, 2014, 2015, 2016, 2017, 2019, 2021, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: kdecalendarsystems\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-27 00:14+0000\n"
-"PO-Revision-Date: 2021-09-05 10:54+0200\n"
+"POT-Creation-Date: 2023-01-14 00:53+0000\n"
+"PO-Revision-Date: 2022-04-10 11:32+0200\n"
 "Last-Translator: Łukasz Wojniłowicz <lukasz.wojnilowicz@gmail.com>\n"
 "Language-Team: Polish <kde-i18n-doc@kde.org>\n"
 "Language: pl\n"
@@ -107,7 +107,7 @@ msgstr ""
 ">\n"
 ">\n"
 ">\n"
-"X-Generator: Lokalize 20.12.1\n"
+"X-Generator: Lokalize 22.03.70\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 
@@ -13423,7 +13423,7 @@ msgstr "Nowy katalog..."
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Move to Trash"
-msgstr "Przenieś do kosza"
+msgstr "Wyrzuć do kosza"
 
 #: kio/kdirselectdialog.cpp:359
 #, kde-format
@@ -14041,12 +14041,12 @@ msgstr "Pobierz obraz"
 msgid "OCR Image"
 msgstr "Użyj OCR"
 
-#: kio/netaccess.cpp:103
+#: kio/netaccess.cpp:102
 #, kde-format
 msgid "File '%1' is not readable"
 msgstr "Nie można czytać pliku '%1'"
 
-#: kio/netaccess.cpp:437
+#: kio/netaccess.cpp:435
 #, kde-format
 msgid "ERROR: Unknown protocol '%1'"
 msgstr "Błąd: Nieznany protokół '%1'"
@@ -14565,3 +14565,285 @@ msgstr "Ten certyfikat nie jest ważny."
 #, kde-format
 msgid "GMT"
 msgstr "GMT"
+
+#~ msgid "Test Service for Network Status kded module"
+#~ msgstr "Usługa próbna dla modułu stanu sieci kded"
+
+#~ msgid "knetworkstatustestservice"
+#~ msgstr "knetworkstatustestservice"
+
+#~ msgid "(C) 2007 Will Stephenson"
+#~ msgstr "(C) 2007 Will Stephenson"
+
+#~ msgid "Will Stephenson"
+#~ msgstr "Will Stephenson"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:11pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "size:x-large; font-weight:600;\">Service for KDE 4 Offline Mode</span></"
+#~ "p></body></html>"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:11pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "size:x-large; font-weight:600;\">Usługa dla trybu bez sieci dla KDE 4</"
+#~ "span></p></body></html>"
+
+#~ msgid "Status:"
+#~ msgstr "Stan:"
+
+#~ msgid "STATUS"
+#~ msgstr "STAN"
+
+#~ msgid "Change to:"
+#~ msgstr "Zmień na:"
+
+#~ msgid "Unconnected"
+#~ msgstr "Niepodłączona"
+
+#~ msgid "Disconnecting"
+#~ msgstr "Rozłączanie"
+
+#~ msgid "Connecting"
+#~ msgstr "Łączenie"
+
+#~ msgid "Connected"
+#~ msgstr "Podłączona"
+
+#~ msgid "Perform Change"
+#~ msgstr "Wykonaj zmianę"
+
+#~ msgctxt "color"
+#~ msgid "alice"
+#~ msgstr "Alicja"
+
+#~ msgctxt "color"
+#~ msgid "antique"
+#~ msgstr "Antyk"
+
+#~ msgctxt "color"
+#~ msgid "blanched"
+#~ msgstr "wybielony"
+
+#~ msgctxt "color"
+#~ msgid "cadet"
+#~ msgstr "kadet"
+
+#~ msgctxt "color"
+#~ msgid "cornflower"
+#~ msgstr "chaber"
+
+#~ msgctxt "color"
+#~ msgid "dark"
+#~ msgstr "ciemny"
+
+#~ msgctxt "color"
+#~ msgid "deep"
+#~ msgstr "głęboki"
+
+#~ msgctxt "color"
+#~ msgid "dim"
+#~ msgstr "przyciemniony"
+
+#~ msgctxt "color"
+#~ msgid "dodger"
+#~ msgstr "zaciemniony"
+
+#~ msgctxt "color"
+#~ msgid "floral"
+#~ msgstr "roślinny"
+
+#~ msgctxt "color"
+#~ msgid "forest"
+#~ msgstr "las"
+
+#~ msgctxt "color"
+#~ msgid "ghost"
+#~ msgstr "duch"
+
+#~ msgctxt "color"
+#~ msgid "hot"
+#~ msgstr "gorący"
+
+#~ msgctxt "color"
+#~ msgid "indian"
+#~ msgstr "indyjski"
+
+#~ msgctxt "color"
+#~ msgid "lawn"
+#~ msgstr "trawnik"
+
+#~ msgctxt "color"
+#~ msgid "lemon"
+#~ msgstr "cytrynowy"
+
+#~ msgctxt "color"
+#~ msgid "light"
+#~ msgstr "jasny"
+
+#~ msgctxt "color"
+#~ msgid "lime"
+#~ msgstr "zielonkawożółty"
+
+#~ msgctxt "color"
+#~ msgid "medium"
+#~ msgstr "śczerwonyni"
+
+#~ msgctxt "color"
+#~ msgid "midnight"
+#~ msgstr "północ"
+
+#~ msgctxt "color"
+#~ msgid "mint"
+#~ msgstr "mięta"
+
+#~ msgctxt "color"
+#~ msgid "misty"
+#~ msgstr "mgliście"
+
+#~ msgctxt "color"
+#~ msgid "navajo"
+#~ msgstr "navajo"
+
+#~ msgctxt "color"
+#~ msgid "old"
+#~ msgstr "stara"
+
+#~ msgctxt "color"
+#~ msgid "olive"
+#~ msgstr "oliwka"
+
+#~ msgctxt "color"
+#~ msgid "pale"
+#~ msgstr "blady"
+
+#~ msgctxt "color"
+#~ msgid "papaya"
+#~ msgstr "papaja"
+
+#~ msgctxt "color"
+#~ msgid "peach"
+#~ msgstr "brzoskwinia"
+
+#~ msgctxt "color"
+#~ msgid "powder"
+#~ msgstr "proszek"
+
+#~ msgctxt "color"
+#~ msgid "rosy"
+#~ msgstr "różowe"
+
+#~ msgctxt "color"
+#~ msgid "royal"
+#~ msgstr "królewskie"
+
+#~ msgctxt "color"
+#~ msgid "saddle"
+#~ msgstr "siodło"
+
+#~ msgctxt "color"
+#~ msgid "sandy"
+#~ msgstr "piaskowe"
+
+#~ msgctxt "color"
+#~ msgid "sea"
+#~ msgstr "morze"
+
+#~ msgctxt "color"
+#~ msgid "sky"
+#~ msgstr "niebo"
+
+#~ msgctxt "color"
+#~ msgid "slate"
+#~ msgstr "łupek"
+
+#~ msgctxt "color"
+#~ msgid "spring"
+#~ msgstr "sprężyna"
+
+#~ msgctxt "color"
+#~ msgid "steel"
+#~ msgstr "stal"
+
+#~ msgctxt "@item Calendar system"
+#~ msgid "Gregorian (Proleptic)"
+#~ msgstr "Gregoriański (przed 1582)"
+
+#~ msgctxt "Ethiopian month 1 - ShortNamePossessive"
+#~ msgid "of Mes"
+#~ msgstr "Mes"
+
+#~ msgctxt "Ethiopian month 5 - LongNamePossessive"
+#~ msgid "of Ter"
+#~ msgstr "Ter"
+
+#~ msgctxt "Ethiopian month 1 - ShortName"
+#~ msgid "Mes"
+#~ msgstr "Mes"
+
+#~ msgctxt "Ethiopian month 5 - LongName"
+#~ msgid "Ter"
+#~ msgstr "Ter"
+
+#~ msgctxt "Ethiopian weekday 4 - ShortDayName"
+#~ msgid "Ham"
+#~ msgstr "Ham"
+
+#~ msgctxt "Ethiopian weekday 5 - ShortDayName"
+#~ msgid "Arb"
+#~ msgstr "Arb"
+
+#~ msgctxt "Ethiopian weekday 3 - LongDayName"
+#~ msgid "Rob"
+#~ msgstr "Rob"
+
+#~ msgctxt "Ethiopian weekday 5 - LongDayName"
+#~ msgid "Arb"
+#~ msgstr "Arb"
+
+#~ msgctxt "of May long"
+#~ msgid "of May"
+#~ msgstr "maja"
+
+#~ msgctxt "May long"
+#~ msgid "May"
+#~ msgstr "maj"
+
+#~ msgid "R. Thaani"
+#~ msgstr "R. Thaani"
+
+#~ msgid "J. Thaani"
+#~ msgstr "J. Thaani"
+
+#~ msgid "Hijjah"
+#~ msgstr "Hijjah"
+
+#~ msgctxt "of Tir long"
+#~ msgid "of Tir"
+#~ msgstr "Tir"
+
+#~ msgctxt "of Dei long"
+#~ msgid "of Dei"
+#~ msgstr "Dei"
+
+#~ msgctxt "Tir long"
+#~ msgid "Tir"
+#~ msgstr "Tir"
+
+#~ msgctxt "Dei long"
+#~ msgid "Dei"
+#~ msgstr "Dei"
+
+#~ msgctxt "Shanbe short"
+#~ msgid "shn"
+#~ msgstr "shn"

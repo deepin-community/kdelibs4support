@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-27 00:14+0000\n"
+"POT-Creation-Date: 2023-01-14 00:53+0000\n"
 "PO-Revision-Date: 2011-06-20 03:41+0600\n"
 "Last-Translator: Sairan Kikkarin <sairan@computer.org>\n"
 "Language-Team: Kazakh <kde-i18n-doc@kde.org>\n"
@@ -14072,12 +14072,12 @@ msgstr "Кескінді түсіру"
 msgid "OCR Image"
 msgstr "Кескінді танып-талдау"
 
-#: kio/netaccess.cpp:103
+#: kio/netaccess.cpp:102
 #, kde-format
 msgid "File '%1' is not readable"
 msgstr "'%1' деген файл оқылмайды"
 
-#: kio/netaccess.cpp:437
+#: kio/netaccess.cpp:435
 #, kde-format
 msgid "ERROR: Unknown protocol '%1'"
 msgstr "ҚАТЕ: '%1' деген протоколы беймәлім"
@@ -14589,3 +14589,104 @@ msgstr "Куәлік жарамсыз."
 #, kde-format
 msgid "GMT"
 msgstr "Гринвич уақыты"
+
+#, fuzzy
+#~| msgctxt "Calendar Era: Gregorian Christian Era, years < 0, LongFormat"
+#~| msgid "Before Christ"
+#~ msgctxt "color"
+#~ msgid "forest"
+#~ msgstr "біздің заманға дейін"
+
+#, fuzzy
+#~| msgctxt "Coptic month 1 - KLocale::ShortName"
+#~| msgid "Tho"
+#~ msgctxt "color"
+#~ msgid "hot"
+#~ msgstr "Тот"
+
+#, fuzzy
+#~| msgctxt "Coptic weekday 6 - KLocale::ShortName"
+#~| msgid "Psa"
+#~ msgctxt "color"
+#~ msgid "sea"
+#~ msgstr "Пса"
+
+#, fuzzy
+#~| msgctxt "Coptic weekday 7 - KLocale::ShortName"
+#~| msgid "Tky"
+#~ msgctxt "color"
+#~ msgid "sky"
+#~ msgstr "Тки"
+
+#~ msgctxt "@item Calendar system"
+#~ msgid "Gregorian (Proleptic)"
+#~ msgstr "Григориан (қабылданғаннан бұрын)"
+
+#~ msgctxt "Ethiopian month 1 - ShortNamePossessive"
+#~ msgid "of Mes"
+#~ msgstr "Мес"
+
+#~ msgctxt "Ethiopian month 5 - LongNamePossessive"
+#~ msgid "of Ter"
+#~ msgstr "Тер"
+
+#~ msgctxt "Ethiopian month 1 - ShortName"
+#~ msgid "Mes"
+#~ msgstr "Мес"
+
+#~ msgctxt "Ethiopian month 5 - LongName"
+#~ msgid "Ter"
+#~ msgstr "Тер"
+
+#~ msgctxt "Ethiopian weekday 4 - ShortDayName"
+#~ msgid "Ham"
+#~ msgstr "Хам"
+
+#~ msgctxt "Ethiopian weekday 5 - ShortDayName"
+#~ msgid "Arb"
+#~ msgstr "Арб"
+
+#~ msgctxt "Ethiopian weekday 3 - LongDayName"
+#~ msgid "Rob"
+#~ msgstr "Роб"
+
+#~ msgctxt "Ethiopian weekday 5 - LongDayName"
+#~ msgid "Arb"
+#~ msgstr "Арб"
+
+#~ msgctxt "of May long"
+#~ msgid "of May"
+#~ msgstr "Мамыр"
+
+#~ msgctxt "May long"
+#~ msgid "May"
+#~ msgstr "Мамыр"
+
+#~ msgid "R. Thaani"
+#~ msgstr "Рабиғул ахир"
+
+#~ msgid "J. Thaani"
+#~ msgstr "Жумада ахир"
+
+#~ msgid "Hijjah"
+#~ msgstr "Зулқижа"
+
+#~ msgctxt "of Tir long"
+#~ msgid "of Tir"
+#~ msgstr "Тир"
+
+#~ msgctxt "of Dei long"
+#~ msgid "of Dei"
+#~ msgstr "Дәй"
+
+#~ msgctxt "Tir long"
+#~ msgid "Tir"
+#~ msgstr "Тир"
+
+#~ msgctxt "Dei long"
+#~ msgid "Dei"
+#~ msgstr "Дәй"
+
+#~ msgctxt "Shanbe short"
+#~ msgid "shn"
+#~ msgstr "сн"

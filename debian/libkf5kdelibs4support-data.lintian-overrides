@@ -1,1 +1,2 @@
-libkf5kdelibs4support-data: extra-license-file usr/share/kf5/locale/currency/bsd.desktop
+# it's a currency definition: Bahamian dollar
+libkf5kdelibs4support-data: extra-license-file [usr/share/kf5/locale/currency/bsd.desktop]

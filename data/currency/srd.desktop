@@ -4,8 +4,8 @@ CurrencyCodeIsoNumeric3=968
 #Context for Name: Adjectival Country Name and Currency Name
 Name=Surinamese Dollar
 Name[ar]=الدولار السورينامي
-Name[ast]=Dólar surinamés
 Name[az]=Surinam Dolları
+Name[bg]=Суринамски долар
 Name[bs]=surinamski dolar
 Name[ca]=Dòlar de Surinam
 Name[ca@valencia]=Dòlar de Surinam
@@ -26,6 +26,7 @@ Name[ia]=Dollar de Suriname
 Name[id]=Dollar Suriname
 Name[is]=Súrínamdollari
 Name[it]=Dollaro surinamese
+Name[ka]=სურინამური დოლარი
 Name[ko]=수리남 달러
 Name[lt]=Surinamo doleris
 Name[mr]=सुरीनाम डॉलर

@@ -1,5 +1,4 @@
 usr/include/KF5/KDELibs4Support/
-usr/include/KF5/kdelibs4support_version.h
 usr/lib/*/cmake/KDELibs4/
 usr/lib/*/cmake/KF5KDE4Support/
 usr/lib/*/cmake/KF5KDELibs4Support/

@@ -1,8 +1,8 @@
 [KCM Locale]
 Name=South Sudan
 Name[ar]=جنوب السودان
-Name[ast]=Sudán del Sur
 Name[az]=Cənubi Sudan 
+Name[bg]=Южен судан
 Name[bs]=Južni Sudan
 Name[ca]=Sudan del Sud
 Name[ca@valencia]=Sudan del Sud
@@ -23,6 +23,7 @@ Name[ia]=Sudan del Sud
 Name[id]=Sudan Selatan
 Name[is]=Suður-Súdan
 Name[it]=Sudan del Sud
+Name[ka]=სამხრეთ სუდანი
 Name[ko]=남수단
 Name[lt]=Pietų Sudanas
 Name[lv]=Dienvidsudāna
@@ -35,6 +36,7 @@ Name[pa]=ਦੱਖਣੀ ਸੂਡਾਨ
 Name[pl]=Południowy Sudan
 Name[pt]=Sudão do Sul
 Name[pt_BR]=Sudão do Sul
+Name[ro]=Sudanul de Sud
 Name[ru]=Южный Судан
 Name[sk]=Južný Sudán
 Name[sl]=Južni Sudan

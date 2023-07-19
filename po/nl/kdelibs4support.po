@@ -1,13 +1,13 @@
 # Copyright (C) YEAR This_file_is_part_of_KDE
 # This file is distributed under the same license as the PACKAGE package.
 #
-# Freek de Kruijf <freekdekruijf@kde.nl>, 2014, 2015, 2016, 2021.
+# Freek de Kruijf <freekdekruijf@kde.nl>, 2014, 2015, 2016, 2021, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-27 00:14+0000\n"
-"PO-Revision-Date: 2021-07-09 10:36+0200\n"
+"POT-Creation-Date: 2023-01-14 00:53+0000\n"
+"PO-Revision-Date: 2023-01-26 14:29+0100\n"
 "Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 21.04.2\n"
+"X-Generator: Lokalize 22.12.1\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -13493,7 +13493,7 @@ msgstr "Gegevens die getoond moeten worden selecteren:"
 #, kde-format
 msgctxt "@action:button"
 msgid "Configure..."
-msgstr "Instellen..."
+msgstr "Configureren..."
 
 #: kio/kmetaprops.cpp:133
 #, kde-format
@@ -13939,12 +13939,12 @@ msgstr "Afbeelding ophalen"
 msgid "OCR Image"
 msgstr "OCR-afbeelding"
 
-#: kio/netaccess.cpp:103
+#: kio/netaccess.cpp:102
 #, kde-format
 msgid "File '%1' is not readable"
 msgstr "Bestand '%1' is niet leesbaar"
 
-#: kio/netaccess.cpp:437
+#: kio/netaccess.cpp:435
 #, kde-format
 msgid "ERROR: Unknown protocol '%1'"
 msgstr "Fout: Onbekend protocol '%1'"
@@ -14471,3 +14471,212 @@ msgstr "Het certificaat is ongeldig."
 #, kde-format
 msgid "GMT"
 msgstr "GMT"
+
+#~ msgid "Test Service for Network Status kded module"
+#~ msgstr "kded-module voor testservice voor netwerkstatus"
+
+#~ msgid "knetworkstatustestservice"
+#~ msgstr "knetworkstatustestservice"
+
+#~ msgid "(C) 2007 Will Stephenson"
+#~ msgstr "(C) 2007 Will Stephenson"
+
+#~ msgid "Will Stephenson"
+#~ msgstr "Will Stephenson"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:11pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "size:x-large; font-weight:600;\">Service for KDE 4 Offline Mode</span></"
+#~ "p></body></html>"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:11pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "size:x-large; font-weight:600;\">Service voor KDE 4 modus offline</span></"
+#~ "p></body></html>"
+
+#~ msgid "Status:"
+#~ msgstr "Status:"
+
+#~ msgid "STATUS"
+#~ msgstr "STATUS"
+
+#~ msgid "Change to:"
+#~ msgstr "Wijzigen in:"
+
+#~ msgid "Unconnected"
+#~ msgstr "Niet verbonden"
+
+#~ msgid "Disconnecting"
+#~ msgstr "Verbinding wordt verbroken..."
+
+#~ msgid "Connecting"
+#~ msgstr "Bezig met verbinden"
+
+#~ msgid "Connected"
+#~ msgstr "Verbonden"
+
+#~ msgid "Perform Change"
+#~ msgstr "Wijziging uitvoeren"
+
+#~ msgctxt "color"
+#~ msgid "alice"
+#~ msgstr "alice"
+
+#~ msgctxt "color"
+#~ msgid "antique"
+#~ msgstr "antique"
+
+#~ msgctxt "color"
+#~ msgid "blanched"
+#~ msgstr "gebleekt"
+
+#~ msgctxt "color"
+#~ msgid "cadet"
+#~ msgstr "cadet"
+
+#~ msgctxt "color"
+#~ msgid "cornflower"
+#~ msgstr "cornflower"
+
+#~ msgctxt "color"
+#~ msgid "dark"
+#~ msgstr "donker"
+
+#~ msgctxt "color"
+#~ msgid "deep"
+#~ msgstr "diep"
+
+#~ msgctxt "color"
+#~ msgid "dim"
+#~ msgstr "dim"
+
+#~ msgctxt "color"
+#~ msgid "dodger"
+#~ msgstr "dodger"
+
+#~ msgctxt "color"
+#~ msgid "floral"
+#~ msgstr "floral"
+
+#~ msgctxt "color"
+#~ msgid "forest"
+#~ msgstr "forest"
+
+#~ msgctxt "color"
+#~ msgid "ghost"
+#~ msgstr "spook"
+
+#~ msgctxt "color"
+#~ msgid "hot"
+#~ msgstr "hot"
+
+#~ msgctxt "color"
+#~ msgid "indian"
+#~ msgstr "indian"
+
+#~ msgctxt "color"
+#~ msgid "lawn"
+#~ msgstr "grasgroen"
+
+#~ msgctxt "color"
+#~ msgid "lemon"
+#~ msgstr "citroen"
+
+#~ msgctxt "color"
+#~ msgid "light"
+#~ msgstr "licht"
+
+#~ msgctxt "color"
+#~ msgid "lime"
+#~ msgstr "felgroen"
+
+#~ msgctxt "color"
+#~ msgid "medium"
+#~ msgstr "medium"
+
+#~ msgctxt "color"
+#~ msgid "midnight"
+#~ msgstr "middernacht"
+
+#~ msgctxt "color"
+#~ msgid "mint"
+#~ msgstr "mint"
+
+#~ msgctxt "color"
+#~ msgid "misty"
+#~ msgstr "nevelig"
+
+#~ msgctxt "color"
+#~ msgid "navajo"
+#~ msgstr "navajo"
+
+#~ msgctxt "color"
+#~ msgid "old"
+#~ msgstr "old"
+
+#~ msgctxt "color"
+#~ msgid "olive"
+#~ msgstr "olijf"
+
+#~ msgctxt "color"
+#~ msgid "pale"
+#~ msgstr "bleek"
+
+#~ msgctxt "color"
+#~ msgid "papaya"
+#~ msgstr "papaya"
+
+#~ msgctxt "color"
+#~ msgid "peach"
+#~ msgstr "perzik"
+
+#~ msgctxt "color"
+#~ msgid "powder"
+#~ msgstr "poeder"
+
+#~ msgctxt "color"
+#~ msgid "rosy"
+#~ msgstr "rozebruin"
+
+#~ msgctxt "color"
+#~ msgid "royal"
+#~ msgstr "koninklijkblauw"
+
+#~ msgctxt "color"
+#~ msgid "saddle"
+#~ msgstr "zadelbruin"
+
+#~ msgctxt "color"
+#~ msgid "sandy"
+#~ msgstr "zandbruin"
+
+#~ msgctxt "color"
+#~ msgid "sea"
+#~ msgstr "zeeblauw"
+
+#~ msgctxt "color"
+#~ msgid "sky"
+#~ msgstr "sky"
+
+#~ msgctxt "color"
+#~ msgid "slate"
+#~ msgstr "leisteen"
+
+#~ msgctxt "color"
+#~ msgid "spring"
+#~ msgstr "voorjaar"
+
+#~ msgctxt "color"
+#~ msgid "steel"
+#~ msgstr "staalblauw"

@@ -1,8 +1,8 @@
 [KCM Locale]
 Name=America, South
 Name[ar]=جنوب أمريكا
-Name[ast]=América meridional
 Name[az]=Cənubi Amerika
+Name[bg]=Америка, южна
 Name[bs]=Amerika, južna
 Name[ca]=Amèrica del Sud
 Name[ca@valencia]=Amèrica del Sud
@@ -37,6 +37,7 @@ Name[pa]=ਅਮਰੀਕਾ, ਦੱਖਣੀ
 Name[pl]=Ameryka Południowa
 Name[pt]=América do Sul
 Name[pt_BR]=América do Sul
+Name[ro]=America, sud
 Name[ru]=Южная Америка
 Name[se]=Lulli-Amerihká
 Name[sk]=Južná Amerika

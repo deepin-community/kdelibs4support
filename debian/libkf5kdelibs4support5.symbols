@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 5.78.0 amd64 arm64 armel armhf hurd-i386 i386 mips64el mipsel powerpc ppc64 ppc64el riscv64 s390x x32
+# SymbolsHelper-Confirmed: 5.101.0 amd64 arm64 armel armhf hppa i386 mips64el mipsel powerpc ppc64 ppc64el riscv64 s390x x32
 libKF5KDELibs4Support.so.5 libkf5kdelibs4support5 #MINVER#
 * Build-Depends-Package: libkf5kdelibs4support-dev
  _Z12kDebugStream9QtMsgTypeiPKciS1_@Base 4.96.0
@@ -286,9 +286,6 @@ libKF5KDELibs4Support.so.5 libkf5kdelibs4support5 #MINVER#
  _ZN11KFontDialogD0Ev@Base 4.96.0
  _ZN11KFontDialogD1Ev@Base 4.96.0
  _ZN11KFontDialogD2Ev@Base 4.96.0
- (optional=gccinternal|arch=!armel !armhf)_ZN11KIconEngineD0Ev@Base 4.96.0
- (optional=gccinternal|arch=!armel !armhf)_ZN11KIconEngineD1Ev@Base 4.96.0
- (optional=gccinternal|arch=!armel !armhf)_ZN11KIconEngineD2Ev@Base 4.96.0
  _ZN11KIntSpinBox11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.96.0
  _ZN11KIntSpinBox11qt_metacastEPKc@Base 4.96.0
  _ZN11KIntSpinBox12setEditFocusEb@Base 4.96.0
@@ -2762,7 +2759,7 @@ libKF5KDELibs4Support.so.5 libkf5kdelibs4support5 #MINVER#
  _ZNK12KColorDialog12defaultColorEv@Base 4.96.0
  _ZNK12KColorDialog21isAlphaChannelEnabledEv@Base 4.96.0
  _ZNK12KColorDialog5colorEv@Base 4.96.0
- (optional=templinst)_ZNK12KConfigGroup9readEntryI10QByteArrayEET_PKcRKS2_@Base 4.100.0
+ (optional=templinst|arch=!amd64 !arm64 !x32)_ZNK12KConfigGroup9readEntryI10QByteArrayEET_PKcRKS2_@Base 5.101.0
  (optional=templinst)_ZNK12KConfigGroup9readEntryI5QDateEET_PKcRKS2_@Base 4.100.0
  (optional=templinst|arch=amd64 arm64 hppa x32)_ZNK12KConfigGroup9readEntryI5QFontEET_PKcRKS2_@Base 5.1.0
  (optional=templinst|arch=!alpha !i386 !kfreebsd-i386 !hurd-i386 !mips !mipsel !ppc64 !s390x)_ZNK12KConfigGroup9readEntryI5QSizeEET_PKcRKS2_@Base 4.100.0
@@ -3705,7 +3702,6 @@ libKF5KDELibs4Support.so.5 libkf5kdelibs4support5 #MINVER#
  _ZTI11KDateWidget@Base 4.96.0
  _ZTI11KFileDialog@Base 4.96.0
  _ZTI11KFontDialog@Base 4.96.0
- (optional=gccinternal|arch=!armel !armhf)_ZTI11KIconEngine@Base 4.96.0
  _ZTI11KIntSpinBox@Base 4.96.0
  _ZTI11KListWidget@Base 4.96.0
  _ZTI11KPushButton@Base 4.96.0
@@ -3827,7 +3823,6 @@ libKF5KDELibs4Support.so.5 libkf5kdelibs4support5 #MINVER#
  _ZTS11KDateWidget@Base 4.96.0
  _ZTS11KFileDialog@Base 4.96.0
  _ZTS11KFontDialog@Base 4.96.0
- (optional=gccinternal|arch=!armel !armhf)_ZTS11KIconEngine@Base 4.96.0
  _ZTS11KIntSpinBox@Base 4.96.0
  _ZTS11KListWidget@Base 4.96.0
  _ZTS11KPushButton@Base 4.96.0
@@ -3956,7 +3951,6 @@ libKF5KDELibs4Support.so.5 libkf5kdelibs4support5 #MINVER#
  _ZTV11KDateWidget@Base 4.96.0
  _ZTV11KFileDialog@Base 4.96.0
  _ZTV11KFontDialog@Base 4.96.0
- (optional=gccinternal|arch=!armel !armhf)_ZTV11KIconEngine@Base 4.96.0
  _ZTV11KIntSpinBox@Base 4.96.0
  _ZTV11KListWidget@Base 4.96.0
  _ZTV11KPushButton@Base 4.96.0

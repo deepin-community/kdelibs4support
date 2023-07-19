@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-27 00:14+0000\n"
+"POT-Creation-Date: 2023-01-14 00:53+0000\n"
 "PO-Revision-Date: 2021-10-11 12:11+0530\n"
 "Last-Translator: Raghavendra Kamath <raghu@raghukamath.com>\n"
 "Language-Team: kde-hindi\n"
@@ -14520,12 +14520,12 @@ msgstr "छवि प्राप्त करें"
 msgid "OCR Image"
 msgstr "ओसीआर छवि"
 
-#: kio/netaccess.cpp:103
+#: kio/netaccess.cpp:102
 #, kde-format
 msgid "File '%1' is not readable"
 msgstr "फ़ाइल '%1' पढ़ने लायक नहीं है"
 
-#: kio/netaccess.cpp:437
+#: kio/netaccess.cpp:435
 #, kde-format
 msgid "ERROR: Unknown protocol '%1'"
 msgstr "त्रुटि: अज्ञात प्रोटोकॉल '%1'"
@@ -15028,3 +15028,95 @@ msgstr "प्रमाणपत्र अवैध है."
 #, kde-format
 msgid "GMT"
 msgstr "जीएमटी"
+
+#, fuzzy
+#~ msgctxt "color"
+#~ msgid "hot"
+#~ msgstr "मंगल"
+
+#, fuzzy
+#~ msgctxt "color"
+#~ msgid "sea"
+#~ msgstr "ठहरें"
+
+#, fuzzy
+#~ msgctxt "@item Calendar system"
+#~ msgid "Gregorian (Proleptic)"
+#~ msgstr "ग्रेगोरियन"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 1 - ShortNamePossessive"
+#~ msgid "of Mes"
+#~ msgstr "मेह का"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 5 - LongNamePossessive"
+#~ msgid "of Ter"
+#~ msgstr "तिर का"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 1 - ShortName"
+#~ msgid "Mes"
+#~ msgstr "हाँ"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 5 - LongName"
+#~ msgid "Ter"
+#~ msgstr "मंगल"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 4 - ShortDayName"
+#~ msgid "Ham"
+#~ msgstr "पूर्वाह्न"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 5 - ShortDayName"
+#~ msgid "Arb"
+#~ msgstr "बुध"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 3 - LongDayName"
+#~ msgid "Rob"
+#~ msgstr "कार्य"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 5 - LongDayName"
+#~ msgid "Arb"
+#~ msgstr "बुध"
+
+#~ msgctxt "of May long"
+#~ msgid "of May"
+#~ msgstr "मई का"
+
+#~ msgctxt "May long"
+#~ msgid "May"
+#~ msgstr "मई"
+
+#~ msgid "R. Thaani"
+#~ msgstr "र. उस्सानी"
+
+#~ msgid "J. Thaani"
+#~ msgstr "ज. उस्सानी "
+
+#~ msgid "Hijjah"
+#~ msgstr "जिल्हज"
+
+#~ msgctxt "of Tir long"
+#~ msgid "of Tir"
+#~ msgstr "तिर का"
+
+#~ msgctxt "of Dei long"
+#~ msgid "of Dei"
+#~ msgstr "देई का"
+
+#~ msgctxt "Tir long"
+#~ msgid "Tir"
+#~ msgstr "तिर"
+
+#~ msgctxt "Dei long"
+#~ msgid "Dei"
+#~ msgstr "देई"
+
+#~ msgctxt "Shanbe short"
+#~ msgid "shn"
+#~ msgstr "shn"

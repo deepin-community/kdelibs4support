@@ -4,8 +4,8 @@ CurrencyCodeIsoNumeric3=450
 #Context for Name: Adjectival Country Name and Currency Name
 Name=Malagasy Franc
 Name[ar]=الفرنك المدغشقري
-Name[ast]=Francu malgaxe
 Name[az]=Malaqas Frankı
+Name[bg]=Малагасийски франк
 Name[bs]=madagaskarski franak
 Name[ca]=Franc malgaix
 Name[ca@valencia]=Franc malgaix
@@ -26,6 +26,7 @@ Name[ia]=Franc de Madagascar
 Name[id]=Franc Malagasy
 Name[is]=Malagaskur franki
 Name[it]=Franco malgascio
+Name[ka]=მალაგასური ფრანკი
 Name[ko]=마다가스카르 프랑
 Name[lt]=Malagasių frankas
 Name[mr]=मलागासी फ्रांक

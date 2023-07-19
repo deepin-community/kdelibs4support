@@ -1,8 +1,8 @@
 [KCM Locale]
 Name=Albania
 Name[ar]=ألبانيا
-Name[ast]=Albania
 Name[az]=Albaniya
+Name[bg]=Албания
 Name[bs]=Albanija
 Name[ca]=Albània
 Name[ca@valencia]=Albània
@@ -37,6 +37,7 @@ Name[pa]=ਅਲਬਾਨੀਆ
 Name[pl]=Albania
 Name[pt]=Albânia
 Name[pt_BR]=Albânia
+Name[ro]=Albania
 Name[ru]=Албания
 Name[se]=Albánia
 Name[sk]=Albánsko

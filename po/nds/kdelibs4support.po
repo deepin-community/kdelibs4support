@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-27 00:14+0000\n"
+"POT-Creation-Date: 2023-01-14 00:53+0000\n"
 "PO-Revision-Date: 2014-09-18 16:37+0200\n"
 "Last-Translator: Sönke Dibbern <s_dibbern@web.de>\n"
 "Language-Team: Low Saxon <kde-i18n-nds@kde.org>\n"
@@ -14028,12 +14028,12 @@ msgstr "Bild halen"
 msgid "OCR Image"
 msgstr "OCR-Bild (Textraden)"
 
-#: kio/netaccess.cpp:103
+#: kio/netaccess.cpp:102
 #, kde-format
 msgid "File '%1' is not readable"
 msgstr "De Datei \"%1\" lett sik nich lesen"
 
-#: kio/netaccess.cpp:437
+#: kio/netaccess.cpp:435
 #, kde-format
 msgid "ERROR: Unknown protocol '%1'"
 msgstr "Fehler: Protokoll \"%1\" nich begäng"
@@ -14553,3 +14553,285 @@ msgstr "Dit Zertifikaat gellt nich."
 #, kde-format
 msgid "GMT"
 msgstr "GMT"
+
+#~ msgid "Test Service for Network Status kded module"
+#~ msgstr "Testdeenst för't Nettwarkstatus-KDED-Moduul"
+
+#~ msgid "knetworkstatustestservice"
+#~ msgstr "knetworkstatustestservice"
+
+#~ msgid "(C) 2007 Will Stephenson"
+#~ msgstr "(C) 2007 Will Stephenson"
+
+#~ msgid "Will Stephenson"
+#~ msgstr "Will Stephenson"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:11pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "size:x-large; font-weight:600;\">Service for KDE 4 Offline Mode</span></"
+#~ "p></body></html>"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:11pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "size:x-large; font-weight:600;\">Deenst för den KDE-4-Afkoppelbedrief</"
+#~ "span></p></body></html>"
+
+#~ msgid "Status:"
+#~ msgstr "Status:"
+
+#~ msgid "STATUS"
+#~ msgstr "Status"
+
+#~ msgid "Change to:"
+#~ msgstr "Ännern op:"
+
+#~ msgid "Unconnected"
+#~ msgstr "Nich tokoppelt"
+
+#~ msgid "Disconnecting"
+#~ msgstr "An't Afkoppeln"
+
+#~ msgid "Connecting"
+#~ msgstr "An't Tokoppeln"
+
+#~ msgid "Connected"
+#~ msgstr "Tokoppelt"
+
+#~ msgid "Perform Change"
+#~ msgstr "Ännern utföhren"
+
+#~ msgctxt "color"
+#~ msgid "alice"
+#~ msgstr "alice"
+
+#~ msgctxt "color"
+#~ msgid "antique"
+#~ msgstr "antik"
+
+#~ msgctxt "color"
+#~ msgid "blanched"
+#~ msgstr "bleek"
+
+#~ msgctxt "color"
+#~ msgid "cadet"
+#~ msgstr "blaaggries"
+
+#~ msgctxt "color"
+#~ msgid "cornflower"
+#~ msgstr "koornbloom"
+
+#~ msgctxt "color"
+#~ msgid "dark"
+#~ msgstr "düüster"
+
+#~ msgctxt "color"
+#~ msgid "deep"
+#~ msgstr "deep"
+
+#~ msgctxt "color"
+#~ msgid "dim"
+#~ msgstr "aftöönt"
+
+#~ msgctxt "color"
+#~ msgid "dodger"
+#~ msgstr "lichtblaag"
+
+#~ msgctxt "color"
+#~ msgid "floral"
+#~ msgstr "blöden"
+
+#~ msgctxt "color"
+#~ msgid "forest"
+#~ msgstr "woold"
+
+#~ msgctxt "color"
+#~ msgid "ghost"
+#~ msgstr "spökels"
+
+#~ msgctxt "color"
+#~ msgid "hot"
+#~ msgstr "warm"
+
+#~ msgctxt "color"
+#~ msgid "indian"
+#~ msgstr "indsch"
+
+#~ msgctxt "color"
+#~ msgid "lawn"
+#~ msgstr "gras"
+
+#~ msgctxt "color"
+#~ msgid "lemon"
+#~ msgstr "zitroon"
+
+#~ msgctxt "color"
+#~ msgid "light"
+#~ msgstr "hell"
+
+#~ msgctxt "color"
+#~ msgid "lime"
+#~ msgstr "limoon"
+
+#~ msgctxt "color"
+#~ msgid "medium"
+#~ msgstr "middel"
+
+#~ msgctxt "color"
+#~ msgid "midnight"
+#~ msgstr "mittnacht"
+
+#~ msgctxt "color"
+#~ msgid "mint"
+#~ msgstr "mint"
+
+#~ msgctxt "color"
+#~ msgid "misty"
+#~ msgstr "diesig"
+
+#~ msgctxt "color"
+#~ msgid "navajo"
+#~ msgstr "navajo"
+
+#~ msgctxt "color"
+#~ msgid "old"
+#~ msgstr "oolt"
+
+#~ msgctxt "color"
+#~ msgid "olive"
+#~ msgstr "oliv"
+
+#~ msgctxt "color"
+#~ msgid "pale"
+#~ msgstr "blass"
+
+#~ msgctxt "color"
+#~ msgid "papaya"
+#~ msgstr "papaja"
+
+#~ msgctxt "color"
+#~ msgid "peach"
+#~ msgstr "peersch"
+
+#~ msgctxt "color"
+#~ msgid "powder"
+#~ msgstr "puder"
+
+#~ msgctxt "color"
+#~ msgid "rosy"
+#~ msgstr "rosig"
+
+#~ msgctxt "color"
+#~ msgid "royal"
+#~ msgstr "royal"
+
+#~ msgctxt "color"
+#~ msgid "saddle"
+#~ msgstr "sattel"
+
+#~ msgctxt "color"
+#~ msgid "sandy"
+#~ msgstr "sand"
+
+#~ msgctxt "color"
+#~ msgid "sea"
+#~ msgstr "see"
+
+#~ msgctxt "color"
+#~ msgid "sky"
+#~ msgstr "heven"
+
+#~ msgctxt "color"
+#~ msgid "slate"
+#~ msgstr "schiefer"
+
+#~ msgctxt "color"
+#~ msgid "spring"
+#~ msgstr "vörjohr"
+
+#~ msgctxt "color"
+#~ msgid "steel"
+#~ msgstr "stahl"
+
+#~ msgctxt "@item Calendar system"
+#~ msgid "Gregorian (Proleptic)"
+#~ msgstr "Gregoriaansch (Proleptsch)"
+
+#~ msgctxt "Ethiopian month 1 - ShortNamePossessive"
+#~ msgid "of Mes"
+#~ msgstr "Ams"
+
+#~ msgctxt "Ethiopian month 5 - LongNamePossessive"
+#~ msgid "of Ter"
+#~ msgstr "Ter"
+
+#~ msgctxt "Ethiopian month 1 - ShortName"
+#~ msgid "Mes"
+#~ msgstr "Mäs"
+
+#~ msgctxt "Ethiopian month 5 - LongName"
+#~ msgid "Ter"
+#~ msgstr "Ter"
+
+#~ msgctxt "Ethiopian weekday 4 - ShortDayName"
+#~ msgid "Ham"
+#~ msgstr "Ham"
+
+#~ msgctxt "Ethiopian weekday 5 - ShortDayName"
+#~ msgid "Arb"
+#~ msgstr "Arb"
+
+#~ msgctxt "Ethiopian weekday 3 - LongDayName"
+#~ msgid "Rob"
+#~ msgstr "Rob"
+
+#~ msgctxt "Ethiopian weekday 5 - LongDayName"
+#~ msgid "Arb"
+#~ msgstr "Arb"
+
+#~ msgctxt "of May long"
+#~ msgid "of May"
+#~ msgstr "Mai"
+
+#~ msgctxt "May long"
+#~ msgid "May"
+#~ msgstr "Mai"
+
+#~ msgid "R. Thaani"
+#~ msgstr "R. Taani"
+
+#~ msgid "J. Thaani"
+#~ msgstr "D. Taani"
+
+#~ msgid "Hijjah"
+#~ msgstr "Hiddscha"
+
+#~ msgctxt "of Tir long"
+#~ msgid "of Tir"
+#~ msgstr "Tir"
+
+#~ msgctxt "of Dei long"
+#~ msgid "of Dei"
+#~ msgstr "Dei"
+
+#~ msgctxt "Tir long"
+#~ msgid "Tir"
+#~ msgstr "Tir"
+
+#~ msgctxt "Dei long"
+#~ msgid "Dei"
+#~ msgstr "Dei"
+
+#~ msgctxt "Shanbe short"
+#~ msgid "shn"
+#~ msgstr "Sbe"

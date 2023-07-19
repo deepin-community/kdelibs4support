@@ -4,8 +4,8 @@ CurrencyCodeIsoNumeric3=108
 #Context for Name: Adjectival Country Name and Currency Name
 Name=Burundian Franc
 Name[ar]=الفرنك البوروندي
-Name[ast]=Francu burundianu
 Name[az]=Burundi Frankı
+Name[bg]=Бурундийски франк
 Name[bs]=Rundi
 Name[ca]=Franc de Burundi
 Name[ca@valencia]=Franc de Burundi
@@ -27,6 +27,7 @@ Name[ia]=Franc de Burundi
 Name[id]=Franc Burundi
 Name[is]=Búrúndískur franki
 Name[it]=Franco del Burundi
+Name[ka]=ბურუნდიული ფრანკი
 Name[ko]=부룬디 프랑
 Name[lt]=Burundžio frankas
 Name[mr]=रून्डी फ्रांक

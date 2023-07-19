@@ -1,8 +1,8 @@
 [KCM Locale]
 Name=Lithuania
 Name[ar]=ليتوانيا
-Name[ast]=Lituania
 Name[az]=Litva
+Name[bg]=Литва
 Name[bs]=Litvanija
 Name[ca]=Lituània
 Name[ca@valencia]=Lituània
@@ -24,7 +24,7 @@ Name[ia]=Lituania
 Name[id]=Lithuania
 Name[is]=Litháen
 Name[it]=Lituania
-Name[ka]=ლიტვა
+Name[ka]=ლიეტუვა
 Name[ko]=리투아니아
 Name[lt]=Lietuva
 Name[lv]=Lietuva
@@ -37,6 +37,7 @@ Name[pa]=ਲੀਥੂਨੀਆ
 Name[pl]=Litwa
 Name[pt]=Lituânia
 Name[pt_BR]=Lituânia
+Name[ro]=Lituania
 Name[ru]=Литва
 Name[se]=Lietuva
 Name[sk]=Litva

@@ -4,8 +4,8 @@ CurrencyCodeIsoNumeric3=600
 #Context for Name: Adjectival Country Name and Currency Name
 Name=Paraguayan Guarani
 Name[ar]=الغواراني الباراغواي
-Name[ast]=Guaraní paraguayu
 Name[az]=Paraqvay Quaranı
+Name[bg]=Парагвайски гуарани
 Name[bs]=paragvajski guarani
 Name[ca]=Guaraní de Paraguai
 Name[ca@valencia]=Guaraní de Paraguai
@@ -26,6 +26,7 @@ Name[ia]=Guarany de Paraguay
 Name[id]=Guarani Paraguay
 Name[is]=Paragvæskt gvaraní
 Name[it]=Guaraní paraguaiano
+Name[ka]=პარაგვაული გუარანი
 Name[ko]=파라과이 과라니
 Name[lt]=Paragvajaus gvaranis
 Name[mr]=पराग्वे गुआरानी

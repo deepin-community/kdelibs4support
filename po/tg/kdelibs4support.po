@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4support\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-27 00:14+0000\n"
+"POT-Creation-Date: 2023-01-14 00:53+0000\n"
 "PO-Revision-Date: 2020-09-03 15:43+0500\n"
 "Last-Translator: Victor Ibragimov <victor.ibragimov@gmail.com>\n"
 "Language-Team: English <kde-i18n-doc@kde.org>\n"
@@ -14076,12 +14076,12 @@ msgstr "Нуктасанҷи тасвир"
 msgid "OCR Image"
 msgstr "Ташхиси тасвир (OCR)"
 
-#: kio/netaccess.cpp:103
+#: kio/netaccess.cpp:102
 #, kde-format
 msgid "File '%1' is not readable"
 msgstr "Файли '%1' хонда намешавад"
 
-#: kio/netaccess.cpp:437
+#: kio/netaccess.cpp:435
 #, kde-format
 msgid "ERROR: Unknown protocol '%1'"
 msgstr "ХАТО: Протоколи '%1' номаълум аст"
@@ -14607,3 +14607,95 @@ msgstr "Гувоҳинома беэътибор аст."
 #, kde-format
 msgid "GMT"
 msgstr "GMT"
+
+#, fuzzy
+#~ msgctxt "color"
+#~ msgid "hot"
+#~ msgstr "Thl"
+
+#, fuzzy
+#~ msgctxt "color"
+#~ msgid "sea"
+#~ msgstr "Таваққуф"
+
+#, fuzzy
+#~ msgctxt "@item Calendar system"
+#~ msgid "Gregorian (Proleptic)"
+#~ msgstr "Гурҷӣ"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 1 - ShortNamePossessive"
+#~ msgid "of Mes"
+#~ msgstr "Мех"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 5 - LongNamePossessive"
+#~ msgid "of Ter"
+#~ msgstr "Тир"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 1 - ShortName"
+#~ msgid "Mes"
+#~ msgstr "Ҳа"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 5 - LongName"
+#~ msgid "Ter"
+#~ msgstr "Сшб"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 4 - ShortDayName"
+#~ msgid "Ham"
+#~ msgstr "am"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 5 - ShortDayName"
+#~ msgid "Arb"
+#~ msgstr "Арабӣ"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 3 - LongDayName"
+#~ msgid "Rob"
+#~ msgstr "Кор"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 5 - LongDayName"
+#~ msgid "Arb"
+#~ msgstr "Арабӣ"
+
+#~ msgctxt "of May long"
+#~ msgid "of May"
+#~ msgstr "майи"
+
+#~ msgctxt "May long"
+#~ msgid "May"
+#~ msgstr "Май"
+
+#~ msgid "R. Thaani"
+#~ msgstr "Раби-ул-ахир"
+
+#~ msgid "J. Thaani"
+#~ msgstr "Ҷумад-ул-ахир"
+
+#~ msgid "Hijjah"
+#~ msgstr "Зул-хиҷа"
+
+#~ msgctxt "of Tir long"
+#~ msgid "of Tir"
+#~ msgstr "Тир"
+
+#~ msgctxt "of Dei long"
+#~ msgid "of Dei"
+#~ msgstr "Дай"
+
+#~ msgctxt "Tir long"
+#~ msgid "Tir"
+#~ msgstr "Тир"
+
+#~ msgctxt "Dei long"
+#~ msgid "Dei"
+#~ msgstr "Дай"
+
+#~ msgctxt "Shanbe short"
+#~ msgid "shn"
+#~ msgstr "Шин"

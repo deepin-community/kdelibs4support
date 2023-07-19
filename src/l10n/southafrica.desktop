@@ -1,8 +1,8 @@
 [KCM Locale]
 Name=Africa, Southern
 Name[ar]=جنوب إفريقيا
-Name[ast]=África meridional
 Name[az]=Cənubi Afrika 
+Name[bg]=Африка, южна
 Name[bs]=Afrika, južna
 Name[ca]=Àfrica del Sud
 Name[ca@valencia]=Àfrica del Sud
@@ -37,6 +37,7 @@ Name[pa]=ਅਫਰੀਕਾ, ਦੱਖਣੀ
 Name[pl]=Afryka Południowa
 Name[pt]=África, Sul
 Name[pt_BR]=Sul da África
+Name[ro]=Africa, sudică
 Name[ru]=Южная Африка
 Name[se]=Lulli-Afrihká
 Name[sk]=Južná Afrika

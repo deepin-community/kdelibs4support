@@ -226,7 +226,7 @@ if (NOT KIO_NO_NEPOMUK)
     )
 endif ()
 
-if (X11_FOUND)
+if (HAVE_X11)
    set(libkdelibs4support_SRCS ${libkdelibs4support_SRCS} kdeui/kxerrorhandler.cpp )
    list(APPEND libkdelibs4support_OPTIONAL_LIBS Qt5::X11Extras ${X11_LIBRARIES})
 endif ()
@@ -312,7 +312,7 @@ set(platformLinkLibraries)
 if (APPLE)
     set(platformLinkLibraries "-framework CoreFoundation -framework Carbon -lresolv")
 endif()
-if (X11_FOUND)
+if (HAVE_X11)
     set(platformLinkLibraries ${XCB_XCB_LIBRARY})
 endif()
 
@@ -337,6 +337,7 @@ PUBLIC
    KF5::UnitConversion
    KF5::TextWidgets
    KF5::Parts
+   KF5::Auth
 PRIVATE
    KF5::UnitConversion
    KF5::GlobalAccel
@@ -544,7 +545,7 @@ install( FILES ${CMAKE_CURRENT_BINARY_DIR}/all_languages DESTINATION ${KDE_INSTA
 install( FILES kdeui/40.colors kdeui/Oxygen.colors kdeui/Web.colors kdeui/Royal.colors kdeui/Rainbow.colors
          DESTINATION ${KDE_INSTALL_CONFDIR}/colors)
 
-if (NOT X11_FOUND)
+if (NOT HAVE_X11)
     # install our copy of the rgb.txt named colors list on systems without X11
     install(FILES kdeui/rgb.txt DESTINATION ${KDE_INSTALL_DATADIR_KF5}/kdeui)
 endif ()
@@ -594,12 +595,12 @@ if (UNIX)
    install(PROGRAMS kio/fileshareset DESTINATION ${KDE_INSTALL_LIBEXECDIR_KF5} )
 
    install(CODE "
-     set(FILESHARESET_PATH \"\$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/${KDE_INSTALL_LIBEXECDIR_KF5}/fileshareset\")
+     set(FILESHARESET_PATH \"\$ENV{DESTDIR}/${KDE_INSTALL_FULL_LIBEXECDIR_KF5}/fileshareset\")
         EXECUTE_PROCESS(COMMAND sh -c \"chown 0 '\${FILESHARESET_PATH}' && chmod u+s '\${FILESHARESET_PATH}'\")
    ")
 
    # write a cmake script file which creates the symlink
-   file(WRITE ${CMAKE_CURRENT_BINARY_DIR}/make_fileshare_symlink.cmake "exec_program(${CMAKE_COMMAND} ARGS -E create_symlink fileshareset \"\$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/${KDE_INSTALL_LIBEXECDIR_KF5}/filesharelist\")\n")
+   file(WRITE ${CMAKE_CURRENT_BINARY_DIR}/make_fileshare_symlink.cmake "exec_program(${CMAKE_COMMAND} ARGS -E create_symlink fileshareset \"\$ENV{DESTDIR}/${KDE_INSTALL_FULL_LIBEXECDIR_KF5}/filesharelist\")\n")
    # and add it as post-install script to any of the installed targets, so it will be executed during "make install"
    set_target_properties(KF5KDELibs4Support PROPERTIES POST_INSTALL_SCRIPT ${CMAKE_CURRENT_BINARY_DIR}/make_fileshare_symlink.cmake)
 endif ()
@@ -644,7 +645,7 @@ if(NOT WIN32)
     install(FILES ${CMAKE_CURRENT_BINARY_DIR}/${_custom_dtd_kdex}
         DESTINATION ${KDE_INSTALL_DATADIR_KF5}/kdoctools/customization/dtd )
 else()
-    get_filename_component(NORMALIZED_DTD_INSTALL_PATH "${CMAKE_INSTALL_PREFIX}/${KDE_INSTALL_DATADIR_KF5}/kdoctools/customization/dtd" ABSOLUTE)
+    set(NORMALIZED_DTD_INSTALL_PATH "${KDE_INSTALL_FULL_DATADIR_KF5}/kdoctools/customization/dtd")
     # file(RELATIVE_PATH ...) returns wrong values for paths containing /../ (it doesn't normalize the path)
     # To work around this we make sure the variable passed has all /../ elements
     # removed using get_filename_component(... ABSOLUTE)

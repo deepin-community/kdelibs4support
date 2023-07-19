@@ -1,8 +1,8 @@
 [KCM Locale]
 Name=Iceland
 Name[ar]=آيسلندا
-Name[ast]=Islandia
 Name[az]=İslandiya
+Name[bg]=Исландия
 Name[bs]=Island
 Name[ca]=Islàndia
 Name[ca@valencia]=Islàndia
@@ -37,6 +37,7 @@ Name[pa]=ਆਈਸਲੈਂਡ
 Name[pl]=Islandia
 Name[pt]=Islândia
 Name[pt_BR]=Islândia
+Name[ro]=Islanda
 Name[ru]=Исландия
 Name[se]=Islánda
 Name[sk]=Island

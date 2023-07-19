@@ -1,8 +1,8 @@
 [KCM Locale]
 Name=Hungary
 Name[ar]=المجر
-Name[ast]=Hungría
 Name[az]=Macarıstan
+Name[bg]=Унгария
 Name[bs]=Mađarska
 Name[ca]=Hongria
 Name[ca@valencia]=Hongria
@@ -37,6 +37,7 @@ Name[pa]=ਹੰਗਰੀ
 Name[pl]=Węgry
 Name[pt]=Hungria
 Name[pt_BR]=Hungria
+Name[ro]=Ungaria
 Name[ru]=Венгрия
 Name[se]=Ungár
 Name[sk]=Maďarsko

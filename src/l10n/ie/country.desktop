@@ -1,8 +1,8 @@
 [KCM Locale]
 Name=Ireland
 Name[ar]=أيرلندا
-Name[ast]=Irlanda
 Name[az]=İrlandiya
+Name[bg]=Ирландия
 Name[bs]=Irska
 Name[ca]=Irlanda
 Name[ca@valencia]=Irlanda
@@ -37,6 +37,7 @@ Name[pa]=ਆਈਰਲੈਂਡ
 Name[pl]=Irlandia
 Name[pt]=Irlanda
 Name[pt_BR]=Irlanda
+Name[ro]=Irlanda
 Name[ru]=Ирландия
 Name[se]=Irlánda
 Name[sk]=Írsko
@@ -51,7 +52,7 @@ Name[tr]=İrlanda
 Name[uk]=Ірландія
 Name[vi]=Ai-len
 Name[x-test]=xxIrelandxx
-Name[zh_CN]=伊朗
+Name[zh_CN]=爱尔兰
 Name[zh_TW]=愛爾蘭
 Region=westeurope
 Languages=en_GB,ga

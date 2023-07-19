@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-27 00:14+0000\n"
+"POT-Creation-Date: 2023-01-14 00:53+0000\n"
 "PO-Revision-Date: 2021-07-10 17:23+0200\n"
 "Last-Translator: Eloy Cuadra <ecuadra@eloihr.net>\n"
 "Language-Team: Spanish <kde-l10n-es@kde.org>\n"
@@ -13947,12 +13947,12 @@ msgstr "Obtener imagen"
 msgid "OCR Image"
 msgstr "Imagen OCR"
 
-#: kio/netaccess.cpp:103
+#: kio/netaccess.cpp:102
 #, kde-format
 msgid "File '%1' is not readable"
 msgstr "El archivo «%1» no se puede leer"
 
-#: kio/netaccess.cpp:437
+#: kio/netaccess.cpp:435
 #, kde-format
 msgid "ERROR: Unknown protocol '%1'"
 msgstr "Error: Protocolo «%1» desconocido"
@@ -14480,3 +14480,212 @@ msgstr "El certificado no es válido."
 #, kde-format
 msgid "GMT"
 msgstr "GMT"
+
+#~ msgid "Test Service for Network Status kded module"
+#~ msgstr "Servicio de pruebas para el módulo de estado de red kded"
+
+#~ msgid "knetworkstatustestservice"
+#~ msgstr "knetworkstatustestservice"
+
+#~ msgid "(C) 2007 Will Stephenson"
+#~ msgstr "© 2007 Will Stephenson"
+
+#~ msgid "Will Stephenson"
+#~ msgstr "Will Stephenson"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:11pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "size:x-large; font-weight:600;\">Service for KDE 4 Offline Mode</span></"
+#~ "p></body></html>"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:11pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "size:x-large; font-weight:600;\">Servicio para el modo sin conexión de "
+#~ "KDE 4</span></p></body></html>"
+
+#~ msgid "Status:"
+#~ msgstr "Estado:"
+
+#~ msgid "STATUS"
+#~ msgstr "Estado"
+
+#~ msgid "Change to:"
+#~ msgstr "Cambiar a:"
+
+#~ msgid "Unconnected"
+#~ msgstr "No conectado"
+
+#~ msgid "Disconnecting"
+#~ msgstr "Desconectando"
+
+#~ msgid "Connecting"
+#~ msgstr "Conectando"
+
+#~ msgid "Connected"
+#~ msgstr "Conectado"
+
+#~ msgid "Perform Change"
+#~ msgstr "Realizar el cambio"
+
+#~ msgctxt "color"
+#~ msgid "alice"
+#~ msgstr "alicia"
+
+#~ msgctxt "color"
+#~ msgid "antique"
+#~ msgstr "antiguo"
+
+#~ msgctxt "color"
+#~ msgid "blanched"
+#~ msgstr "pálido"
+
+#~ msgctxt "color"
+#~ msgid "cadet"
+#~ msgstr "cadete"
+
+#~ msgctxt "color"
+#~ msgid "cornflower"
+#~ msgstr "aciano"
+
+#~ msgctxt "color"
+#~ msgid "dark"
+#~ msgstr "oscuro"
+
+#~ msgctxt "color"
+#~ msgid "deep"
+#~ msgstr "profundo"
+
+#~ msgctxt "color"
+#~ msgid "dim"
+#~ msgstr "débil"
+
+#~ msgctxt "color"
+#~ msgid "dodger"
+#~ msgstr "capota"
+
+#~ msgctxt "color"
+#~ msgid "floral"
+#~ msgstr "floral"
+
+#~ msgctxt "color"
+#~ msgid "forest"
+#~ msgstr "bosque"
+
+#~ msgctxt "color"
+#~ msgid "ghost"
+#~ msgstr "fantasma"
+
+#~ msgctxt "color"
+#~ msgid "hot"
+#~ msgstr "cálido"
+
+#~ msgctxt "color"
+#~ msgid "indian"
+#~ msgstr "indio"
+
+#~ msgctxt "color"
+#~ msgid "lawn"
+#~ msgstr "césped"
+
+#~ msgctxt "color"
+#~ msgid "lemon"
+#~ msgstr "limón"
+
+#~ msgctxt "color"
+#~ msgid "light"
+#~ msgstr "claro"
+
+#~ msgctxt "color"
+#~ msgid "lime"
+#~ msgstr "lima"
+
+#~ msgctxt "color"
+#~ msgid "medium"
+#~ msgstr "medio"
+
+#~ msgctxt "color"
+#~ msgid "midnight"
+#~ msgstr "medianoche"
+
+#~ msgctxt "color"
+#~ msgid "mint"
+#~ msgstr "menta"
+
+#~ msgctxt "color"
+#~ msgid "misty"
+#~ msgstr "húmedo"
+
+#~ msgctxt "color"
+#~ msgid "navajo"
+#~ msgstr "navajo"
+
+#~ msgctxt "color"
+#~ msgid "old"
+#~ msgstr "antiguo"
+
+#~ msgctxt "color"
+#~ msgid "olive"
+#~ msgstr "oliva"
+
+#~ msgctxt "color"
+#~ msgid "pale"
+#~ msgstr "pálido"
+
+#~ msgctxt "color"
+#~ msgid "papaya"
+#~ msgstr "papaya"
+
+#~ msgctxt "color"
+#~ msgid "peach"
+#~ msgstr "melocotón"
+
+#~ msgctxt "color"
+#~ msgid "powder"
+#~ msgstr "polvo"
+
+#~ msgctxt "color"
+#~ msgid "rosy"
+#~ msgstr "rosáceo"
+
+#~ msgctxt "color"
+#~ msgid "royal"
+#~ msgstr "real"
+
+#~ msgctxt "color"
+#~ msgid "saddle"
+#~ msgstr "montura"
+
+#~ msgctxt "color"
+#~ msgid "sandy"
+#~ msgstr "arenoso"
+
+#~ msgctxt "color"
+#~ msgid "sea"
+#~ msgstr "mar"
+
+#~ msgctxt "color"
+#~ msgid "sky"
+#~ msgstr "cielo"
+
+#~ msgctxt "color"
+#~ msgid "slate"
+#~ msgstr "pizarra"
+
+#~ msgctxt "color"
+#~ msgid "spring"
+#~ msgstr "primavera"
+
+#~ msgctxt "color"
+#~ msgid "steel"
+#~ msgstr "acero"

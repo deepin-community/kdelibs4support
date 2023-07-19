@@ -4,8 +4,8 @@ CurrencyCodeIsoNumeric3=
 #Context for Name: Adjectival Country Name and Currency Name
 Name=Mali Franc
 Name[ar]=الفرنك المالي
-Name[ast]=Francu malianu
 Name[az]=Mali Frankı
+Name[bg]=Мали франк
 Name[bs]=malijski franak
 Name[ca]=Franc de Mali
 Name[ca@valencia]=Franc de Mali
@@ -26,6 +26,7 @@ Name[ia]=Franc de Mali
 Name[id]=Franc Mali
 Name[is]=Malískur franki
 Name[it]=Franco maliano
+Name[ka]=მალის ფრანკი
 Name[ko]=말리 프랑
 Name[lt]=Malio frankas
 Name[mr]=मालि फ्रांक

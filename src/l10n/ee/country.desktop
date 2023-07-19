@@ -1,8 +1,8 @@
 [KCM Locale]
 Name=Estonia
 Name[ar]=إستونيا
-Name[ast]=Estonia
 Name[az]=Estoniya
+Name[bg]=Естония
 Name[bs]=Estonija
 Name[ca]=Estònia
 Name[ca@valencia]=Estònia
@@ -37,6 +37,7 @@ Name[pa]=ਈਸਟੋਨੀਆ
 Name[pl]=Estonia
 Name[pt]=Estónia
 Name[pt_BR]=Estônia
+Name[ro]=Estonia
 Name[ru]=Эстония
 Name[se]=Estteeana
 Name[sk]=Estónsko

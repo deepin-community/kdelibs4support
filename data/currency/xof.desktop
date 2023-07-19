@@ -3,7 +3,7 @@ CurrencyCodeIsoAlpha3=XOF
 CurrencyCodeIsoNumeric3=952
 #Context for Name: Adjectival Country Name and Currency Name
 Name=West African CFA Franc
-Name[ast]=Francu CFA d'África occidental
+Name[ar]=فرنك غرب أفريقي
 Name[az]=Qərbi Afrika (KFA) Frankı
 Name[bg]=Западноафрикански CFA франк
 Name[bn]=পশ্চিম আফ্রিকান CFA ফ্রাঙ্ক
@@ -36,6 +36,7 @@ Name[ia]=CFA Franc de Africa Occidental
 Name[id]=CFA Franc Afrika Barat
 Name[is]=Vestur-afrískur CFA franki
 Name[it]=Franco CFA dell'Africa occidentale
+Name[ka]=დასავლეთ აფრიკული CFA ფრანკი
 Name[kk]=Батыс Африка CFA франкі
 Name[km]=West African CFA Franc
 Name[kn]=ಪಶ್ಚಿಮ ಆಫ್ರಿಕನ್ CFA ಫ್ರಾಂಕ್

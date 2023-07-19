@@ -23,7 +23,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-27 00:14+0000\n"
+"POT-Creation-Date: 2023-01-14 00:53+0000\n"
 "PO-Revision-Date: 2021-12-29 21:08+0100\n"
 "Last-Translator: Xavier Besnard <xavier.besnard@neuf.fr>\n"
 "Language-Team: French <kde-francophone@kde.org>\n"
@@ -13987,12 +13987,12 @@ msgstr "Numériser l'image"
 msgid "OCR Image"
 msgstr "Image ROC"
 
-#: kio/netaccess.cpp:103
+#: kio/netaccess.cpp:102
 #, kde-format
 msgid "File '%1' is not readable"
 msgstr "Impossible de lire le fichier « %1 »"
 
-#: kio/netaccess.cpp:437
+#: kio/netaccess.cpp:435
 #, kde-format
 msgid "ERROR: Unknown protocol '%1'"
 msgstr "Erreur : protocole « %1 » inconnu."
@@ -14519,3 +14519,155 @@ msgstr "Le certificat n'est pas valable."
 #, kde-format
 msgid "GMT"
 msgstr "GMT"
+
+#~ msgctxt "color"
+#~ msgid "alice"
+#~ msgstr "alice"
+
+#~ msgctxt "color"
+#~ msgid "antique"
+#~ msgstr "antique"
+
+#~ msgctxt "color"
+#~ msgid "blanched"
+#~ msgstr "blême"
+
+#~ msgctxt "color"
+#~ msgid "cadet"
+#~ msgstr "cadet"
+
+#~ msgctxt "color"
+#~ msgid "cornflower"
+#~ msgstr "bleuet"
+
+#~ msgctxt "color"
+#~ msgid "dark"
+#~ msgstr "sombre"
+
+#~ msgctxt "color"
+#~ msgid "deep"
+#~ msgstr "profonde"
+
+#~ msgctxt "color"
+#~ msgid "dim"
+#~ msgstr "faible"
+
+#~ msgctxt "color"
+#~ msgid "dodger"
+#~ msgstr "dodger"
+
+#~ msgctxt "color"
+#~ msgid "floral"
+#~ msgstr "floral"
+
+#~ msgctxt "color"
+#~ msgid "forest"
+#~ msgstr "forêt"
+
+#~ msgctxt "color"
+#~ msgid "ghost"
+#~ msgstr "fantôme"
+
+#~ msgctxt "color"
+#~ msgid "hot"
+#~ msgstr "chaude"
+
+#~ msgctxt "color"
+#~ msgid "indian"
+#~ msgstr "Indienne"
+
+#~ msgctxt "color"
+#~ msgid "lawn"
+#~ msgstr "gazon"
+
+#~ msgctxt "color"
+#~ msgid "lemon"
+#~ msgstr "citron"
+
+#~ msgctxt "color"
+#~ msgid "light"
+#~ msgstr "Légère"
+
+#~ msgctxt "color"
+#~ msgid "lime"
+#~ msgstr "citron vert"
+
+#~ msgctxt "color"
+#~ msgid "medium"
+#~ msgstr "moyenne"
+
+#~ msgctxt "color"
+#~ msgid "midnight"
+#~ msgstr "minuit"
+
+#~ msgctxt "color"
+#~ msgid "mint"
+#~ msgstr "menthe"
+
+#~ msgctxt "color"
+#~ msgid "misty"
+#~ msgstr "brumeux"
+
+#~ msgctxt "color"
+#~ msgid "navajo"
+#~ msgstr "navajo"
+
+#~ msgctxt "color"
+#~ msgid "old"
+#~ msgstr "vieux"
+
+#~ msgctxt "color"
+#~ msgid "olive"
+#~ msgstr "olive"
+
+#~ msgctxt "color"
+#~ msgid "pale"
+#~ msgstr "pale"
+
+#~ msgctxt "color"
+#~ msgid "papaya"
+#~ msgstr "papaya"
+
+#~ msgctxt "color"
+#~ msgid "peach"
+#~ msgstr "pêche"
+
+#~ msgctxt "color"
+#~ msgid "powder"
+#~ msgstr "poudre"
+
+#~ msgctxt "color"
+#~ msgid "rosy"
+#~ msgstr "rose"
+
+#~ msgctxt "color"
+#~ msgid "royal"
+#~ msgstr "royal"
+
+#~ msgctxt "color"
+#~ msgid "saddle"
+#~ msgstr "selle"
+
+#~ msgctxt "color"
+#~ msgid "sandy"
+#~ msgstr "sable"
+
+#~ msgctxt "color"
+#~ msgid "sea"
+#~ msgstr "marin"
+
+#~ msgctxt "color"
+#~ msgid "sky"
+#~ msgstr "ciel"
+
+#~ msgctxt "color"
+#~ msgid "slate"
+#~ msgstr "ardoise"
+
+#~ msgctxt "color"
+#~ msgid "spring"
+#~ msgstr "printemps"
+
+#~ msgctxt "color"
+#~ msgid "steel"
+#~ msgstr "acier"

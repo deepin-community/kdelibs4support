@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdecalendarsystems\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-27 00:14+0000\n"
+"POT-Creation-Date: 2023-01-14 00:53+0000\n"
 "PO-Revision-Date: 2013-12-13 10:19+0000\n"
 "Last-Translator: memsud <dedovic.memsud94@hotmail.com>\n"
 "Language-Team: bosanski <bs@li.org>\n"
@@ -14126,12 +14126,12 @@ msgstr "Dobavi sliku"
 msgid "OCR Image"
 msgstr "OCR slika"
 
-#: kio/netaccess.cpp:103
+#: kio/netaccess.cpp:102
 #, kde-format
 msgid "File '%1' is not readable"
 msgstr "Datoteka „%1“ nije čitljiva"
 
-#: kio/netaccess.cpp:437
+#: kio/netaccess.cpp:435
 #, kde-format
 msgid "ERROR: Unknown protocol '%1'"
 msgstr "GREŠKA: Nepoznat protokol „%1“"
@@ -14659,3 +14659,154 @@ msgstr "Sertifikat nije valjan."
 #, kde-format
 msgid "GMT"
 msgstr "GMT"
+
+#, fuzzy
+#~| msgctxt "Calendar Era: Gregorian Christian Era, years < 0, LongFormat"
+#~| msgid "Before Christ"
+#~ msgctxt "color"
+#~ msgid "forest"
+#~ msgstr "prije Hrista"
+
+#, fuzzy
+#~| msgctxt "Coptic month 1 - KLocale::ShortName"
+#~| msgid "Tho"
+#~ msgctxt "color"
+#~ msgid "hot"
+#~ msgstr "tho"
+
+#, fuzzy
+#~| msgctxt "Coptic weekday 6 - KLocale::ShortName"
+#~| msgid "Psa"
+#~ msgctxt "color"
+#~ msgid "sea"
+#~ msgstr "Psa"
+
+#, fuzzy
+#~| msgctxt "Coptic weekday 7 - KLocale::ShortName"
+#~| msgid "Tky"
+#~ msgctxt "color"
+#~ msgid "sky"
+#~ msgstr "Tky"
+
+#~ msgctxt "@item Calendar system"
+#~ msgid "Gregorian (Proleptic)"
+#~ msgstr "gregorijanski (proleptički)"
+
+#~ msgctxt ""
+#~ "(kdedt-format) Coptic, AM, full era year format used for o/oEY, e.g. 2000 "
+#~ "AM"
+#~ msgid "%Ey %EC"
+#~ msgstr "%Ey. %EC"
+
+#~ msgctxt ""
+#~ "(kdedt-format) Ethiopian, AM, full era year format used for o/oEY, e.g. "
+#~ "2000 AM"
+#~ msgid "%Ey %EC"
+#~ msgstr "%Ey. %EC"
+
+#~ msgctxt ""
+#~ "(kdedt-format) Gregorian, BC, full era year format used for o/oEY, e.g. "
+#~ "2000 BC"
+#~ msgid "%Ey %EC"
+#~ msgstr "%Ey. %EC"
+
+#~ msgctxt ""
+#~ "(kdedt-format) Gregorian, AD, full era year format used for o/oEY, e.g. "
+#~ "2000 AD"
+#~ msgid "%Ey %EC"
+#~ msgstr "%Ey. %EC"
+
+#~ msgctxt ""
+#~ "(kdedt-format) Hebrew, AM, full era year format used for o/oEY, e.g. 2000 "
+#~ "AM"
+#~ msgid "%Ey %EC"
+#~ msgstr "%Ey. %EC"
+
+#~ msgctxt ""
+#~ "(kdedt-format) Indian National, SE, full era year format used for o/oEY, "
+#~ "e.g. 2000 SE"
+#~ msgid "%Ey %EC"
+#~ msgstr "%Ey. %EC"
+
+#~ msgctxt ""
+#~ "(kdedt-format) Hijri, AH, full era year format used for o/oEY, e.g. 2000 "
+#~ "AH"
+#~ msgid "%Ey %EC"
+#~ msgstr "%Ey. %EC"
+
+#~ msgctxt ""
+#~ "(kdedt-format) Jalali, AP, full era year format used for o/oEY, e.g. 2000 "
+#~ "AP"
+#~ msgid "%Ey %EC"
+#~ msgstr "%Ey. %EC"
+
+#~ msgctxt ""
+#~ "(kdedt-format) Japanese, Meiji, full era year format used for o/oEY, year "
+#~ "= 1, e.g. Meiji 1"
+#~ msgid "%EC Gannen"
+#~ msgstr "ganen %EC"
+
+#~ msgctxt ""
+#~ "(kdedt-format) Japanese, Meiji, full era year format used for o/oEY, year "
+#~ "> 1, e.g. Meiji 22"
+#~ msgid "%EC %Ey"
+#~ msgstr "%Ey. %EC"
+
+#~ msgctxt ""
+#~ "(kdedt-format) Japanese, Taishō, full era year format used for o/oEY, "
+#~ "year = 1, e.g. Taishō 1"
+#~ msgid "%EC Gannen"
+#~ msgstr "ganen %EC"
+
+#~ msgctxt ""
+#~ "(kdedt-format) Japanese, Taishō, full era year format used for o/oEY, "
+#~ "year > 1, e.g. Taishō 22"
+#~ msgid "%EC %Ey"
+#~ msgstr "%Ey. %EC"
+
+#~ msgctxt ""
+#~ "(kdedt-format) Japanese, Shōwa, full era year format used for o/oEY, year "
+#~ "= 1, e.g. Shōwa 1"
+#~ msgid "%EC Gannen"
+#~ msgstr "ganen %EC"
+
+#~ msgctxt ""
+#~ "(kdedt-format) Japanese, Shōwa, full era year format used for o/oEY, year "
+#~ "> 1, e.g. Shōwa 22"
+#~ msgid "%EC %Ey"
+#~ msgstr "%Ey. %EC"
+
+#~ msgctxt ""
+#~ "(kdedt-format) Japanese, Heisei, full era year format used for o/oEY, "
+#~ "year = 1, e.g. Heisei 1"
+#~ msgid "%EC Gannen"
+#~ msgstr "ganen %EC"
+
+#~ msgctxt ""
+#~ "(kdedt-format) Japanese, Heisei, full era year format used for o/oEY, "
+#~ "year > 1, e.g. Heisei 22"
+#~ msgid "%EC %Ey"
+#~ msgstr "%Ey. %EC"
+
+#~ msgctxt ""
+#~ "(kdedt-format) Julian, BC, full era year format used for o/oEY, e.g. 2000 "
+#~ "BC"
+#~ msgid "%Ey %EC"
+#~ msgstr "%Ey. %EC"
+
+#~ msgctxt ""
+#~ "(kdedt-format) Julian, AD, full era year format used for o/oEY, e.g. 2000 "
+#~ "AD"
+#~ msgid "%Ey %EC"
+#~ msgstr "%Ey. %EC"
+
+#~ msgctxt ""
+#~ "(kdedt-format) Taiwan, ROC, full era year format used for o/oEY, e.g. ROC "
+#~ "99"
+#~ msgid "%EC %Ey"
+#~ msgstr "%Ey. %EC"
+
+#~ msgctxt ""
+#~ "(kdedt-format) Thai, BE, full era year format used for o/oEY, e.g. 2000 BE"
+#~ msgid "%Ey %EC"
+#~ msgstr "%Ey. %EC"

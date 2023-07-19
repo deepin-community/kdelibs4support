@@ -5,13 +5,13 @@
 # Thuraiappah Vaseeharan <t_vasee@yahoo.com>, 2000-2001.
 # ஸ்ரீராமதாஸ் <shriramadhas@gmail.com>, 2007, 2008.
 # ஆமாச்சு <amachu@ubuntu.com>, 2008.
-# Kishore G <kishore96@gmail.com>, 2021.
+# Kishore G <kishore96@gmail.com>, 2021, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-27 00:14+0000\n"
-"PO-Revision-Date: 2021-09-28 21:32+0530\n"
+"POT-Creation-Date: 2023-01-14 00:53+0000\n"
+"PO-Revision-Date: 2022-02-06 16:29+0530\n"
 "Last-Translator: Kishore G <kishore96@gmail.com>\n"
 "Language-Team: Tamil <kde-i18n-doc@kde.org>\n"
 "Language: ta\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 21.08.1\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -2301,27 +2301,27 @@ msgstr "ன மஞ்சள்4"
 #: kdebugdialog/kdebugdialog.cpp:43 kdebugdialog/klistdebugdialog.cpp:37
 #, kde-format
 msgid "Debug Settings"
-msgstr "அமைப்புகளில் பிழைநீக்கு"
+msgstr "பிழைநீக்க அமைப்புகள்"
 
 #: kdebugdialog/kdebugdialog.cpp:58
-#, fuzzy, kde-format
+#, kde-format
 msgid "File"
-msgstr "கோப்புப்பெயர்:"
+msgstr "கோப்பு"
 
 #: kdebugdialog/kdebugdialog.cpp:59
 #, kde-format
 msgid "Message Box"
-msgstr "தகவற் பெட்டி"
+msgstr "தகவல் பெட்டி"
 
 #: kdebugdialog/kdebugdialog.cpp:60
 #, kde-format
 msgid "Shell"
-msgstr "ஓடு"
+msgstr "முனையம்"
 
 #: kdebugdialog/kdebugdialog.cpp:61
 #, kde-format
 msgid "Syslog"
-msgstr "Syslog"
+msgstr ""
 
 #: kdebugdialog/kdebugdialog.cpp:62
 #, kde-format
@@ -2342,7 +2342,7 @@ msgstr "தகவல்"
 #: kdebugdialog/kdebugdialog.ui:151 kdebugdialog/kdebugdialog.ui:186
 #, kde-format
 msgid "Output to:"
-msgstr "இதற்கு வெளியேற்று:"
+msgstr "இதற்கு வெளியிடு:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #. i18n: ectx: property (text), widget (QLabel, label_9)
@@ -2356,15 +2356,15 @@ msgstr "கோப்புப்பெயர்:"
 
 #. i18n: ectx: property (title), widget (QGroupBox, pErrorGroup)
 #: kdebugdialog/kdebugdialog.ui:83
-#, fuzzy, kde-format
+#, kde-format
 msgid "Error"
-msgstr "உச்ச பிழை! "
+msgstr "சிக்கல்"
 
 #. i18n: ectx: property (text), widget (QCheckBox, pAbortFatal)
 #: kdebugdialog/kdebugdialog.ui:118
 #, kde-format
 msgid "Abort on fatal errors"
-msgstr "பாரிய தவறுகள் இருப்பின் முறித்திடு"
+msgstr "முறிவுண்டாக்கும் சிக்கல் நேர்ந்தால் வெளியேறு"
 
 #. i18n: ectx: property (text), widget (QCheckBox, m_disableAll2)
 #: kdebugdialog/kdebugdialog.ui:138 kdebugdialog/klistdebugdialog.cpp:77
@@ -2382,47 +2382,47 @@ msgstr "எச்சரிக்கை"
 #: kdebugdialog/kdebugdialog.ui:180
 #, kde-format
 msgid "Fatal Error"
-msgstr "உச்ச பிழை! "
+msgstr "முறிவுண்டாக்கும் சிக்கல்"
 
 #: kdebugdialog/klistdebugdialog.cpp:68
 #, kde-format
 msgid "&Select All"
-msgstr "அனைத்தும் தேர்வு செய்"
+msgstr "&அனைத்தும் தேர்வு செய்"
 
 #: kdebugdialog/klistdebugdialog.cpp:69
 #, kde-format
 msgid "&Deselect All"
-msgstr "அனைத்தையும் விட்டு விடு"
+msgstr "அனைத்து &தேர்வுகளை நிராகரி"
 
 #: kdebugdialog/main.cpp:100
 #, kde-format
 msgid "KDebugDialog"
-msgstr "Kபிழைநீக்கி உரையாடல்"
+msgstr ""
 
 #: kdebugdialog/main.cpp:101
 #, kde-format
 msgid "A dialog box for setting preferences for debug output"
-msgstr "பிழைநீக்கி வெளியேற்றத்தின் விருப்பங்களை அமைப்பதற்கான உரையாடல் பெட்டி"
+msgstr "பிழைநீக்க வெளியேற்றத்திற்கான விருப்பங்களை அமைப்பதற்கான சாளரம்"
 
 #: kdebugdialog/main.cpp:102
 #, kde-format
 msgid "Copyright 1999-2009, David Faure <faure@kde.org>"
-msgstr ""
+msgstr "பதிப்புரிமை 1999-2009, டேவிட் ஃபவுர் <faure@kde.org>"
 
 #: kdebugdialog/main.cpp:103
 #, kde-format
 msgid "David Faure"
-msgstr "டேவிட் பவுர்"
+msgstr "டேவிட் ஃபவுர்"
 
 #: kdebugdialog/main.cpp:103
 #, kde-format
 msgid "Maintainer"
-msgstr "பேணுபவர்"
+msgstr "பராமரிப்பாளர்"
 
 #: kdebugdialog/main.cpp:108
 #, kde-format
 msgid "Show the fully-fledged dialog instead of the default list dialog"
-msgstr "முன்னிருப்பு வரிசை உரையாடலுக்குப் பதில் முழுமையான உரையாடலைக் காட்டு."
+msgstr "பட்டியலைக் கொண்ட இயல்பிருப்பு சாளரத்திற்கு பதிலாக முழுமையான சாளரத்தை காட்டும்"
 
 #: kdebugdialog/main.cpp:109
 #, kde-format
@@ -2437,7 +2437,7 @@ msgstr ""
 #: kdecore/k3resolver.cpp:533 kdecore/netsupp.cpp:865
 #, kde-format
 msgid "no error"
-msgstr "பிழையில்லை"
+msgstr "சிக்கலில்லை"
 
 #: kdecore/k3resolver.cpp:534
 #, kde-format
@@ -2609,11 +2609,14 @@ msgid ""
 "Please check the documentation or the source for any\n"
 "licensing terms.\n"
 msgstr ""
+"இந்த நிரலுக்கான உரிமம் குறிப்பிடப்படவில்லை.\n"
+"உரிம விதிகளை பற்றிய விவரங்களுக்கு இந்நிரலின்\n"
+"ஆவணங்களை அல்லது அதன் மூலத்தைப் பார்க்கவும்.\n"
 
 #: kdecore/k4aboutdata.cpp:273
 #, kde-format
 msgid "This program is distributed under the terms of the %1."
-msgstr ""
+msgstr "%1 உரிமத்தின் கீழ் இந்நிரல் விநியோகிக்கப்படுகிறது. "
 
 #: kdecore/k4aboutdata.cpp:297
 #, kde-format
@@ -2625,7 +2628,7 @@ msgstr "GPL v2"
 #, kde-format
 msgctxt "@item license"
 msgid "GNU General Public License Version 2"
-msgstr "குனு பொது மக்கள் உரிமம் வெளியீடு 2"
+msgstr "குனு பொதுமக்கள் உரிமம் பதிப்பு 2"
 
 #: kdecore/k4aboutdata.cpp:301
 #, kde-format
@@ -2637,7 +2640,7 @@ msgstr "LGPL v2"
 #, kde-format
 msgctxt "@item license"
 msgid "GNU Lesser General Public License Version 2"
-msgstr "குனு மிதமான பொது மக்கள் உரிமம் வெளியீடு 2"
+msgstr "குனு சிறுநிலை பொதுமக்கள் உரிமம் பதிப்பு 2"
 
 #: kdecore/k4aboutdata.cpp:305
 #, kde-format
@@ -2655,13 +2658,13 @@ msgstr "BSD உரிமம்"
 #, kde-format
 msgctxt "@item license (short name)"
 msgid "Artistic License"
-msgstr "Artistic உரிமம்"
+msgstr "கலைக்கான உரிமம்"
 
 #: kdecore/k4aboutdata.cpp:310
 #, kde-format
 msgctxt "@item license"
 msgid "Artistic License"
-msgstr "Artistic உரிமம்"
+msgstr "கலைக்கான உரிமம்"
 
 #: kdecore/k4aboutdata.cpp:313
 #, kde-format
@@ -2685,7 +2688,7 @@ msgstr "GPL v3"
 #, kde-format
 msgctxt "@item license"
 msgid "GNU General Public License Version 3"
-msgstr "GNU General Public License Version 3"
+msgstr "குனு பொதுமக்கள் உரிமம் பதிப்பு 3"
 
 #: kdecore/k4aboutdata.cpp:321
 #, kde-format
@@ -2697,7 +2700,7 @@ msgstr "LGPL v3"
 #, kde-format
 msgctxt "@item license"
 msgid "GNU Lesser General Public License Version 3"
-msgstr "GNU Lesser General Public License Version 3"
+msgstr "குனு சிறுநிலை பொதுமக்கள் உரிமம் பதிப்பு 3"
 
 #: kdecore/k4aboutdata.cpp:326
 #, kde-format
@@ -2709,7 +2712,7 @@ msgstr "தனிப்பட்ட"
 #, kde-format
 msgctxt "@item license"
 msgid "Not specified"
-msgstr "குறிப்பிடப்படவில்லை"
+msgstr "குறிப்பிடப்படாத"
 
 #: kdecore/k4aboutdata.cpp:891
 #, kde-format
@@ -2720,8 +2723,9 @@ msgid ""
 "internationalization visit <a href=\"http://l10n.kde.org\">http://l10n.kde."
 "org</a></p>"
 msgstr ""
-"<p>KDE உலகின் எண்ணற்ற மொழிகளில் மொழிபெயர்க்கப்படுகிறது:</p><p>KDE சர்வதேசமயமாக்கம் "
-"பற்றி அறிய<a href=\"http://l10n.kde.org\">http://l10n.kde.org</a></p> "
+"<p>KDE உலகின் எண்ணற்ற மொழிகளில் மொழிபெயர்க்கப்படுகிறது:</p><p>KDE சர்வதேசமயமாக்கத்தை "
+"பற்றி அறிய <a href=\"http://l10n.kde.org\">http://l10n.kde.org</a> என்ற "
+"இணையதளத்திற்கு செல்லுங்கள்.</p> "
 
 #: kdecore/kcalendarsystem.cpp:108
 #, kde-format
@@ -2794,13 +2798,13 @@ msgstr "ஆர் தானி"
 #, kde-format
 msgctxt "@item Calendar system"
 msgid "Invalid Calendar Type"
-msgstr "நாட்காட்டி வகைச் செல்லாது"
+msgstr "செல்லுபடியாகாத நாட்காட்டி வகை"
 
 #: kdecore/kcalendarsystem.cpp:1495
 #, kde-format
 msgctxt "Negative symbol as used for year numbers, e.g. -5 = 5 BC"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: kdecore/kcalendarsystem.cpp:1532 kdecore/klocale_kde.cpp:2208
 #: kio/kfilemetadataprovider.cpp:199
@@ -3891,58 +3895,58 @@ msgstr "வியாழன்"
 #, kde-format
 msgctxt "Calendar Era: Gregorian Common Era, years < 0, LongFormat"
 msgid "Before Common Era"
-msgstr ""
+msgstr "பொது ஊழிக்கு முன்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:54
 #, kde-format
 msgctxt "Calendar Era: Gregorian Common Era, years < 0, ShortFormat"
 msgid "BCE"
-msgstr ""
+msgstr "கி.மு."
 
 #: kdecore/kcalendarsystemgregorian.cpp:56
 #, kde-format
 msgctxt "Calendar Era: Gregorian Christian Era, years < 0, LongFormat"
 msgid "Before Christ"
-msgstr ""
+msgstr "கிறிஸ்துவுக்கு முன்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:57
 #, kde-format
 msgctxt "Calendar Era: Gregorian Christian Era, years < 0, ShortFormat"
 msgid "BC"
-msgstr ""
+msgstr "கி.மு."
 
 #: kdecore/kcalendarsystemgregorian.cpp:59
 #, kde-format
 msgctxt ""
 "(kdedt-format) Gregorian, BC, full era year format used for %EY, e.g. 2000 BC"
 msgid "%Ey %EC"
-msgstr ""
+msgstr "%Ey %EC"
 
 #: kdecore/kcalendarsystemgregorian.cpp:63
 #, kde-format
 msgctxt "Calendar Era: Gregorian Common Era, years > 0, LongFormat"
 msgid "Common Era"
-msgstr ""
+msgstr "பொது ஊழி"
 
 #: kdecore/kcalendarsystemgregorian.cpp:64
 #, kde-format
 msgctxt "Calendar Era: Gregorian Common Era, years > 0, ShortFormat"
 msgid "CE"
-msgstr ""
+msgstr "கி.பி."
 
 #: kdecore/kcalendarsystemgregorian.cpp:66
 #: kdecore/kcalendarsystemjapanese.cpp:57
 #, kde-format
 msgctxt "Calendar Era: Gregorian Christian Era, years > 0, LongFormat"
 msgid "Anno Domini"
-msgstr ""
+msgstr "கிறிஸ்துவுக்கு பின்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:67
 #: kdecore/kcalendarsystemjapanese.cpp:58
 #, kde-format
 msgctxt "Calendar Era: Gregorian Christian Era, years > 0, ShortFormat"
 msgid "AD"
-msgstr ""
+msgstr "கி.பி."
 
 #: kdecore/kcalendarsystemgregorian.cpp:69
 #: kdecore/kcalendarsystemjapanese.cpp:59
@@ -3950,442 +3954,364 @@ msgstr ""
 msgctxt ""
 "(kdedt-format) Gregorian, AD, full era year format used for %EY, e.g. 2000 AD"
 msgid "%Ey %EC"
-msgstr ""
+msgstr "%Ey %EC"
 
 #: kdecore/kcalendarsystemgregorian.cpp:138
 #, kde-format
 msgctxt "Gregorian month 1 - KLocale::NarrowName"
 msgid "J"
-msgstr ""
+msgstr "ஜ"
 
 #: kdecore/kcalendarsystemgregorian.cpp:140
 #, kde-format
 msgctxt "Gregorian month 2 - KLocale::NarrowName"
 msgid "F"
-msgstr ""
+msgstr "பி"
 
 #: kdecore/kcalendarsystemgregorian.cpp:142
 #, kde-format
 msgctxt "Gregorian month 3 - KLocale::NarrowName"
 msgid "M"
-msgstr ""
+msgstr "மா"
 
 #: kdecore/kcalendarsystemgregorian.cpp:144
-#, fuzzy, kde-format
-#| msgid "Av"
+#, kde-format
 msgctxt "Gregorian month 4 - KLocale::NarrowName"
 msgid "A"
-msgstr "அவ்"
+msgstr "ஏ"
 
 #: kdecore/kcalendarsystemgregorian.cpp:146
 #, kde-format
 msgctxt "Gregorian month 5 - KLocale::NarrowName"
 msgid "M"
-msgstr ""
+msgstr "மே"
 
 #: kdecore/kcalendarsystemgregorian.cpp:148
 #, kde-format
 msgctxt "Gregorian month 6 - KLocale::NarrowName"
 msgid "J"
-msgstr ""
+msgstr "ஜூ"
 
 #: kdecore/kcalendarsystemgregorian.cpp:150
 #, kde-format
 msgctxt "Gregorian month 7 - KLocale::NarrowName"
 msgid "J"
-msgstr ""
+msgstr "ஜூ"
 
 #: kdecore/kcalendarsystemgregorian.cpp:152
-#, fuzzy, kde-format
-#| msgid "Av"
+#, kde-format
 msgctxt "Gregorian month 8 - KLocale::NarrowName"
 msgid "A"
-msgstr "அவ்"
+msgstr "ஆ"
 
 #: kdecore/kcalendarsystemgregorian.cpp:154
 #, kde-format
 msgctxt "Gregorian month 9 - KLocale::NarrowName"
 msgid "S"
-msgstr ""
+msgstr "செ"
 
 #: kdecore/kcalendarsystemgregorian.cpp:156
 #, kde-format
 msgctxt "Gregorian month 10 - KLocale::NarrowName"
 msgid "O"
-msgstr ""
+msgstr "அ"
 
 #: kdecore/kcalendarsystemgregorian.cpp:158
 #, kde-format
 msgctxt "Gregorian month 11 - KLocale::NarrowName"
 msgid "N"
-msgstr ""
+msgstr "ந"
 
 #: kdecore/kcalendarsystemgregorian.cpp:160
 #, kde-format
 msgctxt "Gregorian month 12 - KLocale::NarrowName"
 msgid "D"
-msgstr ""
+msgstr "டி"
 
 #: kdecore/kcalendarsystemgregorian.cpp:169
-#, fuzzy, kde-format
-#| msgctxt "of January"
-#| msgid "of Jan"
+#, kde-format
 msgctxt "Gregorian month 1 - KLocale::ShortName Possessive"
 msgid "of Jan"
-msgstr "ஜனவரி"
+msgstr "ஜன"
 
 #: kdecore/kcalendarsystemgregorian.cpp:171
-#, fuzzy, kde-format
-#| msgctxt "of February"
-#| msgid "of Feb"
+#, kde-format
 msgctxt "Gregorian month 2 - KLocale::ShortName Possessive"
 msgid "of Feb"
-msgstr "பிப்ரவரி"
+msgstr "பிப்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:173
-#, fuzzy, kde-format
-#| msgctxt "of March"
-#| msgid "of Mar"
+#, kde-format
 msgctxt "Gregorian month 3 - KLocale::ShortName Possessive"
 msgid "of Mar"
-msgstr "மார்ச்"
+msgstr "மார்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:175
-#, fuzzy, kde-format
-#| msgctxt "of April"
-#| msgid "of Apr"
+#, kde-format
 msgctxt "Gregorian month 4 - KLocale::ShortName Possessive"
 msgid "of Apr"
-msgstr "ஏப்ரல்"
+msgstr "ஏப்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:177
-#, fuzzy, kde-format
-#| msgctxt "of May short"
-#| msgid "of May"
+#, kde-format
 msgctxt "Gregorian month 5 - KLocale::ShortName Possessive"
 msgid "of May"
 msgstr "மே"
 
 #: kdecore/kcalendarsystemgregorian.cpp:179
-#, fuzzy, kde-format
-#| msgctxt "of June"
-#| msgid "of Jun"
+#, kde-format
 msgctxt "Gregorian month 6 - KLocale::ShortName Possessive"
 msgid "of Jun"
 msgstr "ஜூன்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:181
-#, fuzzy, kde-format
-#| msgctxt "of July"
-#| msgid "of Jul"
+#, kde-format
 msgctxt "Gregorian month 7 - KLocale::ShortName Possessive"
 msgid "of Jul"
 msgstr "ஜூலை"
 
 #: kdecore/kcalendarsystemgregorian.cpp:183
-#, fuzzy, kde-format
-#| msgctxt "of August"
-#| msgid "of Aug"
+#, kde-format
 msgctxt "Gregorian month 8 - KLocale::ShortName Possessive"
 msgid "of Aug"
-msgstr "ஆகஸ்ட்"
+msgstr "ஆக"
 
 #: kdecore/kcalendarsystemgregorian.cpp:185
-#, fuzzy, kde-format
-#| msgctxt "of September"
-#| msgid "of Sep"
+#, kde-format
 msgctxt "Gregorian month 9 - KLocale::ShortName Possessive"
 msgid "of Sep"
-msgstr "செப்டம்பர்"
+msgstr "செப்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:187
-#, fuzzy, kde-format
-#| msgctxt "of October"
-#| msgid "of Oct"
+#, kde-format
 msgctxt "Gregorian month 10 - KLocale::ShortName Possessive"
 msgid "of Oct"
-msgstr "அக்டோபர்"
+msgstr "அக்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:189
-#, fuzzy, kde-format
-#| msgctxt "of November"
-#| msgid "of Nov"
+#, kde-format
 msgctxt "Gregorian month 11 - KLocale::ShortName Possessive"
 msgid "of Nov"
-msgstr "நவம்பர்"
+msgstr "நவ"
 
 #: kdecore/kcalendarsystemgregorian.cpp:191
-#, fuzzy, kde-format
-#| msgctxt "of December"
-#| msgid "of Dec"
+#, kde-format
 msgctxt "Gregorian month 12 - KLocale::ShortName Possessive"
 msgid "of Dec"
-msgstr "டிசம்பர்"
+msgstr "டிச"
 
 #: kdecore/kcalendarsystemgregorian.cpp:200
-#, fuzzy, kde-format
-#| msgctxt "January"
-#| msgid "Jan"
+#, kde-format
 msgctxt "Gregorian month 1 - KLocale::ShortName"
 msgid "Jan"
-msgstr "ஜனவரி"
+msgstr "ஜன"
 
 #: kdecore/kcalendarsystemgregorian.cpp:202
-#, fuzzy, kde-format
-#| msgctxt "February"
-#| msgid "Feb"
+#, kde-format
 msgctxt "Gregorian month 2 - KLocale::ShortName"
 msgid "Feb"
-msgstr "பிப்ரவரி"
+msgstr "பிப்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:204
-#, fuzzy, kde-format
-#| msgctxt "March"
-#| msgid "Mar"
+#, kde-format
 msgctxt "Gregorian month 3 - KLocale::ShortName"
 msgid "Mar"
-msgstr "மார்ச்"
+msgstr "மார்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:206
-#, fuzzy, kde-format
-#| msgctxt "April"
-#| msgid "Apr"
+#, kde-format
 msgctxt "Gregorian month 4 - KLocale::ShortName"
 msgid "Apr"
-msgstr "ஏப்ரல்"
+msgstr "ஏப்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:208
-#, fuzzy, kde-format
-#| msgctxt "May short"
-#| msgid "May"
+#, kde-format
 msgctxt "Gregorian month 5 - KLocale::ShortName"
 msgid "May"
 msgstr "மே"
 
 #: kdecore/kcalendarsystemgregorian.cpp:210
-#, fuzzy, kde-format
-#| msgctxt "June"
-#| msgid "Jun"
+#, kde-format
 msgctxt "Gregorian month 6 - KLocale::ShortName"
 msgid "Jun"
 msgstr "ஜூன்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:212
-#, fuzzy, kde-format
-#| msgctxt "July"
-#| msgid "Jul"
+#, kde-format
 msgctxt "Gregorian month 7 - KLocale::ShortName"
 msgid "Jul"
 msgstr "ஜூலை"
 
 #: kdecore/kcalendarsystemgregorian.cpp:214
-#, fuzzy, kde-format
-#| msgctxt "August"
-#| msgid "Aug"
+#, kde-format
 msgctxt "Gregorian month 8 - KLocale::ShortName"
 msgid "Aug"
-msgstr "ஆகஸ்ட்"
+msgstr "ஆக"
 
 #: kdecore/kcalendarsystemgregorian.cpp:216
-#, fuzzy, kde-format
-#| msgctxt "September"
-#| msgid "Sep"
+#, kde-format
 msgctxt "Gregorian month 9 - KLocale::ShortName"
 msgid "Sep"
-msgstr "செப்டம்பர்"
+msgstr "செப்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:218
-#, fuzzy, kde-format
-#| msgctxt "October"
-#| msgid "Oct"
+#, kde-format
 msgctxt "Gregorian month 10 - KLocale::ShortName"
 msgid "Oct"
-msgstr "அக்டோபர்"
+msgstr "அக்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:220
-#, fuzzy, kde-format
-#| msgctxt "November"
-#| msgid "Nov"
+#, kde-format
 msgctxt "Gregorian month 11 - KLocale::ShortName"
 msgid "Nov"
-msgstr "நவம்பர்"
+msgstr "நவ"
 
 #: kdecore/kcalendarsystemgregorian.cpp:222
-#, fuzzy, kde-format
-#| msgctxt "December"
-#| msgid "Dec"
+#, kde-format
 msgctxt "Gregorian month 12 - KLocale::ShortName"
 msgid "Dec"
-msgstr "டிசம்பர்"
+msgstr "டிச"
 
 #: kdecore/kcalendarsystemgregorian.cpp:231
-#, fuzzy, kde-format
-#| msgid "of January"
+#, kde-format
 msgctxt "Gregorian month 1 - KLocale::LongName Possessive"
 msgid "of January"
 msgstr "ஜனவரி"
 
 #: kdecore/kcalendarsystemgregorian.cpp:233
-#, fuzzy, kde-format
-#| msgid "of February"
+#, kde-format
 msgctxt "Gregorian month 2 - KLocale::LongName Possessive"
 msgid "of February"
 msgstr "பிப்ரவரி"
 
 #: kdecore/kcalendarsystemgregorian.cpp:235
-#, fuzzy, kde-format
-#| msgid "of March"
+#, kde-format
 msgctxt "Gregorian month 3 - KLocale::LongName Possessive"
 msgid "of March"
 msgstr "மார்ச்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:237
-#, fuzzy, kde-format
-#| msgid "of April"
+#, kde-format
 msgctxt "Gregorian month 4 - KLocale::LongName Possessive"
 msgid "of April"
 msgstr "ஏப்ரல்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:239
-#, fuzzy, kde-format
-#| msgctxt "of May short"
-#| msgid "of May"
+#, kde-format
 msgctxt "Gregorian month 5 - KLocale::LongName Possessive"
 msgid "of May"
 msgstr "மே"
 
 #: kdecore/kcalendarsystemgregorian.cpp:241
-#, fuzzy, kde-format
-#| msgid "of June"
+#, kde-format
 msgctxt "Gregorian month 6 - KLocale::LongName Possessive"
 msgid "of June"
 msgstr "ஜூன்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:243
-#, fuzzy, kde-format
-#| msgid "of July"
+#, kde-format
 msgctxt "Gregorian month 7 - KLocale::LongName Possessive"
 msgid "of July"
 msgstr "ஜூலை"
 
 #: kdecore/kcalendarsystemgregorian.cpp:245
-#, fuzzy, kde-format
-#| msgid "of August"
+#, kde-format
 msgctxt "Gregorian month 8 - KLocale::LongName Possessive"
 msgid "of August"
 msgstr "ஆகஸ்ட்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:247
-#, fuzzy, kde-format
-#| msgid "of September"
+#, kde-format
 msgctxt "Gregorian month 9 - KLocale::LongName Possessive"
 msgid "of September"
 msgstr "செப்டம்பர்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:249
-#, fuzzy, kde-format
-#| msgid "of October"
+#, kde-format
 msgctxt "Gregorian month 10 - KLocale::LongName Possessive"
 msgid "of October"
 msgstr "அக்டோபர்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:251
-#, fuzzy, kde-format
-#| msgid "of November"
+#, kde-format
 msgctxt "Gregorian month 11 - KLocale::LongName Possessive"
 msgid "of November"
 msgstr "நவம்பர்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:253
-#, fuzzy, kde-format
-#| msgid "of December"
+#, kde-format
 msgctxt "Gregorian month 12 - KLocale::LongName Possessive"
 msgid "of December"
 msgstr "டிசம்பர்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:262
-#, fuzzy, kde-format
-#| msgid "January"
+#, kde-format
 msgctxt "Gregorian month 1 - KLocale::LongName"
 msgid "January"
 msgstr "ஜனவரி"
 
 #: kdecore/kcalendarsystemgregorian.cpp:264
-#, fuzzy, kde-format
-#| msgid "February"
+#, kde-format
 msgctxt "Gregorian month 2 - KLocale::LongName"
 msgid "February"
 msgstr "பிப்ரவரி"
 
 #: kdecore/kcalendarsystemgregorian.cpp:266
-#, fuzzy, kde-format
-#| msgctxt "March long"
-#| msgid "March"
+#, kde-format
 msgctxt "Gregorian month 3 - KLocale::LongName"
 msgid "March"
 msgstr "மார்ச்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:268
-#, fuzzy, kde-format
-#| msgid "April"
+#, kde-format
 msgctxt "Gregorian month 4 - KLocale::LongName"
 msgid "April"
 msgstr "ஏப்ரல்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:270
-#, fuzzy, kde-format
-#| msgctxt "May short"
-#| msgid "May"
+#, kde-format
 msgctxt "Gregorian month 5 - KLocale::LongName"
 msgid "May"
 msgstr "மே"
 
 #: kdecore/kcalendarsystemgregorian.cpp:272
-#, fuzzy, kde-format
-#| msgid "June"
+#, kde-format
 msgctxt "Gregorian month 6 - KLocale::LongName"
 msgid "June"
 msgstr "ஜூன்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:274
-#, fuzzy, kde-format
-#| msgid "July"
+#, kde-format
 msgctxt "Gregorian month 7 - KLocale::LongName"
 msgid "July"
 msgstr "ஜூலை"
 
 #: kdecore/kcalendarsystemgregorian.cpp:276
-#, fuzzy, kde-format
-#| msgctxt "August long"
-#| msgid "August"
+#, kde-format
 msgctxt "Gregorian month 8 - KLocale::LongName"
 msgid "August"
 msgstr "ஆகஸ்ட்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:278
-#, fuzzy, kde-format
-#| msgid "September"
+#, kde-format
 msgctxt "Gregorian month 9 - KLocale::LongName"
 msgid "September"
 msgstr "செப்டம்பர்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:280
-#, fuzzy, kde-format
-#| msgid "October"
+#, kde-format
 msgctxt "Gregorian month 10 - KLocale::LongName"
 msgid "October"
 msgstr "அக்டோபர்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:282
-#, fuzzy, kde-format
-#| msgid "November"
+#, kde-format
 msgctxt "Gregorian month 11 - KLocale::LongName"
 msgid "November"
 msgstr "நவம்பர்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:284
-#, fuzzy, kde-format
-#| msgid "December"
+#, kde-format
 msgctxt "Gregorian month 12 - KLocale::LongName"
 msgid "December"
 msgstr "டிசம்பர்"
@@ -4395,165 +4321,144 @@ msgstr "டிசம்பர்"
 #, kde-format
 msgctxt "Gregorian weekday 1 - KLocale::NarrowName "
 msgid "M"
-msgstr ""
+msgstr "தி"
 
 #: kdecore/kcalendarsystemgregorian.cpp:299
 #: kdecore/kcalendarsystemhebrew.cpp:809
 #, kde-format
 msgctxt "Gregorian weekday 2 - KLocale::NarrowName "
 msgid "T"
-msgstr ""
+msgstr "செ"
 
 #: kdecore/kcalendarsystemgregorian.cpp:301
 #: kdecore/kcalendarsystemhebrew.cpp:811
 #, kde-format
 msgctxt "Gregorian weekday 3 - KLocale::NarrowName "
 msgid "W"
-msgstr ""
+msgstr "பு"
 
 #: kdecore/kcalendarsystemgregorian.cpp:303
 #: kdecore/kcalendarsystemhebrew.cpp:813
 #, kde-format
 msgctxt "Gregorian weekday 4 - KLocale::NarrowName "
 msgid "T"
-msgstr ""
+msgstr "வி"
 
 #: kdecore/kcalendarsystemgregorian.cpp:305
 #: kdecore/kcalendarsystemhebrew.cpp:815
 #, kde-format
 msgctxt "Gregorian weekday 5 - KLocale::NarrowName "
 msgid "F"
-msgstr ""
+msgstr "வெ"
 
 #: kdecore/kcalendarsystemgregorian.cpp:307
 #: kdecore/kcalendarsystemhebrew.cpp:817
 #, kde-format
 msgctxt "Gregorian weekday 6 - KLocale::NarrowName "
 msgid "S"
-msgstr ""
+msgstr "ச"
 
 #: kdecore/kcalendarsystemgregorian.cpp:309
 #: kdecore/kcalendarsystemhebrew.cpp:819
 #, kde-format
 msgctxt "Gregorian weekday 7 - KLocale::NarrowName "
 msgid "S"
-msgstr ""
+msgstr "ஞா"
 
 #: kdecore/kcalendarsystemgregorian.cpp:318
 #: kdecore/kcalendarsystemhebrew.cpp:828
-#, fuzzy, kde-format
-#| msgctxt "Monday"
-#| msgid "Mon"
+#, kde-format
 msgctxt "Gregorian weekday 1 - KLocale::ShortName"
 msgid "Mon"
-msgstr "திங்கள்"
+msgstr "திங்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:320
 #: kdecore/kcalendarsystemhebrew.cpp:830
-#, fuzzy, kde-format
-#| msgctxt "Tuesday"
-#| msgid "Tue"
+#, kde-format
 msgctxt "Gregorian weekday 2 - KLocale::ShortName"
 msgid "Tue"
-msgstr "செவ்வாய்"
+msgstr "செவ்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:322
 #: kdecore/kcalendarsystemhebrew.cpp:832
-#, fuzzy, kde-format
-#| msgctxt "Wednesday"
-#| msgid "Wed"
+#, kde-format
 msgctxt "Gregorian weekday 3 - KLocale::ShortName"
 msgid "Wed"
-msgstr "புதன்"
+msgstr "புத"
 
 #: kdecore/kcalendarsystemgregorian.cpp:324
 #: kdecore/kcalendarsystemhebrew.cpp:834
-#, fuzzy, kde-format
-#| msgctxt "Thursday"
-#| msgid "Thu"
+#, kde-format
 msgctxt "Gregorian weekday 4 - KLocale::ShortName"
 msgid "Thu"
-msgstr "வியாழன்"
+msgstr "வியா"
 
 #: kdecore/kcalendarsystemgregorian.cpp:326
 #: kdecore/kcalendarsystemhebrew.cpp:836
-#, fuzzy, kde-format
-#| msgctxt "Friday"
-#| msgid "Fri"
+#, kde-format
 msgctxt "Gregorian weekday 5 - KLocale::ShortName"
 msgid "Fri"
-msgstr "வெள்ளி"
+msgstr "வெள்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:328
 #: kdecore/kcalendarsystemhebrew.cpp:838
-#, fuzzy, kde-format
-#| msgctxt "Saturday"
-#| msgid "Sat"
+#, kde-format
 msgctxt "Gregorian weekday 6 - KLocale::ShortName"
 msgid "Sat"
-msgstr "சனி "
+msgstr "சனி"
 
 #: kdecore/kcalendarsystemgregorian.cpp:330
 #: kdecore/kcalendarsystemhebrew.cpp:840
-#, fuzzy, kde-format
-#| msgctxt "Sunday"
-#| msgid "Sun"
+#, kde-format
 msgctxt "Gregorian weekday 7 - KLocale::ShortName"
 msgid "Sun"
-msgstr "ஞாயிறு"
+msgstr "ஞாயி"
 
 #: kdecore/kcalendarsystemgregorian.cpp:337
 #: kdecore/kcalendarsystemhebrew.cpp:847
-#, fuzzy, kde-format
-#| msgid "Monday"
+#, kde-format
 msgctxt "Gregorian weekday 1 - KLocale::LongName"
 msgid "Monday"
 msgstr "திங்கள்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:339
 #: kdecore/kcalendarsystemhebrew.cpp:849
-#, fuzzy, kde-format
-#| msgid "Tuesday"
+#, kde-format
 msgctxt "Gregorian weekday 2 - KLocale::LongName"
 msgid "Tuesday"
 msgstr "செவ்வாய்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:341
 #: kdecore/kcalendarsystemhebrew.cpp:851
-#, fuzzy, kde-format
-#| msgid "Wednesday"
+#, kde-format
 msgctxt "Gregorian weekday 3 - KLocale::LongName"
 msgid "Wednesday"
 msgstr "புதன்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:343
 #: kdecore/kcalendarsystemhebrew.cpp:853
-#, fuzzy, kde-format
-#| msgid "Thursday"
+#, kde-format
 msgctxt "Gregorian weekday 4 - KLocale::LongName"
 msgid "Thursday"
 msgstr "வியாழன்"
 
 #: kdecore/kcalendarsystemgregorian.cpp:345
 #: kdecore/kcalendarsystemhebrew.cpp:855
-#, fuzzy, kde-format
-#| msgid "Friday"
+#, kde-format
 msgctxt "Gregorian weekday 5 - KLocale::LongName"
 msgid "Friday"
 msgstr "வெள்ளி"
 
 #: kdecore/kcalendarsystemgregorian.cpp:347
 #: kdecore/kcalendarsystemhebrew.cpp:857
-#, fuzzy, kde-format
-#| msgid "Saturday"
+#, kde-format
 msgctxt "Gregorian weekday 6 - KLocale::LongName"
 msgid "Saturday"
 msgstr "சனி"
 
 #: kdecore/kcalendarsystemgregorian.cpp:349
 #: kdecore/kcalendarsystemhebrew.cpp:859
-#, fuzzy, kde-format
-#| msgid "Sunday"
+#, kde-format
 msgctxt "Gregorian weekday 7 - KLocale::LongName"
 msgid "Sunday"
 msgstr "ஞாயிறு"
@@ -5295,148 +5200,148 @@ msgid "Phā"
 msgstr "க்ஹோ"
 
 #: kdecore/kcalendarsystemindiannational.cpp:251
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Indian National month 1 - KLocale::LongName Possessive"
 msgid "of Chaitra"
-msgstr "முகரம்"
+msgstr "சித்திரை"
 
 #: kdecore/kcalendarsystemindiannational.cpp:253
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Indian National month 2 - KLocale::LongName Possessive"
 msgid "of Vaishākh"
-msgstr "பர்"
+msgstr "வைகாசி"
 
 #: kdecore/kcalendarsystemindiannational.cpp:255
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Indian National month 3 - KLocale::LongName Possessive"
 msgid "of Jyaishtha"
-msgstr "நிசன்"
+msgstr "ஆனி"
 
 #: kdecore/kcalendarsystemindiannational.cpp:257
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Indian National month 4 - KLocale::LongName Possessive"
 msgid "of Āshādha"
-msgstr "க்ஹோ"
+msgstr "ஆடி"
 
 #: kdecore/kcalendarsystemindiannational.cpp:259
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Indian National month 5 - KLocale::LongName Possessive"
 msgid "of Shrāvana"
-msgstr "ஷ்வட்டின்"
+msgstr "ஆவணி"
 
 #: kdecore/kcalendarsystemindiannational.cpp:261
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Indian National month 6 - KLocale::LongName Possessive"
 msgid "of Bhādrapad"
-msgstr "க்ஹோரடார்டு"
+msgstr "புரட்டாசி"
 
 #: kdecore/kcalendarsystemindiannational.cpp:263
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Indian National month 7 - KLocale::LongName Possessive"
 msgid "of Āshwin"
-msgstr "ஹெஸ்வான்"
+msgstr "ஐப்பசி"
 
 #: kdecore/kcalendarsystemindiannational.cpp:265
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Indian National month 8 - KLocale::LongName Possessive"
 msgid "of Kārtik"
-msgstr "பர்"
+msgstr "கார்த்திகை"
 
 #: kdecore/kcalendarsystemindiannational.cpp:267
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Indian National month 9 - KLocale::LongName Possessive"
 msgid "of Agrahayana"
-msgstr "பஹ்மான்"
+msgstr "மார்கழி"
 
 #: kdecore/kcalendarsystemindiannational.cpp:269
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Indian National month 10 - KLocale::LongName Possessive"
 msgid "of Paush"
-msgstr "பஹ்"
+msgstr "தை"
 
 #: kdecore/kcalendarsystemindiannational.cpp:271
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Indian National month 11 - KLocale::LongName Possessive"
 msgid "of Māgh"
-msgstr "மெஹ்"
+msgstr "மாசி"
 
 #: kdecore/kcalendarsystemindiannational.cpp:273
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Indian National month 12 - KLocale::LongName Possessive"
 msgid "of Phālgun"
-msgstr "க்ஹோ"
+msgstr "பங்குனி"
 
 #: kdecore/kcalendarsystemindiannational.cpp:282
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Indian National month 1 - KLocale::LongName"
 msgid "Chaitra"
-msgstr "முகரம்"
+msgstr "சித்திரை"
 
 #: kdecore/kcalendarsystemindiannational.cpp:284
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Indian National month 2 - KLocale::LongName"
 msgid "Vaishākh"
-msgstr "பர்"
+msgstr "வைகாசி"
 
 #: kdecore/kcalendarsystemindiannational.cpp:286
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Indian National month 3 - KLocale::LongName"
 msgid "Jyaishtha"
-msgstr "நிசன்"
+msgstr "ஆனி"
 
 #: kdecore/kcalendarsystemindiannational.cpp:288
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Indian National month 4 - KLocale::LongName"
 msgid "Āshādha"
-msgstr "க்ஹோ"
+msgstr "ஆடி"
 
 #: kdecore/kcalendarsystemindiannational.cpp:290
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Indian National month 5 - KLocale::LongName"
 msgid "Shrāvana"
-msgstr "ஷ்வட்டின்"
+msgstr "ஆவணி"
 
 #: kdecore/kcalendarsystemindiannational.cpp:292
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Indian National month 6 - KLocale::LongName"
 msgid "Bhādrapad"
-msgstr "க்ஹோரடார்டு"
+msgstr "புரட்டாசி"
 
 #: kdecore/kcalendarsystemindiannational.cpp:294
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Indian National month 7 - KLocale::LongName"
 msgid "Āshwin"
-msgstr "ஹெஸ்வான்"
+msgstr "ஐப்பசி"
 
 #: kdecore/kcalendarsystemindiannational.cpp:296
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Indian National month 8 - KLocale::LongName"
 msgid "Kārtik"
-msgstr "பர்"
+msgstr "கார்த்திகை"
 
 #: kdecore/kcalendarsystemindiannational.cpp:298
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Indian National month 9 - KLocale::LongName"
 msgid "Agrahayana"
-msgstr "தானா"
+msgstr "மார்கழி"
 
 #: kdecore/kcalendarsystemindiannational.cpp:300
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Indian National month 10 - KLocale::LongName"
 msgid "Paush"
-msgstr "இடைநிறுத்துக"
+msgstr "தை"
 
 #: kdecore/kcalendarsystemindiannational.cpp:302
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Indian National month 11 - KLocale::LongName"
 msgid "Māgh"
-msgstr "மெஹ்"
+msgstr "மாசி"
 
 #: kdecore/kcalendarsystemindiannational.cpp:304
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Indian National month 12 - KLocale::LongName"
 msgid "Phālgun"
-msgstr "க்ஹோ"
+msgstr "பங்குனி"
 
 #: kdecore/kcalendarsystemindiannational.cpp:317
 #, kde-format
@@ -7525,12 +7430,12 @@ msgstr ""
 #: kdecore/kcmdlineargs.cpp:278
 #, kde-format
 msgid "Use the X-server display 'displayname'"
-msgstr "X-server காட்டி 'displayname' பயன்படுத்துக"
+msgstr "'displayname' என்ற X-server காட்சிக் கருவியை பயன்படுத்தும்"
 
 #: kdecore/kcmdlineargs.cpp:281
 #, kde-format
 msgid "Restore the application for the given 'sessionId'"
-msgstr "கொடுக்கப்பட்ட 'sessionId' க்கு பயன்பாட்டை மீட்டமைக்க"
+msgstr "கொடுக்கப்படும் 'sessionId'-க்கு செயலியை மீட்டமைக்கும்"
 
 #: kdecore/kcmdlineargs.cpp:282
 #, kde-format
@@ -7890,20 +7795,20 @@ msgstr "KDE-தற்காலிகக் கோப்பு"
 
 #: kdecore/kdatetime.cpp:1567 kdecore/kdatetime.cpp:1577
 #: kdecore/kdatetime.cpp:2985
-#, fuzzy, kde-format
+#, kde-format
 msgid "am"
-msgstr "முற்பகல்"
+msgstr "மு.ப."
 
 #: kdecore/kdatetime.cpp:1567 kdecore/kdatetime.cpp:1577
 #: kdecore/kdatetime.cpp:2990
 #, kde-format
 msgid "pm"
-msgstr "பிற்பகல்"
+msgstr "பி.ப."
 
 #: kdecore/klibloader.cpp:100
 #, kde-format
 msgid "Library \"%1\" not found"
-msgstr " \"%1\" நிரலகம் கிடைக்கவில்லை"
+msgstr "\"%1\" என்ற நிரலகம் கிடைக்கவில்லை"
 
 #: kdecore/klocale_kde.cpp:785
 #, kde-format
@@ -8184,7 +8089,7 @@ msgstr "%1 நாட்கள்"
 #, kde-format
 msgctxt "@item:intext %1 is a real number, e.g. 1.23 hours"
 msgid "%1 hours"
-msgstr "%1 மணிநேரங்கள்"
+msgstr "%1 மணிநேரம்"
 
 #: kdecore/klocale_kde.cpp:1478
 #, kde-format
@@ -8203,40 +8108,40 @@ msgstr "%1 நொடிகள்"
 msgctxt "@item:intext"
 msgid "%1 millisecond"
 msgid_plural "%1 milliseconds"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1 மில்லிநொடி"
+msgstr[1] "%1 மில்லிநொடிகள்"
 
 #: kdecore/klocale_kde.cpp:1491
 #, kde-format
 msgctxt "@item:intext"
 msgid "1 day"
 msgid_plural "%1 days"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 நாள்"
+msgstr[1] "%1 நாட்கள்"
 
 #: kdecore/klocale_kde.cpp:1493
 #, kde-format
 msgctxt "@item:intext"
 msgid "1 hour"
 msgid_plural "%1 hours"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 மணிநேரம்"
+msgstr[1] "%1 மணிநேரம்"
 
 #: kdecore/klocale_kde.cpp:1495
 #, kde-format
 msgctxt "@item:intext"
 msgid "1 minute"
 msgid_plural "%1 minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 நிமிடம்"
+msgstr[1] "%1 நிமிடங்கள்"
 
 #: kdecore/klocale_kde.cpp:1497
 #, kde-format
 msgctxt "@item:intext"
 msgid "1 second"
 msgid_plural "%1 seconds"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 நொடி"
+msgstr[1] "%1 நொடிகள்"
 
 #: kdecore/klocale_kde.cpp:1521
 #, kde-format
@@ -8269,39 +8174,37 @@ msgstr "%1 மற்றும் %2"
 #, kde-format
 msgctxt "Before Noon KLocale::LongName"
 msgid "Ante Meridiem"
-msgstr "Ante Meridiem"
+msgstr "முற்பகல்"
 
 #: kdecore/klocale_kde.cpp:2154
-#, fuzzy, kde-format
-#| msgid "Av"
+#, kde-format
 msgctxt "Before Noon KLocale::ShortName"
 msgid "AM"
-msgstr "அவ்"
+msgstr "மு.ப."
 
 #: kdecore/klocale_kde.cpp:2155
-#, fuzzy, kde-format
-#| msgid "Av"
+#, kde-format
 msgctxt "Before Noon KLocale::NarrowName"
 msgid "A"
-msgstr "அவ்"
+msgstr "மு"
 
 #: kdecore/klocale_kde.cpp:2158
 #, kde-format
 msgctxt "After Noon KLocale::LongName"
 msgid "Post Meridiem"
-msgstr "Post Meridiem"
+msgstr "பிற்பகல்"
 
 #: kdecore/klocale_kde.cpp:2159
 #, kde-format
 msgctxt "After Noon KLocale::ShortName"
 msgid "PM"
-msgstr "PM"
+msgstr "பி.ப."
 
 #: kdecore/klocale_kde.cpp:2160
 #, kde-format
 msgctxt "After Noon KLocale::NarrowName"
 msgid "P"
-msgstr "P"
+msgstr "பி"
 
 #: kdecore/klocale_kde.cpp:2227 kio/kfilemetadataprovider.cpp:209
 #, kde-format
@@ -13772,60 +13675,57 @@ msgstr "தேடியிலிருந்து ஏவப்பட்டா�
 #, kde-format
 msgctxt "@label"
 msgid "Add Comment..."
-msgstr "கருத்தைச் சேர்..."
+msgstr "குறிப்பைச் சேர்..."
 
 #: kio/kcommentwidget.cpp:74
 #, kde-format
 msgctxt "@label"
 msgid "Change..."
-msgstr "மாற்றுக..."
+msgstr "மாற்று..."
 
 #: kio/kcommentwidget.cpp:128
 #, kde-format
 msgctxt "@title:window"
 msgid "Change Comment"
-msgstr "கருத்தை மாற்று"
+msgstr "குறிப்பை மாற்றல்"
 
 #: kio/kcommentwidget.cpp:129
 #, kde-format
 msgctxt "@title:window"
 msgid "Add Comment"
-msgstr "கருத்தை சேர்"
+msgstr "குறிப்பை செர்த்தல்"
 
 #: kio/kdevicelistmodel.cpp:115
 #, kde-format
 msgid "Device name"
-msgstr "கருவியின் பெயர்"
+msgstr "சாதனப் பெயர்"
 
 #: kio/kdirselectdialog.cpp:136
-#, fuzzy, kde-format
-#| msgid "New Folder"
+#, kde-format
 msgctxt "folder name"
 msgid "New Folder"
-msgstr "புதிய அடைவு:"
+msgstr "புதிய அடைவு"
 
 #: kio/kdirselectdialog.cpp:141
-#, fuzzy, kde-format
-#| msgid "New Folder"
+#, kde-format
 msgctxt "@title:window"
 msgid "New Folder"
-msgstr "புதிய அடைவு:"
+msgstr "புதிய அடைவு"
 
 #: kio/kdirselectdialog.cpp:142
-#, fuzzy, kde-format
-#| msgid ""
-#| "Create new folder in:\n"
-#| "%1"
+#, kde-format
 msgctxt "@label:textbox"
 msgid ""
 "Create new folder in:\n"
 "%1"
-msgstr "%1ல் புதிய அடைவை உருவாக்குக: "
+msgstr ""
+"இங்கு புதிய அடைவை உருவாக்கு:\n"
+"%1"
 
 #: kio/kdirselectdialog.cpp:172
 #, kde-format
 msgid "A file or folder named %1 already exists."
-msgstr "%1 எனும் அடைவு ஏற்கனவே உள்ளது"
+msgstr "%1 என்ற பெயரைக்கொண்ட அடைவு அல்லது கோப்பு ஏற்கனவே உள்ளது."
 
 #: kio/kdirselectdialog.cpp:175
 #, kde-format
@@ -13833,70 +13733,63 @@ msgid "You do not have permission to create that folder."
 msgstr "இந்த அடைவை உருவாக்க உங்களுக்கு அனுமதி இல்லை."
 
 #: kio/kdirselectdialog.cpp:290
-#, fuzzy, kde-format
-#| msgid "Select Folder"
+#, kde-format
 msgctxt "@title:window"
 msgid "Select Folder"
-msgstr "அடைவை தேர்வு செய்"
+msgstr "அடைவை தேர்ந்தெடுத்தல்"
 
 #: kio/kdirselectdialog.cpp:299
-#, fuzzy, kde-format
-#| msgid "New Folder..."
+#, kde-format
 msgctxt "@action:button"
 msgid "New Folder..."
-msgstr "புதிய அடைவு:"
+msgstr "புதிய அடைவு..."
 
 #: kio/kdirselectdialog.cpp:345
-#, fuzzy, kde-format
-#| msgid "New Folder..."
+#, kde-format
 msgctxt "@action:inmenu"
 msgid "New Folder..."
-msgstr "புதிய அடைவு:"
+msgstr "புதிய அடைவு..."
 
 #: kio/kdirselectdialog.cpp:352
-#, fuzzy, kde-format
-#| msgid "Move to Trash"
+#, kde-format
 msgctxt "@action:inmenu"
 msgid "Move to Trash"
-msgstr "தொட்டிக்கு நகர்த்து"
+msgstr "அகற்றிடத்துக்கு நகர்த்து"
 
 #: kio/kdirselectdialog.cpp:359
-#, fuzzy, kde-format
-#| msgid "Delete"
+#, kde-format
 msgctxt "@action:inmenu"
 msgid "Delete"
-msgstr "அகற்றுகிறது"
+msgstr "அழி"
 
 #: kio/kdirselectdialog.cpp:368
-#, fuzzy, kde-format
-#| msgid "Show Hidden Folders"
+#, kde-format
 msgctxt "@option:check"
 msgid "Show Hidden Folders"
-msgstr "மறைந்துள்ள அடைவுகளைக் காட்டு"
+msgstr "மறைந்துள்ள அடைவுகளை காட்டு"
 
 #: kio/kdirselectdialog.cpp:375
-#, fuzzy, kde-format
-#| msgid "Properties"
+#, kde-format
 msgctxt "@action:inmenu"
 msgid "Properties"
-msgstr " பண்புகள்"
+msgstr "பண்புகள்"
 
 #: kio/kfiledialog.cpp:132
 #, kde-format
 msgid "*|All files"
-msgstr "*|எல்லாக் கோப்புகள்"
+msgstr "*|அனைத்து கோப்புகள்"
 
 #: kio/kfiledialog.cpp:332
 #, kde-format
 msgid "All Supported Files"
-msgstr "ஆதரவுள்ள எல்லாக் கோப்புகளும்"
+msgstr "ஆதரிக்கப்படும் அனைத்து கோப்புகள்"
 
 #: kio/kfiledialog.cpp:455 kio/kfiledialog.cpp:465 kio/kfiledialog.cpp:491
 #: kio/kfiledialog.cpp:515 kio/kfiledialog.cpp:525 kio/kfiledialog.cpp:553
 #: kio/kfiledialog.cpp:591 kio/kfiledialog.cpp:643
 #, kde-format
 msgid "Open"
-msgstr "திறக்க"
+msgstr "திற"
 
 #: kio/kfiledialog.cpp:734 kio/kfiledialog.cpp:754 kio/kfiledialog.cpp:794
 #: kio/kfiledialog.cpp:838
@@ -13909,70 +13802,59 @@ msgstr "வேறு பெயரில் சேமி"
 msgctxt "@item:intable"
 msgid "%1 item"
 msgid_plural "%1 items"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1 உருப்படி"
+msgstr[1] "%1 உருப்படிகள்"
 
 #: kio/kfilemetadataprovider.cpp:446 kio/knfotranslator.cpp:39
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@label"
 msgid "Comment"
 msgstr "குறிப்பு"
 
 #: kio/kfilemetadataprovider.cpp:447
-#, fuzzy, kde-format
-#| msgid "Modified:"
+#, kde-format
 msgctxt "@label"
 msgid "Modified"
-msgstr "மாற்றியது:"
+msgstr "மாற்றப்பட்டது"
 
 #: kio/kfilemetadataprovider.cpp:448
-#, fuzzy, kde-format
-#| msgid "Owner"
+#, kde-format
 msgctxt "@label"
 msgid "Owner"
 msgstr "உரிமையாளர்"
 
 #: kio/kfilemetadataprovider.cpp:449
-#, fuzzy, kde-format
-#| msgctxt "@title:column"
-#| msgid "Permissions"
+#, kde-format
 msgctxt "@label"
 msgid "Permissions"
 msgstr "அனுமதிகள்"
 
 #: kio/kfilemetadataprovider.cpp:450
-#, fuzzy, kde-format
-#| msgctxt "@title job"
-#| msgid "Stating"
+#, kde-format
 msgctxt "@label"
 msgid "Rating"
-msgstr "விவரிக்கப்படுகிறது"
+msgstr "மதிப்பீடு"
 
 #: kio/kfilemetadataprovider.cpp:451
-#, fuzzy, kde-format
-#| msgctxt "@title:column"
-#| msgid "Size"
+#, kde-format
 msgctxt "@label"
 msgid "Size"
 msgstr "அளவு"
 
 #: kio/kfilemetadataprovider.cpp:452
-#, fuzzy, kde-format
-#| msgid "Trash"
+#, kde-format
 msgctxt "@label"
 msgid "Tags"
-msgstr "அகற்றிடம்"
+msgstr "குறிச்சொற்கள்"
 
 #: kio/kfilemetadataprovider.cpp:453
-#, fuzzy, kde-format
-#| msgid "Size:"
+#, kde-format
 msgctxt "@label"
 msgid "Total Size"
-msgstr "அளவு:"
+msgstr "மொத்த அளவு"
 
 #: kio/kfilemetadataprovider.cpp:454
-#, fuzzy, kde-format
-#| msgid "Type"
+#, kde-format
 msgctxt "@label"
 msgid "Type"
 msgstr "வகை"
@@ -13985,22 +13867,22 @@ msgstr ""
 #: kio/kfilemetadatareaderprocess.cpp:236
 #, kde-format
 msgid "KFileMetaDataReader can be used to read metadata from a file"
-msgstr ""
+msgstr "ஓர் கோப்பின் மேனிலைத் தரவை படிக்க KFileMetaDataReader-ஐ பயன்படுத்தலாம்"
 
 #: kio/kfilemetadatareaderprocess.cpp:238
 #, kde-format
 msgid "(C) 2011, Peter Penz"
-msgstr ""
+msgstr "(C) 2011, பீட்டர் பென்ஸ்"
 
 #: kio/kfilemetadatareaderprocess.cpp:239
 #, kde-format
 msgid "Peter Penz"
-msgstr ""
+msgstr "பீட்டர் பென்ஸ்"
 
 #: kio/kfilemetadatareaderprocess.cpp:239
 #, kde-format
 msgid "Current maintainer"
-msgstr ""
+msgstr "தற்போதைய பராமரிப்பாளர்"
 
 #: kio/kfilemetadatareaderprocess.cpp:244
 #, kde-format
@@ -14015,13 +13897,12 @@ msgstr ""
 #: kio/kfilemetainfowidget.cpp:161
 #, kde-format
 msgid "<Error>"
-msgstr "<பிழை>"
+msgstr "<சிக்கல்>"
 
 #: kio/kfiletreeview.cpp:192
-#, fuzzy, kde-format
-#| msgid "Show Hidden Folders"
+#, kde-format
 msgid "Show Hidden Folders"
-msgstr "மறைந்துள்ள அடைவுகளைக் காட்டு"
+msgstr "மறைந்துள்ள அடைவுகளை காட்டு"
 
 #: kio/kimageio.cpp:46
 #, kde-format
@@ -14032,13 +13913,13 @@ msgstr "அனைத்துப் படங்கள்"
 #, kde-format
 msgctxt "@title:window"
 msgid "Configure Shown Data"
-msgstr ""
+msgstr "காட்டப்படும் விவரங்களை அமைத்தல்"
 
 #: kio/kmetaprops.cpp:60
 #, kde-format
 msgctxt "@label::textbox"
 msgid "Select which data should be shown:"
-msgstr ""
+msgstr "காட்ட வேண்டிய விவரங்களை தேர்வு செய்யுங்கள்:"
 
 #: kio/kmetaprops.cpp:123
 #, kde-format
@@ -14053,16 +13934,13 @@ msgid "Information"
 msgstr "தகவல்"
 
 #: kio/knfotranslator.cpp:40
-#, fuzzy, kde-format
-#| msgid "Created:"
+#, kde-format
 msgctxt "@label creation date"
 msgid "Created"
-msgstr "உருவாக்கியது:"
+msgstr "உருவாக்கப்பட்டது"
 
 #: kio/knfotranslator.cpp:41
-#, fuzzy, kde-format
-#| msgctxt "@title:column"
-#| msgid "Size"
+#, kde-format
 msgctxt "@label file content size"
 msgid "Size"
 msgstr "அளவு"
@@ -14074,18 +13952,16 @@ msgid "Depends"
 msgstr ""
 
 #: kio/knfotranslator.cpp:43
-#, fuzzy, kde-format
-#| msgid "Description"
+#, kde-format
 msgctxt "@label"
 msgid "Description"
-msgstr "விவரம்"
+msgstr "விவரணம்"
 
 #: kio/knfotranslator.cpp:44
-#, fuzzy, kde-format
-#| msgid "&General"
+#, kde-format
 msgctxt "@label Software used to generate content"
 msgid "Generator"
-msgstr "பொது"
+msgstr ""
 
 #: kio/knfotranslator.cpp:45
 #, kde-format
@@ -14103,45 +13979,40 @@ msgid "Has Logical Part"
 msgstr ""
 
 #: kio/knfotranslator.cpp:47
-#, fuzzy, kde-format
-#| msgid "Parent Folder"
+#, kde-format
 msgctxt "@label parent directory"
 msgid "Part of"
-msgstr "தாய் அடைவு"
+msgstr "எதில் அடங்கியது"
 
 #: kio/knfotranslator.cpp:48
 #, kde-format
 msgctxt "@label"
 msgid "Keyword"
-msgstr ""
+msgstr "முதன்மைச்சொல்"
 
 #: kio/knfotranslator.cpp:49
-#, fuzzy, kde-format
-#| msgid "Modified:"
+#, kde-format
 msgctxt "@label modified date of file"
 msgid "Modified"
-msgstr "மாற்றியது:"
+msgstr "மாற்றப்பட்டது"
 
 #: kio/knfotranslator.cpp:50
-#, fuzzy, kde-format
-#| msgid "Mime Type"
+#, kde-format
 msgctxt "@label"
 msgid "MIME Type"
-msgstr "Mime வகை"
+msgstr "மைம் வகை"
 
 #: kio/knfotranslator.cpp:51
-#, fuzzy, kde-format
-#| msgid "Contents:"
+#, kde-format
 msgctxt "@label"
 msgid "Content"
-msgstr "பொருளடக்கம்"
+msgstr "உள்ளடக்கம்"
 
 #: kio/knfotranslator.cpp:52
-#, fuzzy, kde-format
-#| msgid "created on %1"
+#, kde-format
 msgctxt "@label"
 msgid "Related To"
-msgstr " உருவாக்கப்பட்ட நாள்'%1'"
+msgstr "எதனுடன் சம்பந்தப்பட்டது"
 
 #: kio/knfotranslator.cpp:53
 #, fuzzy, kde-format
@@ -14151,30 +14022,28 @@ msgid "Subject"
 msgstr "பொருள் வரி"
 
 #: kio/knfotranslator.cpp:54
-#, fuzzy, kde-format
-#| msgid "File"
+#, kde-format
 msgctxt "@label music title"
 msgid "Title"
-msgstr "கோப்பு"
+msgstr "தலைப்பு"
 
 #: kio/knfotranslator.cpp:55
 #, kde-format
 msgctxt "@label file URL"
 msgid "File Location"
-msgstr ""
+msgstr "கோப்பின் இருப்பிடம்"
 
 #: kio/knfotranslator.cpp:56
-#, fuzzy, kde-format
-#| msgid "Created:"
+#, kde-format
 msgctxt "@label"
 msgid "Creator"
-msgstr "உருவாக்கியது:"
+msgstr "உருவாக்கியது"
 
 #: kio/knfotranslator.cpp:57
 #, kde-format
 msgctxt "@label"
 msgid "Average Bitrate"
-msgstr ""
+msgstr "சராசரி பிட்விகிதம்"
 
 #: kio/knfotranslator.cpp:58
 #, kde-format
@@ -14183,11 +14052,10 @@ msgid "Channels"
 msgstr ""
 
 #: kio/knfotranslator.cpp:59
-#, fuzzy, kde-format
-#| msgid "Categories"
+#, kde-format
 msgctxt "@label number of characters"
 msgid "Characters"
-msgstr "வகைகள்"
+msgstr "எழுத்துக்கள்"
 
 #: kio/knfotranslator.cpp:60
 #, fuzzy, kde-format
@@ -14203,18 +14071,16 @@ msgid "Color Depth"
 msgstr ""
 
 #: kio/knfotranslator.cpp:62
-#, fuzzy, kde-format
-#| msgid "Destination"
+#, kde-format
 msgctxt "@label"
 msgid "Duration"
-msgstr "சேருமிடம்"
+msgstr "நீடிக்கும் காலம்"
 
 #: kio/knfotranslator.cpp:63
-#, fuzzy, kde-format
-#| msgid "Device name"
+#, kde-format
 msgctxt "@label"
 msgid "Filename"
-msgstr "கருவியின் பெயர்"
+msgstr "கோப்புப் பெயர்"
 
 #: kio/knfotranslator.cpp:64
 #, kde-format
@@ -14226,7 +14092,7 @@ msgstr ""
 #, kde-format
 msgctxt "@label"
 msgid "Height"
-msgstr ""
+msgstr "உயரம்"
 
 #: kio/knfotranslator.cpp:66
 #, kde-format
@@ -14235,17 +14101,16 @@ msgid "Interlace Mode"
 msgstr ""
 
 #: kio/knfotranslator.cpp:67
-#, fuzzy, kde-format
-#| msgid "Link"
+#, kde-format
 msgctxt "@label number of lines"
 msgid "Lines"
-msgstr "இணைப்பு"
+msgstr "வரிகள்"
 
 #: kio/knfotranslator.cpp:68
 #, kde-format
 msgctxt "@label"
 msgid "Programming Language"
-msgstr ""
+msgstr "நிரலாக்க மொழி"
 
 #: kio/knfotranslator.cpp:69
 #, kde-format
@@ -14254,17 +14119,16 @@ msgid "Sample Rate"
 msgstr ""
 
 #: kio/knfotranslator.cpp:70
-#, fuzzy, kde-format
-#| msgid "Write"
+#, kde-format
 msgctxt "@label"
 msgid "Width"
-msgstr "எழுது"
+msgstr "அகலம்"
 
 #: kio/knfotranslator.cpp:71
 #, kde-format
 msgctxt "@label number of words"
 msgid "Words"
-msgstr ""
+msgstr "சொற்கள்"
 
 #: kio/knfotranslator.cpp:72
 #, kde-format
@@ -14311,11 +14175,10 @@ msgid "ISO Speed Ratings"
 msgstr ""
 
 #: kio/knfotranslator.cpp:79
-#, fuzzy, kde-format
-#| msgid "Mask"
+#, kde-format
 msgctxt "@label EXIF"
 msgid "Make"
-msgstr "முகமூடி"
+msgstr ""
 
 #: kio/knfotranslator.cpp:80
 #, kde-format
@@ -14330,11 +14193,10 @@ msgid "Model"
 msgstr ""
 
 #: kio/knfotranslator.cpp:82
-#, fuzzy, kde-format
-#| msgid "Organization:"
+#, kde-format
 msgctxt "@label EXIF"
 msgid "Orientation"
-msgstr "நிறுவனம்:"
+msgstr "நோக்குநிலை"
 
 #: kio/knfotranslator.cpp:83
 #, kde-format
@@ -14343,11 +14205,10 @@ msgid "White Balance"
 msgstr ""
 
 #: kio/knfotranslator.cpp:84
-#, fuzzy, kde-format
-#| msgid "Directory"
+#, kde-format
 msgctxt "@label video director"
 msgid "Director"
-msgstr "அடைவு"
+msgstr "இயக்குநர்"
 
 #: kio/knfotranslator.cpp:85
 #, fuzzy, kde-format
@@ -14360,20 +14221,19 @@ msgstr "பொது"
 #, kde-format
 msgctxt "@label music album"
 msgid "Album"
-msgstr ""
+msgstr "ஆல்பம்"
 
 #: kio/knfotranslator.cpp:87
 #, kde-format
 msgctxt "@label"
 msgid "Performer"
-msgstr ""
+msgstr "பாடகர்"
 
 #: kio/knfotranslator.cpp:88
-#, fuzzy, kde-format
-#| msgid "&Remove '%1'"
+#, kde-format
 msgctxt "@label"
 msgid "Release Date"
-msgstr "&ீட்டை க '%1'நீக்கு"
+msgstr "வெளியிட்ட தேதி"
 
 #: kio/knfotranslator.cpp:89
 #, kde-format
@@ -14382,58 +14242,52 @@ msgid "Track"
 msgstr ""
 
 #: kio/knfotranslator.cpp:90
-#, fuzzy, kde-format
-#| msgid "URL Resource Invalid"
+#, kde-format
 msgctxt "@label resource created time"
 msgid "Resource Created"
-msgstr "URL Resource Invalid."
+msgstr "உருவாக்கப்பட்டது"
 
 #: kio/knfotranslator.cpp:91
-#, fuzzy, kde-format
-#| msgid "Source"
+#, kde-format
 msgctxt "@label"
 msgid "Sub Resource"
-msgstr "மூலம்"
+msgstr "இவற்றை கொண்டுள்ளது"
 
 #: kio/knfotranslator.cpp:92
-#, fuzzy, kde-format
-#| msgid "Modified:"
+#, kde-format
 msgctxt "@label resource last modified"
 msgid "Resource Modified"
-msgstr "மாற்றியது:"
+msgstr "மாற்றப்பட்டது"
 
 #: kio/knfotranslator.cpp:93
-#, fuzzy, kde-format
-#| msgctxt "@title job"
-#| msgid "Stating"
+#, kde-format
 msgctxt "@label"
 msgid "Numeric Rating"
-msgstr "விவரிக்கப்படுகிறது"
+msgstr "எண்வகை மதிப்பீடு"
 
 #: kio/knfotranslator.cpp:94
 #, kde-format
 msgctxt "@label"
 msgid "Copied From"
-msgstr ""
+msgstr "எதன் நகல்"
 
 #: kio/knfotranslator.cpp:95
 #, kde-format
 msgctxt "@label"
 msgid "First Usage"
-msgstr ""
+msgstr "முதல் பயன்பாடு"
 
 #: kio/knfotranslator.cpp:96
 #, kde-format
 msgctxt "@label"
 msgid "Last Usage"
-msgstr ""
+msgstr "கடைசி பயன்பாடு"
 
 #: kio/knfotranslator.cpp:97
-#, fuzzy, kde-format
-#| msgid "Comment"
+#, kde-format
 msgctxt "@label"
 msgid "Usage Count"
-msgstr "குறிப்பு"
+msgstr "எத்தனை முறை பயன்படுத்தியது"
 
 #: kio/knfotranslator.cpp:98
 #, kde-format
@@ -14448,7 +14302,7 @@ msgid "Unix File Mode"
 msgstr ""
 
 #: kio/knfotranslator.cpp:100
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "@label"
 msgid "Unix File Owner"
 msgstr "கோப்பு திறப்பு உரையாடல் "
@@ -14463,148 +14317,141 @@ msgstr "வகை"
 #, kde-format
 msgctxt "@label Number of fuzzy translations"
 msgid "Fuzzy Translations"
-msgstr ""
+msgstr "சந்தேகத்திற்குரிய மொழிபெயர்ப்புகள்"
 
 #: kio/knfotranslator.cpp:103
 #, kde-format
 msgctxt "@label Name of last translator"
 msgid "Last Translator"
-msgstr ""
+msgstr "கடைசியாக மொழிபெயர்த்தவர்"
 
 #: kio/knfotranslator.cpp:104
 #, kde-format
 msgctxt "@label Number of obsolete translations"
 msgid "Obsolete Translations"
-msgstr ""
+msgstr "பயனற்ற மொழிபெயர்ப்புகள்"
 
 #: kio/knfotranslator.cpp:105
 #, kde-format
 msgctxt "@label"
 msgid "Translation Source Date"
-msgstr ""
+msgstr "மொழிபெயர்ப்பு மூலத்தின் தேதி"
 
 #: kio/knfotranslator.cpp:106
 #, kde-format
 msgctxt "@label Number of total translations"
 msgid "Total Translations"
-msgstr ""
+msgstr "மொத்த மொழிபெயர்ப்புகள்"
 
 #: kio/knfotranslator.cpp:107
 #, kde-format
 msgctxt "@label Number of translated strings"
 msgid "Translated"
-msgstr "உருவாக்கியது"
+msgstr "மொழிபெயர்த்த‍வை"
 
 #: kio/knfotranslator.cpp:108
 #, kde-format
 msgctxt "@label"
 msgid "Translation Date"
-msgstr ""
+msgstr "மொழிபெயர்த்த தேதி"
 
 #: kio/knfotranslator.cpp:109
 #, kde-format
 msgctxt "@label Number of untranslated strings"
 msgid "Untranslated"
-msgstr ""
+msgstr "மொழிபெயர்க்காதவை"
 
 #: kio/kpreviewprops.cpp:51
 #, kde-format
 msgid "P&review"
-msgstr "&முன்னாய்வு"
+msgstr "&முன்னோட்டம்"
 
 #: kio/kscan.cpp:49
 #, kde-format
 msgid "Acquire Image"
-msgstr "உருவைக் கவர்"
+msgstr "படத்தை பிடி"
 
 #: kio/kscan.cpp:97
 #, kde-format
 msgid "OCR Image"
-msgstr "OCR உரு"
+msgstr "OCR படம்"
 
-#: kio/netaccess.cpp:103
+#: kio/netaccess.cpp:102
 #, kde-format
 msgid "File '%1' is not readable"
-msgstr "கோப்பினை '%1' வாசிக்க இயலவில்லை"
+msgstr "'%1' என்ற கோப்பை படிக்க முடியவில்லை"
 
-#: kio/netaccess.cpp:437
+#: kio/netaccess.cpp:435
 #, kde-format
 msgid "ERROR: Unknown protocol '%1'"
-msgstr "பிழை: அறியப் படாத நெறி ப்புநெறி '%1'"
+msgstr "சிக்கல்: தெரியாத நெறிமுறை '%1'"
 
 #: kio/passworddialog.cpp:56
 #, kde-format
 msgid "Authorization Dialog"
-msgstr "உரிமை வழங்கும் உரையாடல்"
+msgstr "உரிமை வழங்கும் சாளரம்"
 
 #: kioslave/metainfo/metainfo.cpp:98
 #, kde-format
 msgid "No metainfo for %1"
-msgstr "%1 குரிய மேல் விவரங்கள் இல்லை"
+msgstr "%1 என்பதற்கான மேனிலை விவரங்கள் இல்லை"
 
 #. i18n: ectx: property (text), widget (QTreeWidget, treeWidget)
 #: kssl/kcm/cacertificates.ui:24
-#, fuzzy, kde-format
-#| msgid "Organization:"
+#, kde-format
 msgid "Organization / Common Name"
-msgstr "நிறுவனம்:"
+msgstr "நிறுவனம் / வழக்கமான பெயர்"
 
 #. i18n: ectx: property (text), widget (QTreeWidget, treeWidget)
 #: kssl/kcm/cacertificates.ui:29
-#, fuzzy, kde-format
-#| msgid "Organizational unit:"
+#, kde-format
 msgid "Organizational Unit"
-msgstr "நிறுவன அலகு:"
+msgstr "நிறுவனத்தின் பிரிவு"
 
 #. i18n: ectx: property (text), widget (QPushButton, displaySelection)
 #: kssl/kcm/cacertificates.ui:42
 #, kde-format
 msgid "Display..."
-msgstr ""
+msgstr "காட்டு..."
 
 #. i18n: ectx: property (text), widget (QPushButton, disableSelection)
 #: kssl/kcm/cacertificates.ui:68
-#, fuzzy, kde-format
-#| msgid "disable XIM"
+#, kde-format
 msgid "Disable"
-msgstr "XIM  முடக்குக"
+msgstr "முடக்கு"
 
 #. i18n: ectx: property (text), widget (QPushButton, enableSelection)
 #: kssl/kcm/cacertificates.ui:78
-#, fuzzy, kde-format
-#| msgid "Emblems"
+#, kde-format
 msgid "Enable"
-msgstr "சின்னங்கள்"
+msgstr "இயக்கு"
 
 #. i18n: ectx: property (text), widget (QPushButton, removeSelection)
 #: kssl/kcm/cacertificates.ui:104
 #, kde-format
 msgid "Remove"
-msgstr "அகற்றுக"
+msgstr "நீக்கு"
 
 #. i18n: ectx: property (text), widget (QPushButton, add)
 #: kssl/kcm/cacertificates.ui:111
 #, kde-format
 msgid "Add..."
-msgstr "சேர்க்க..."
+msgstr "சேர்..."
 
 #: kssl/kcm/cacertificatespage.cpp:140
-#, fuzzy, kde-format
-#| msgid "Send certificate"
+#, kde-format
 msgid "System certificates"
-msgstr "சான்றினைை அனுப்பக."
+msgstr "இயங்குதள சான்றிதழ்கள்"
 
 #: kssl/kcm/cacertificatespage.cpp:147
-#, fuzzy, kde-format
-#| msgid "Send certificate"
+#, kde-format
 msgid "User-added certificates"
-msgstr "சான்றினைை அனுப்பக."
+msgstr "பயனரால் சேர்க்கப்பட்ட சான்றிதழ்கள்"
 
 #: kssl/kcm/cacertificatespage.cpp:302
-#, fuzzy, kde-format
-#| msgid "Certificate"
+#, kde-format
 msgid "Pick Certificates"
-msgstr "சான்றிதழ்"
+msgstr "சான்றிதழ்களை தேர்ந்தெடுத்தல்"
 
 #. i18n: ectx: property (text), widget (QLabel, subjectHeading)
 #: kssl/kcm/displaycert.ui:23
@@ -14615,45 +14462,39 @@ msgstr "பாதுகாப்புத் தகவல்"
 
 #. i18n: ectx: property (text), widget (QLabel, issuerHeading)
 #: kssl/kcm/displaycert.ui:39
-#, fuzzy, kde-format
-#| msgid " <b>[Cross Domain]</b>"
+#, kde-format
 msgid "<b>Issuer Information</b>"
-msgstr " <b>[இடை தளம்]</b>"
+msgstr " <b>வழங்கியவரின் விவரங்கள்</b>"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: kssl/kcm/displaycert.ui:55
-#, fuzzy, kde-format
-#| msgid "<b>%1</b>"
+#, kde-format
 msgid "<b>Other</b>"
-msgstr "<b>%1</b>"
+msgstr "<b>மற்றவை</b>"
 
 #. i18n: ectx: property (text), widget (QLabel, validityPeriodLabel)
 #: kssl/kcm/displaycert.ui:64
-#, fuzzy, kde-format
-#| msgid "Valid from:"
+#, kde-format
 msgid "Validity period"
-msgstr "இதிலிருந்து செல்லுபடியாகும்:"
+msgstr "செல்லுபடியாகும் காலம்"
 
 #. i18n: ectx: property (text), widget (QLabel, serialNumberLabel)
 #: kssl/kcm/displaycert.ui:78
-#, fuzzy, kde-format
-#| msgid "Serial number:"
+#, kde-format
 msgid "Serial number"
-msgstr "தொடர் எண்:"
+msgstr "தொடர் எண்"
 
 #. i18n: ectx: property (text), widget (QLabel, md5DigestLabel)
 #: kssl/kcm/displaycert.ui:92
-#, fuzzy, kde-format
-#| msgid "MD5 digest:"
+#, kde-format
 msgid "MD5 digest"
-msgstr "MD5 திரட்டு:"
+msgstr "MD5 சரிகாண்தொகை"
 
 #. i18n: ectx: property (text), widget (QLabel, sha1DigestLabel)
 #: kssl/kcm/displaycert.ui:106
-#, fuzzy, kde-format
-#| msgid "MD5 digest:"
+#, kde-format
 msgid "SHA1 digest"
-msgstr "MD5 திரட்டு:"
+msgstr "SHA1 சரிகாண்தொகை"
 
 #: kssl/kcm/displaycertdialog.cpp:73
 #, fuzzy, kde-format
@@ -15036,3 +14877,95 @@ msgstr "இச்சான்றிதழ் முறையற்றது."
 #, kde-format
 msgid "GMT"
 msgstr "GMT"
+
+#, fuzzy
+#~ msgctxt "color"
+#~ msgid "hot"
+#~ msgstr "தி"
+
+#, fuzzy
+#~ msgctxt "color"
+#~ msgid "sea"
+#~ msgstr "இடைநிறுத்துக"
+
+#, fuzzy
+#~ msgctxt "@item Calendar system"
+#~ msgid "Gregorian (Proleptic)"
+#~ msgstr "கிரிகோரியன்"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 1 - ShortNamePossessive"
+#~ msgid "of Mes"
+#~ msgstr "மெஹ்"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 5 - LongNamePossessive"
+#~ msgid "of Ter"
+#~ msgstr "டிர்"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 1 - ShortName"
+#~ msgid "Mes"
+#~ msgstr "ஆம்"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 5 - LongName"
+#~ msgid "Ter"
+#~ msgstr "செவ்வாய்"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 4 - ShortDayName"
+#~ msgid "Ham"
+#~ msgstr "முற்பகல்"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 5 - ShortDayName"
+#~ msgid "Arb"
+#~ msgstr "அர்ப்"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 3 - LongDayName"
+#~ msgid "Rob"
+#~ msgstr "பணி"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 5 - LongDayName"
+#~ msgid "Arb"
+#~ msgstr "அர்ப்"
+
+#~ msgctxt "of May long"
+#~ msgid "of May"
+#~ msgstr "மே"
+
+#~ msgctxt "May long"
+#~ msgid "May"
+#~ msgstr "மே"
+
+#~ msgid "R. Thaani"
+#~ msgstr "ஆர் தானி"
+
+#~ msgid "J. Thaani"
+#~ msgstr "ஜே தானி"
+
+#~ msgid "Hijjah"
+#~ msgstr "ஹிஜ்ஜா"
+
+#~ msgctxt "of Tir long"
+#~ msgid "of Tir"
+#~ msgstr "டிர்"
+
+#~ msgctxt "of Dei long"
+#~ msgid "of Dei"
+#~ msgstr "தேய்"
+
+#~ msgctxt "Tir long"
+#~ msgid "Tir"
+#~ msgstr "டிர்"
+
+#~ msgctxt "Dei long"
+#~ msgid "Dei"
+#~ msgstr "தெய்"
+
+#~ msgctxt "Shanbe short"
+#~ msgid "shn"
+#~ msgstr "ஷான்பெ"

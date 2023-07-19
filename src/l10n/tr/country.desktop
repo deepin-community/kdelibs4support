@@ -1,8 +1,8 @@
 [KCM Locale]
 Name=Turkey
 Name[ar]=تركيّا
-Name[ast]=Turquía
 Name[az]=Türkiyə
+Name[bg]=Турция
 Name[bs]=Turska
 Name[ca]=Turquia
 Name[ca@valencia]=Turquia
@@ -25,7 +25,7 @@ Name[id]=Turki
 Name[is]=Tyrkland
 Name[it]=Turchia
 Name[ka]=თურქეთი
-Name[ko]=터키
+Name[ko]=튀르키예
 Name[lt]=Turkija
 Name[lv]=Turcija
 Name[mr]=तुर्कस्तान
@@ -37,6 +37,7 @@ Name[pa]=ਤੁਰਕੀ
 Name[pl]=Turcja
 Name[pt]=Turquia
 Name[pt_BR]=Turquia
+Name[ro]=Turcia
 Name[ru]=Турция
 Name[se]=Durka
 Name[sk]=Turecko

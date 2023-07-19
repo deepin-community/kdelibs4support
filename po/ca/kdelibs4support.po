@@ -1,16 +1,16 @@
 # Translation of kdelibs4support.po to Catalan
-# Copyright (C) 2014-2021 This_file_is_part_of_KDE
+# Copyright (C) 2014-2022 This_file_is_part_of_KDE
 # This file is distributed under the license LGPL version 2.1 or
 # version 3 or later versions approved by the membership of KDE e.V.
 #
-# Josep M. Ferrer <txemaq@gmail.com>, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021.
+# Josep M. Ferrer <txemaq@gmail.com>, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022.
 # Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2015, 2017, 2019, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4support\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-27 00:14+0000\n"
-"PO-Revision-Date: 2021-11-07 19:48+0100\n"
+"POT-Creation-Date: 2023-01-14 00:53+0000\n"
+"PO-Revision-Date: 2022-03-31 21:05+0200\n"
 "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca\n"
@@ -789,52 +789,52 @@ msgstr "BlauApagat"
 #, kde-format
 msgctxt "color"
 msgid "MediumOrchid"
-msgstr "OrquídiaMig"
+msgstr "OrquídiaMitjà"
 
 #, kde-format
 msgctxt "color"
 msgid "MediumOrchid1"
-msgstr "OrquídiaMig1"
+msgstr "OrquídiaMitjà1"
 
 #, kde-format
 msgctxt "color"
 msgid "MediumOrchid2"
-msgstr "OrquídiaMig2"
+msgstr "OrquídiaMitjà2"
 
 #, kde-format
 msgctxt "color"
 msgid "MediumOrchid3"
-msgstr "OrquídiaMig3"
+msgstr "OrquídiaMitjà3"
 
 #, kde-format
 msgctxt "color"
 msgid "MediumOrchid4"
-msgstr "OrquídiaMig4"
+msgstr "OrquídiaMitjà4"
 
 #, kde-format
 msgctxt "color"
 msgid "MediumPurple"
-msgstr "PúrpuraMig"
+msgstr "PúrpuraMitjà"
 
 #, kde-format
 msgctxt "color"
 msgid "MediumPurple1"
-msgstr "PúrpuraMig1"
+msgstr "PúrpuraMitjà1"
 
 #, kde-format
 msgctxt "color"
 msgid "MediumPurple2"
-msgstr "PúrpuraMig2"
+msgstr "PúrpuraMitjà2"
 
 #, kde-format
 msgctxt "color"
 msgid "MediumPurple3"
-msgstr "PúrpuraMig3"
+msgstr "PúrpuraMitjà3"
 
 #, kde-format
 msgctxt "color"
 msgid "MediumPurple4"
-msgstr "PúrpuraMig4"
+msgstr "PúrpuraMitjà4"
 
 #, kde-format
 msgctxt "color"
@@ -13976,12 +13976,12 @@ msgstr "Captura una imatge"
 msgid "OCR Image"
 msgstr "Imatge OCR"
 
-#: kio/netaccess.cpp:103
+#: kio/netaccess.cpp:102
 #, kde-format
 msgid "File '%1' is not readable"
 msgstr "El fitxer «%1» no es pot llegir"
 
-#: kio/netaccess.cpp:437
+#: kio/netaccess.cpp:435
 #, kde-format
 msgid "ERROR: Unknown protocol '%1'"
 msgstr "ERROR: Protocol desconegut «%1»"
