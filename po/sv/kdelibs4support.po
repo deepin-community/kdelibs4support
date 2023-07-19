@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-27 00:14+0000\n"
+"POT-Creation-Date: 2023-01-14 00:53+0000\n"
 "PO-Revision-Date: 2021-07-09 12:24+0200\n"
 "Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
@@ -13925,12 +13925,12 @@ msgstr "Infånga bild"
 msgid "OCR Image"
 msgstr "OCR-bild"
 
-#: kio/netaccess.cpp:103
+#: kio/netaccess.cpp:102
 #, kde-format
 msgid "File '%1' is not readable"
 msgstr "Filen '%1' är inte läsbar"
 
-#: kio/netaccess.cpp:437
+#: kio/netaccess.cpp:435
 #, kde-format
 msgid "ERROR: Unknown protocol '%1'"
 msgstr "Fel: Okänt protokoll '%1'"
@@ -14458,3 +14458,212 @@ msgstr "Certifikatet är ogiltigt."
 #, kde-format
 msgid "GMT"
 msgstr "GMT"
+
+#~ msgid "Test Service for Network Status kded module"
+#~ msgstr "Provningstjänst för nätverksstatusmodulen KDED"
+
+#~ msgid "knetworkstatustestservice"
+#~ msgstr "K-nätverksstatusprovningstjänst"
+
+#~ msgid "(C) 2007 Will Stephenson"
+#~ msgstr "© 2007 Will Stephenson"
+
+#~ msgid "Will Stephenson"
+#~ msgstr "Will Stephenson"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:11pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "size:x-large; font-weight:600;\">Service for KDE 4 Offline Mode</span></"
+#~ "p></body></html>"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:11pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "size:x-large; font-weight:600;\">KDE 4-tjänst för nerkopplat läge</span></"
+#~ "p></body></html>"
+
+#~ msgid "Status:"
+#~ msgstr "Status:"
+
+#~ msgid "STATUS"
+#~ msgstr "STATUS"
+
+#~ msgid "Change to:"
+#~ msgstr "Ändra till:"
+
+#~ msgid "Unconnected"
+#~ msgstr "Oansluten"
+
+#~ msgid "Disconnecting"
+#~ msgstr "Kopplar ner"
+
+#~ msgid "Connecting"
+#~ msgstr "Ansluter"
+
+#~ msgid "Connected"
+#~ msgstr "Ansluten"
+
+#~ msgid "Perform Change"
+#~ msgstr "Utför ändring"
+
+#~ msgctxt "color"
+#~ msgid "alice"
+#~ msgstr "alice"
+
+#~ msgctxt "color"
+#~ msgid "antique"
+#~ msgstr "antik"
+
+#~ msgctxt "color"
+#~ msgid "blanched"
+#~ msgstr "blekt"
+
+#~ msgctxt "color"
+#~ msgid "cadet"
+#~ msgstr "kadett"
+
+#~ msgctxt "color"
+#~ msgid "cornflower"
+#~ msgstr "blåklint"
+
+#~ msgctxt "color"
+#~ msgid "dark"
+#~ msgstr "mörk"
+
+#~ msgctxt "color"
+#~ msgid "deep"
+#~ msgstr "djup"
+
+#~ msgctxt "color"
+#~ msgid "dim"
+#~ msgstr "dunkel"
+
+#~ msgctxt "color"
+#~ msgid "dodger"
+#~ msgstr "dodger"
+
+#~ msgctxt "color"
+#~ msgid "floral"
+#~ msgstr "blomster"
+
+#~ msgctxt "color"
+#~ msgid "forest"
+#~ msgstr "skog"
+
+#~ msgctxt "color"
+#~ msgid "ghost"
+#~ msgstr "spöke"
+
+#~ msgctxt "color"
+#~ msgid "hot"
+#~ msgstr "het"
+
+#~ msgctxt "color"
+#~ msgid "indian"
+#~ msgstr "indisk"
+
+#~ msgctxt "color"
+#~ msgid "lawn"
+#~ msgstr "gräs"
+
+#~ msgctxt "color"
+#~ msgid "lemon"
+#~ msgstr "citron"
+
+#~ msgctxt "color"
+#~ msgid "light"
+#~ msgstr "ljus"
+
+#~ msgctxt "color"
+#~ msgid "lime"
+#~ msgstr "lime"
+
+#~ msgctxt "color"
+#~ msgid "medium"
+#~ msgstr "normal"
+
+#~ msgctxt "color"
+#~ msgid "midnight"
+#~ msgstr "midnatt"
+
+#~ msgctxt "color"
+#~ msgid "mint"
+#~ msgstr "mynta"
+
+#~ msgctxt "color"
+#~ msgid "misty"
+#~ msgstr "disigt"
+
+#~ msgctxt "color"
+#~ msgid "navajo"
+#~ msgstr "navajo"
+
+#~ msgctxt "color"
+#~ msgid "old"
+#~ msgstr "gammal"
+
+#~ msgctxt "color"
+#~ msgid "olive"
+#~ msgstr "oliv"
+
+#~ msgctxt "color"
+#~ msgid "pale"
+#~ msgstr "blek"
+
+#~ msgctxt "color"
+#~ msgid "papaya"
+#~ msgstr "papaya"
+
+#~ msgctxt "color"
+#~ msgid "peach"
+#~ msgstr "persika"
+
+#~ msgctxt "color"
+#~ msgid "powder"
+#~ msgstr "pulver"
+
+#~ msgctxt "color"
+#~ msgid "rosy"
+#~ msgstr "rosig"
+
+#~ msgctxt "color"
+#~ msgid "royal"
+#~ msgstr "kung"
+
+#~ msgctxt "color"
+#~ msgid "saddle"
+#~ msgstr "sadel"
+
+#~ msgctxt "color"
+#~ msgid "sandy"
+#~ msgstr "sandig"
+
+#~ msgctxt "color"
+#~ msgid "sea"
+#~ msgstr "hav"
+
+#~ msgctxt "color"
+#~ msgid "sky"
+#~ msgstr "himmel"
+
+#~ msgctxt "color"
+#~ msgid "slate"
+#~ msgstr "skiffer"
+
+#~ msgctxt "color"
+#~ msgid "spring"
+#~ msgstr "fjäder"
+
+#~ msgctxt "color"
+#~ msgid "steel"
+#~ msgstr "stål"

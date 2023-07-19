@@ -3,7 +3,6 @@ CurrencyCodeIsoAlpha3=COU
 CurrencyCodeIsoNumeric3=970
 #Context for Name: Adjectival Country Name and Currency Name
 Name=Colombian Unidad de Valor Real
-Name[ast]=Unidá de valor real colombiana
 Name[az]=Kolumbiya Pul Vahidi  (UVR)
 Name[bg]=Колумбийски реал (обменна единица)
 Name[bn]=Colombian Unidad de Valor Real
@@ -35,6 +34,7 @@ Name[ia]=Colombian Unidad de Valor Real
 Name[id]=Unidad de Valor Real Kolombia
 Name[is]=Kólumbískt Unidad de Valor Real
 Name[it]=Unidad de Valor Real colombiana
+Name[ka]=უნიდად დე ვალორის რეალი
 Name[kk]=Колумбияның Unidad de Valor Real-ы
 Name[km]=Colombian Unidad de Valor Real
 Name[ko]=콜롬비아 UVR

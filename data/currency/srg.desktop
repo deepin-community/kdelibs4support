@@ -4,8 +4,8 @@ CurrencyCodeIsoNumeric3=740
 #Context for Name: Adjectival Country Name and Currency Name
 Name=Surinamese Guilder
 Name[ar]=الغويلدر السورينامي
-Name[ast]=Florín surinamés
 Name[az]=Surinam Qulderi
+Name[bg]=Суринамски гулден
 Name[bs]=surinamski gulden
 Name[ca]=Florí de Surinam
 Name[ca@valencia]=Florí de Surinam
@@ -26,6 +26,7 @@ Name[ia]=Guilder de Suriname
 Name[id]=Guilder Suriname
 Name[is]=Súrínamgyllini
 Name[it]=Fiorino surinamese
+Name[ka]=სურინამული გილდერი
 Name[ko]=수리남 휠던
 Name[lt]=Surinamo guldenas
 Name[mr]=सुरीनाम गिल्डर

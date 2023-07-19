@@ -1,8 +1,8 @@
 [KCM Locale]
 Name=Slovakia
 Name[ar]=سلوفاكيا
-Name[ast]=Eslovaquia
 Name[az]=Slovakiya
+Name[bg]=Словакия
 Name[bs]=Slovačka
 Name[ca]=Eslovàquia
 Name[ca@valencia]=Eslovàquia
@@ -24,7 +24,7 @@ Name[ia]=Slovachia
 Name[id]=Slovakia
 Name[is]=Slóvakía
 Name[it]=Slovacchia
-Name[ka]=სლოვაკია
+Name[ka]=სლოვაკეთი
 Name[ko]=슬로바키아
 Name[lt]=Slovakija
 Name[lv]=Slovākija
@@ -37,6 +37,7 @@ Name[pa]=ਸਲੋਵਾਕਿਆ
 Name[pl]=Słowacja
 Name[pt]=Eslováquia
 Name[pt_BR]=Eslováquia
+Name[ro]=Slovacia
 Name[ru]=Словакия
 Name[se]=Slovákia
 Name[sk]=Slovensko

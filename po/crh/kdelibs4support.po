@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-27 00:14+0000\n"
+"POT-Creation-Date: 2023-01-14 00:53+0000\n"
 "PO-Revision-Date: 2009-02-12 23:29-0600\n"
 "Last-Translator: Reşat SABIQ <tilde.birlik@gmail.com>\n"
 "Language-Team: Qırımtatarca (Qırım Türkçesi)\n"
@@ -14381,12 +14381,12 @@ msgstr ""
 msgid "OCR Image"
 msgstr ""
 
-#: kio/netaccess.cpp:103
+#: kio/netaccess.cpp:102
 #, kde-format
 msgid "File '%1' is not readable"
 msgstr ""
 
-#: kio/netaccess.cpp:437
+#: kio/netaccess.cpp:435
 #, kde-format
 msgid "ERROR: Unknown protocol '%1'"
 msgstr ""
@@ -14848,3 +14848,95 @@ msgstr ""
 #, kde-format
 msgid "GMT"
 msgstr ""
+
+#, fuzzy
+#~ msgctxt "color"
+#~ msgid "hot"
+#~ msgstr "3. kün"
+
+#, fuzzy
+#~ msgctxt "color"
+#~ msgid "sea"
+#~ msgstr "Duraqlat"
+
+#, fuzzy
+#~ msgctxt "@item Calendar system"
+#~ msgid "Gregorian (Proleptic)"
+#~ msgstr "Gregorian"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 1 - ShortNamePossessive"
+#~ msgid "of Mes"
+#~ msgstr "Meh"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 5 - LongNamePossessive"
+#~ msgid "of Ter"
+#~ msgstr "Tir"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 1 - ShortName"
+#~ msgid "Mes"
+#~ msgstr "Ebet"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 5 - LongName"
+#~ msgid "Ter"
+#~ msgstr "Sal"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 4 - ShortDayName"
+#~ msgid "Ham"
+#~ msgstr "üe"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 5 - ShortDayName"
+#~ msgid "Arb"
+#~ msgstr "4. kün"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 3 - LongDayName"
+#~ msgid "Rob"
+#~ msgstr "İş"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 5 - LongDayName"
+#~ msgid "Arb"
+#~ msgstr "4. kün"
+
+#~ msgctxt "of May long"
+#~ msgid "of May"
+#~ msgstr "Mayıs"
+
+#~ msgctxt "May long"
+#~ msgid "May"
+#~ msgstr "Mayıs"
+
+#~ msgid "R. Thaani"
+#~ msgstr "R. Ahır"
+
+#~ msgid "J. Thaani"
+#~ msgstr "C. Ahır"
+
+#~ msgid "Hijjah"
+#~ msgstr "Hicce"
+
+#~ msgctxt "of Tir long"
+#~ msgid "of Tir"
+#~ msgstr "Tir"
+
+#~ msgctxt "of Dei long"
+#~ msgid "of Dei"
+#~ msgstr "Dai"
+
+#~ msgctxt "Tir long"
+#~ msgid "Tir"
+#~ msgstr "Tir"
+
+#~ msgctxt "Dei long"
+#~ msgid "Dei"
+#~ msgstr "Dai"
+
+#~ msgctxt "Shanbe short"
+#~ msgid "shn"
+#~ msgstr "Şen"

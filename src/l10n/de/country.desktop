@@ -1,8 +1,8 @@
 [KCM Locale]
 Name=Germany
 Name[ar]=ألمانيا
-Name[ast]=Alemaña
 Name[az]=Almaniya
+Name[bg]=Германия
 Name[bs]=Njemačka
 Name[ca]=Alemanya
 Name[ca@valencia]=Alemanya
@@ -37,6 +37,7 @@ Name[pa]=ਜਰਮਨੀ
 Name[pl]=Niemcy
 Name[pt]=Alemanha
 Name[pt_BR]=Alemanha
+Name[ro]=Germania
 Name[ru]=Германия
 Name[se]=Duiska
 Name[sk]=Nemecko

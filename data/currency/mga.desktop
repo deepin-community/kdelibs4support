@@ -4,8 +4,8 @@ CurrencyCodeIsoNumeric3=969
 #Context for Name: Adjectival Country Name and Currency Name
 Name=Malagasy Ariary
 Name[ar]=الأرياري المدغشقري
-Name[ast]=Ariary malgaxe
 Name[az]=Malaqas Ariarı
+Name[bg]=Мадагаскарски ариари
 Name[bs]=madagaskarski arijari
 Name[ca]=Ariary malgaix
 Name[ca@valencia]=Ariary malgaix
@@ -26,6 +26,7 @@ Name[ia]=Ariary de Madagascar
 Name[id]=Ariary Malagasy
 Name[is]=Malagaskur ariarí
 Name[it]=Ariary malgascio
+Name[ka]=არიარი
 Name[ko]=마다가스카르 아리아리
 Name[lt]=Madagaskaro ariaris
 Name[mr]=मलागासी अरियारी

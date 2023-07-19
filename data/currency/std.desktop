@@ -4,8 +4,8 @@ CurrencyCodeIsoNumeric3=678
 #Context for Name: Adjectival Country Name and Currency Name
 Name=São Tomé and Príncipe Dobra
 Name[ar]=دوبرا الساوتوم وبرنسيب
-Name[ast]=Dobra de Santu Tomé y Príncipe
 Name[az]=San Tome və Prins Dobrası
+Name[bg]=Сао томе и принсипи добра
 Name[bs]=saotomeiprincipska dobra
 Name[ca]=Dobra de Sao Tomé i Príncipe
 Name[ca@valencia]=Dobra de Sao Tomé i Príncipe
@@ -26,6 +26,7 @@ Name[ia]=Dobra de Sancte Tome e Principe
 Name[id]=Dobra São Tomé and Príncipe
 Name[is]=Saó Tóme og Prinsípeskt dobra
 Name[it]=Dobra di São Tomé e Príncipe
+Name[ka]=სან-ტომე და პრინსიპული დობრა
 Name[ko]=상투메프린시페 도브라
 Name[lt]=San Tomės ir Prinsipės dobra
 Name[mr]=साओ टोम व प्रिंसिपी डोब्रा

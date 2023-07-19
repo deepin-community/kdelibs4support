@@ -1,16 +1,16 @@
 # Translation of kdelibs4support.po to Catalan (Valencian)
-# Copyright (C) 2014-2021 This_file_is_part_of_KDE
+# Copyright (C) 2014-2022 This_file_is_part_of_KDE
 # This file is distributed under the license LGPL version 2.1 or
 # version 3 or later versions approved by the membership of KDE e.V.
 #
-# Josep M. Ferrer <txemaq@gmail.com>, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021.
+# Josep M. Ferrer <txemaq@gmail.com>, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022.
 # Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2015, 2017, 2019, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4support\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-27 00:14+0000\n"
-"PO-Revision-Date: 2021-11-07 19:48+0100\n"
+"POT-Creation-Date: 2023-01-14 00:53+0000\n"
+"PO-Revision-Date: 2022-03-31 21:05+0200\n"
 "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca@valencia\n"
@@ -789,52 +789,52 @@ msgstr "BlauApagat"
 #, kde-format
 msgctxt "color"
 msgid "MediumOrchid"
-msgstr "OrquídiaMig"
+msgstr "OrquídiaMitjà"
 
 #, kde-format
 msgctxt "color"
 msgid "MediumOrchid1"
-msgstr "OrquídiaMig1"
+msgstr "OrquídiaMitjà1"
 
 #, kde-format
 msgctxt "color"
 msgid "MediumOrchid2"
-msgstr "OrquídiaMig2"
+msgstr "OrquídiaMitjà2"
 
 #, kde-format
 msgctxt "color"
 msgid "MediumOrchid3"
-msgstr "OrquídiaMig3"
+msgstr "OrquídiaMitjà3"
 
 #, kde-format
 msgctxt "color"
 msgid "MediumOrchid4"
-msgstr "OrquídiaMig4"
+msgstr "OrquídiaMitjà4"
 
 #, kde-format
 msgctxt "color"
 msgid "MediumPurple"
-msgstr "PúrpuraMig"
+msgstr "PúrpuraMitjà"
 
 #, kde-format
 msgctxt "color"
 msgid "MediumPurple1"
-msgstr "PúrpuraMig1"
+msgstr "PúrpuraMitjà1"
 
 #, kde-format
 msgctxt "color"
 msgid "MediumPurple2"
-msgstr "PúrpuraMig2"
+msgstr "PúrpuraMitjà2"
 
 #, kde-format
 msgctxt "color"
 msgid "MediumPurple3"
-msgstr "PúrpuraMig3"
+msgstr "PúrpuraMitjà3"
 
 #, kde-format
 msgctxt "color"
 msgid "MediumPurple4"
-msgstr "PúrpuraMig4"
+msgstr "PúrpuraMitjà4"
 
 #, kde-format
 msgctxt "color"
@@ -2189,7 +2189,7 @@ msgstr "LilaClar4"
 #, kde-format
 msgctxt "color"
 msgid "tomato"
-msgstr "Tomàquet"
+msgstr "Tomaca"
 
 #, kde-format
 msgctxt "color"
@@ -2299,7 +2299,7 @@ msgstr "Groc4"
 #: kdebugdialog/kdebugdialog.cpp:43 kdebugdialog/klistdebugdialog.cpp:37
 #, kde-format
 msgid "Debug Settings"
-msgstr "Arranjament de la depuració"
+msgstr "Configureu la depuració"
 
 #: kdebugdialog/kdebugdialog.cpp:58
 #, kde-format
@@ -2309,7 +2309,7 @@ msgstr "Fitxer"
 #: kdebugdialog/kdebugdialog.cpp:59
 #, kde-format
 msgid "Message Box"
-msgstr "Quadre de missatge"
+msgstr "Quadro de missatge"
 
 #: kdebugdialog/kdebugdialog.cpp:60
 #, kde-format
@@ -2356,7 +2356,7 @@ msgstr "Nom del fitxer:"
 #: kdebugdialog/kdebugdialog.ui:83
 #, kde-format
 msgid "Error"
-msgstr "Error"
+msgstr "S'ha produït un error"
 
 #. i18n: ectx: property (text), widget (QCheckBox, pAbortFatal)
 #: kdebugdialog/kdebugdialog.ui:118
@@ -2420,7 +2420,7 @@ msgstr "Mantenidor"
 #: kdebugdialog/main.cpp:108
 #, kde-format
 msgid "Show the fully-fledged dialog instead of the default list dialog"
-msgstr "Mostra el diàleg complet en comptes del diàleg de llista per omissió"
+msgstr "Mostra el diàleg complet en comptes del diàleg predeterminat de llista"
 
 #: kdebugdialog/main.cpp:109
 #, kde-format
@@ -2440,7 +2440,7 @@ msgstr "cap error"
 #: kdecore/k3resolver.cpp:534
 #, kde-format
 msgid "requested family not supported for this host name"
-msgstr "no s'accepta la família sol·licitada per a aquest nom d'ordinador"
+msgstr "no s'accepta la família sol·licitada per a este nom d'ordinador"
 
 #: kdecore/k3resolver.cpp:535 kdecore/netsupp.cpp:867
 #, kde-format
@@ -2475,7 +2475,7 @@ msgstr "no s'accepta la família sol·licitada"
 #: kdecore/k3resolver.cpp:541
 #, kde-format
 msgid "requested service not supported for this socket type"
-msgstr "no s'accepta el servei sol·licitat per a aquest tipus de sòcol"
+msgstr "no s'accepta el servei sol·licitat per a este tipus de sòcol"
 
 #: kdecore/k3resolver.cpp:542
 #, kde-format
@@ -2520,7 +2520,7 @@ msgstr "ha fallat la consulta del nom"
 #, kde-format
 msgctxt "Socket error code AddressInUse"
 msgid "address already in use"
-msgstr "l'adreça ja està en ús"
+msgstr "l'adreça ja es troba en ús"
 
 #: kdecore/k3socketbase.cpp:230
 #, kde-format
@@ -2562,13 +2562,13 @@ msgstr "s'ha rebutjat activament la connexió"
 #, kde-format
 msgctxt "Socket error code ConnectionTimedOut"
 msgid "connection timed out"
-msgstr "la connexió ha excedit el temps"
+msgstr "la connexió ha excedit el temps límit"
 
 #: kdecore/k3socketbase.cpp:265
 #, kde-format
 msgctxt "Socket error code InProgress"
 msgid "operation is already in progress"
-msgstr "l'operació ja està en curs"
+msgstr "l'operació ja es troba en curs"
 
 #: kdecore/k3socketbase.cpp:270
 #, kde-format
@@ -2586,7 +2586,7 @@ msgstr "no s'admet l'operació"
 #, kde-format
 msgctxt "Socket error code Timeout"
 msgid "timed operation timed out"
-msgstr "l'operació programada ha excedit el temps"
+msgstr "l'operació programada ha excedit el temps límit"
 
 #: kdecore/k3socketbase.cpp:285
 #, kde-format
@@ -2607,14 +2607,14 @@ msgid ""
 "Please check the documentation or the source for any\n"
 "licensing terms.\n"
 msgstr ""
-"No s'han especificat els termes de llicència per a aquest programa.\n"
-"Per favor, busqueu els termes de llicència a la documentació\n"
+"No s'han especificat els termes de llicència per a este programa.\n"
+"Per favor, busqueu els termes de llicència en la documentació\n"
 "o al codi font.\n"
 
 #: kdecore/k4aboutdata.cpp:273
 #, kde-format
 msgid "This program is distributed under the terms of the %1."
-msgstr "Aquest programa es distribueix sota els termes de la %1."
+msgstr "Este programa es distribuïx davall els termes de la %1."
 
 #: kdecore/k4aboutdata.cpp:297
 #, kde-format
@@ -2721,12 +2721,12 @@ msgid ""
 "internationalization visit <a href=\"http://l10n.kde.org\">http://l10n.kde."
 "org</a></p>"
 msgstr ""
-"<p>El KDE s'ha traduït a molts idiomes gràcies al treball dels equips de "
+"<p>KDE s'ha traduït a molts idiomes gràcies al treball dels equips de "
 "traducció arreu del món.</p><p>Si voleu més informació quant a la "
-"internacionalització del KDE, visiteu http://l10n.kde.org</p> <p>Trobareu "
-"informació quant a l'equip de voluntaris que tradueix el KDE al català a <a "
-"href=\"https://l10n.kde.org/team-infos.php?teamcode=ca\">https://l10n.kde."
-"org/team-infos.php?teamcode=ca</a></p>"
+"internacionalització de KDE, visiteu http://l10n.kde.org</p> <p>Trobareu "
+"informació quant a l'equip de voluntaris que traduïx KDE al valencià a <a "
+"href=\"https://l10n.kde.org/team-infos.php?teamcode=ca@valencia\">https://"
+"l10n.kde.org/team-infos.php?teamcode=ca@valencia</a></p>"
 
 #: kdecore/kcalendarsystem.cpp:108
 #, kde-format
@@ -7136,7 +7136,7 @@ msgstr "%Ey %EC"
 #: kdecore/kcmdlineargs.cpp:278
 #, kde-format
 msgid "Use the X-server display 'displayname'"
-msgstr "Usa la pantalla «nom_pantalla» del servidor X"
+msgstr "Utilitza la pantalla «nom_pantalla» del servidor X"
 
 #: kdecore/kcmdlineargs.cpp:281
 #, kde-format
@@ -7161,13 +7161,13 @@ msgid ""
 "specification"
 msgstr ""
 "Limita el nombre de colors assignats al cub de color\n"
-"a una pantalla de 8 bits, si l'aplicació està usant\n"
+"a una pantalla de 8 bits, si l'aplicació està utilitzant\n"
 "l'especificació de color QApplication::ManyColor"
 
 #: kdecore/kcmdlineargs.cpp:284
 #, kde-format
 msgid "tells Qt to never grab the mouse or the keyboard"
-msgstr "Li indica a les Qt que no es capturi mai el ratolí o el teclat"
+msgstr "Li indica a les Qt que no es capture mai el ratolí o el teclat"
 
 #: kdecore/kcmdlineargs.cpp:285
 #, kde-format
@@ -7175,8 +7175,8 @@ msgid ""
 "running under a debugger can cause an implicit\n"
 "-nograb, use -dograb to override"
 msgstr ""
-"l'execució sota un depurador pot causar un -nograb\n"
-"implícit, useu -dograb per a no fer cas"
+"l'execució davall un depurador pot causar un -nograb\n"
+"implícit, utilitzeu -dograb per a no fer cas"
 
 #: kdecore/kcmdlineargs.cpp:286
 #, kde-format
@@ -7186,7 +7186,7 @@ msgstr "canvia a mode síncron per a la depuració"
 #: kdecore/kcmdlineargs.cpp:288
 #, kde-format
 msgid "defines the application font"
-msgstr "defineix el tipus de lletra de l'aplicació"
+msgstr "definix el tipus de lletra de l'aplicació"
 
 #: kdecore/kcmdlineargs.cpp:290
 #, kde-format
@@ -7195,29 +7195,29 @@ msgid ""
 "application palette (light and dark shades are\n"
 "calculated)"
 msgstr ""
-"estableix el color de fons predeterminat i una\n"
+"establix el color de fons predeterminat i una\n"
 "paleta d'aplicació (es calculen les ombres\n"
 "suaus i fosques)"
 
 #: kdecore/kcmdlineargs.cpp:292
 #, kde-format
 msgid "sets the default foreground color"
-msgstr "estableix el color de primer pla per omissió"
+msgstr "establix el color de primer pla predeterminat"
 
 #: kdecore/kcmdlineargs.cpp:294
 #, kde-format
 msgid "sets the default button color"
-msgstr "Estableix el color per omissió del botó"
+msgstr "Establix el color predeterminat del botó"
 
 #: kdecore/kcmdlineargs.cpp:295
 #, kde-format
 msgid "sets the application name"
-msgstr "Estableix el nom de l'aplicació"
+msgstr "Establix el nom de l'aplicació"
 
 #: kdecore/kcmdlineargs.cpp:296
 #, kde-format
 msgid "sets the application title (caption)"
-msgstr "Estableix el títol de l'aplicació (llegenda)"
+msgstr "Establix el títol de l'aplicació (llegenda)"
 
 #: kdecore/kcmdlineargs.cpp:297
 #, kde-format
@@ -7230,7 +7230,7 @@ msgid ""
 "forces the application to use a TrueColor visual on\n"
 "an 8-bit display"
 msgstr ""
-"Força a l'aplicació a usar visió TrueColor\n"
+"Força a l'aplicació a que utilitze visió TrueColor\n"
 "a una pantalla de 8 bits"
 
 #: kdecore/kcmdlineargs.cpp:300
@@ -7240,14 +7240,14 @@ msgid ""
 "values are onthespot, overthespot, offthespot and\n"
 "root"
 msgstr ""
-"Estableix l'estil d'entrada XIM (X Input Method).\n"
+"Establix l'estil d'entrada XIM (X Input Method).\n"
 "Els valors possibles són onthespot, overthespot,\n"
 "offthespot i root"
 
 #: kdecore/kcmdlineargs.cpp:301
 #, kde-format
 msgid "set XIM server"
-msgstr "Estableix el servidor XIM"
+msgstr "Establix el servidor XIM"
 
 #: kdecore/kcmdlineargs.cpp:302
 #, kde-format
@@ -7270,8 +7270,8 @@ msgid ""
 "use a different graphics system instead of the default one, options are "
 "raster and opengl (experimental)"
 msgstr ""
-"usa un sistema gràfic diferent en lloc del predeterminat. Les opcions són "
-"«raster» i «opengl» (experimental)"
+"utilitza un sistema gràfic diferent en lloc del predeterminat. Les opcions "
+"són «raster» i «opengl» (experimental)"
 
 #: kdecore/kcmdlineargs.cpp:307
 #, kde-format
@@ -7292,17 +7292,17 @@ msgstr "La plataforma del sistema de finestres (p. ex. xcb o wayland)"
 #: kdecore/kcmdlineargs.cpp:310
 #, kde-format
 msgid "Use 'caption' as name in the titlebar"
-msgstr "Usa «llegenda» com a nom de la barra de títol"
+msgstr "Utilitza «llegenda» com a nom de la barra de títol"
 
 #: kdecore/kcmdlineargs.cpp:311
 #, kde-format
 msgid "Use 'icon' as the application icon"
-msgstr "Usa «icona» com a icona de l'aplicació"
+msgstr "Utilitza «icona» com a icona de l'aplicació"
 
 #: kdecore/kcmdlineargs.cpp:312
 #, kde-format
 msgid "Use alternative configuration file"
-msgstr "Usa el fitxer de configuració alternatiu"
+msgstr "Utilitza el fitxer de configuració alternatiu"
 
 #: kdecore/kcmdlineargs.cpp:313
 #, kde-format
@@ -7317,7 +7317,7 @@ msgstr "Espera un gestor de finestres compatible amb WM_NET"
 #: kdecore/kcmdlineargs.cpp:317
 #, kde-format
 msgid "sets the application GUI style"
-msgstr "Estableix l'estil de la IGU de l'aplicació"
+msgstr "Establix l'estil de la IGU de l'aplicació"
 
 #: kdecore/kcmdlineargs.cpp:318
 #, kde-format
@@ -7325,13 +7325,13 @@ msgid ""
 "sets the client geometry of the main widget - see man X for the argument "
 "format (usually WidthxHeight+XPos+YPos)"
 msgstr ""
-"estableix la geometria del client al giny principal -consulteu el format de "
-"l'argument amb man X (normalment AmpladaxAlçada+Pos_X+Pos_Y)-"
+"establix la geometria del client al giny principal -consulteu el format de "
+"l'argument amb man X (normalment AmplàriaxAlçària+Pos_X+Pos_Y)-"
 
 #: kdecore/kcmdlineargs.cpp:436
 #, kde-format
 msgid "KDE Application"
-msgstr "Aplicació del KDE"
+msgstr "Aplicació de KDE"
 
 #: kdecore/kcmdlineargs.cpp:497
 #, kde-format
@@ -7365,7 +7365,7 @@ msgid ""
 "%3: %4\n"
 msgstr ""
 "Qt: %1\n"
-"Frameworks del KDE: %2\n"
+"Frameworks de KDE: %2\n"
 "%3: %4\n"
 
 #: kdecore/kcmdlineargs.cpp:921
@@ -7381,12 +7381,12 @@ msgstr ""
 #: kdecore/kcmdlineargs.cpp:924
 #, kde-format
 msgid "This application was written by somebody who wants to remain anonymous."
-msgstr "Aquesta aplicació la va escriure algú que vol restar anònim."
+msgstr "Esta aplicació la va escriure algú que vol quedar en l'anonimat."
 
 #: kdecore/kcmdlineargs.cpp:929
 #, kde-format
 msgid "Please use http://bugs.kde.org to report bugs.\n"
-msgstr "Per favor, useu http://bugs.kde.org per a informar dels errors.\n"
+msgstr "Utilitzeu http://bugs.kde.org per a informar dels errors.\n"
 
 #: kdecore/kcmdlineargs.cpp:931
 #, kde-format
@@ -7402,7 +7402,7 @@ msgstr "Argument inesperat «%1»."
 #, kde-format
 msgid "Use --help to get a list of available command line options."
 msgstr ""
-"Useu --help per a obtindre les opcions disponibles de la línia d'ordres."
+"Utilitzeu --help per a obtindre les opcions disponibles de la línia d'ordres."
 
 #: kdecore/kcmdlineargs.cpp:1096
 #, kde-format
@@ -7446,7 +7446,7 @@ msgstr "Mostra totes les opcions"
 #: kdecore/kcmdlineargs.cpp:1141
 #, kde-format
 msgid "Show author information"
-msgstr "Mostra informació sobre l'autor"
+msgstr "Mostra informació sobre l'autoria"
 
 #: kdecore/kcmdlineargs.cpp:1142
 #, kde-format
@@ -7494,12 +7494,12 @@ msgstr ""
 #, kde-format
 msgid "The files/URLs opened by the application will be deleted after use"
 msgstr ""
-"Els fitxers/URL oberts per l'aplicació se suprimiran després d'usar-los"
+"Els fitxers/URL oberts per l'aplicació se suprimiran després d'utilitzar-los"
 
 #: kdecore/kcmdlineargs.cpp:1581
 #, kde-format
 msgid "KDE-tempfile"
-msgstr "Fitxer temporal del KDE"
+msgstr "Fitxer temporal de KDE"
 
 #: kdecore/kdatetime.cpp:1567 kdecore/kdatetime.cpp:1577
 #: kdecore/kdatetime.cpp:2985
@@ -7958,7 +7958,7 @@ msgstr "Error durant el canvi de nom."
 #: kdecore/ksocketfactory.cpp:92 kdecore/ksocketfactory.cpp:106
 #, kde-format
 msgid "Timed out trying to connect to remote host"
-msgstr "Temps excedit en intentar connectar amb l'ordinador remot"
+msgstr "Temps límit excedit en intentar connectar amb l'ordinador remot"
 
 #: kdecore/netsupp.cpp:866
 #, kde-format
@@ -7998,7 +7998,7 @@ msgstr "error del sistema"
 #: kdecore/qtest_kde.h:82 kdecore/qtest_kde.h:133
 #, kde-format
 msgid "KDE Test Program"
-msgstr "Programa de proves del KDE"
+msgstr "Programa de proves de KDE"
 
 #: kdecore/TIMEZONES:1
 #, kde-format
@@ -9028,8 +9028,7 @@ msgstr "Amèrica/Glace_Bay"
 #: kdecore/TIMEZONES:276
 #, kde-format
 msgid "Atlantic Time - Nova Scotia - places that did not observe DST 1966-1971"
-msgstr ""
-"Hora de l'Atlàntic - Nova Scotia - llocs que no segueixen DST 1966-1971"
+msgstr "Hora de l'Atlàntic - Nova Scotia - llocs que no seguixen DST 1966-1971"
 
 #. i18n: comment to the previous timezone
 #: kdecore/TIMEZONES:278
@@ -9668,8 +9667,7 @@ msgstr "Amèrica/Nipigon"
 #, kde-format
 msgid ""
 "Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
-msgstr ""
-"Hora oriental - Ontàrio & Quebec - llocs que no segueixen DST 1967-1973"
+msgstr "Hora oriental - Ontàrio & Quebec - llocs que no seguixen DST 1967-1973"
 
 #. i18n: comment to the previous timezone
 #: kdecore/TIMEZONES:467
@@ -13068,7 +13066,7 @@ msgstr[1] ""
 #: kdeui/kcolordialog.cpp:997
 #, kde-format
 msgid "Select Color"
-msgstr "Selecció del color"
+msgstr "Seleccioneu el color"
 
 #: kdeui/kcolordialog.cpp:1077
 #, kde-format
@@ -13115,7 +13113,7 @@ msgstr "Alfa:"
 #: kdeui/kcolordialog.cpp:1206
 #, kde-format
 msgid "&Add to Custom Colors"
-msgstr "&Afig als colors a mida"
+msgstr "Afi&g als colors a mida"
 
 #: kdeui/kcolordialog.cpp:1234
 #, kde-format
@@ -13130,12 +13128,12 @@ msgstr "HTML:"
 #: kdeui/kcolordialog.cpp:1328
 #, kde-format
 msgid "Default color"
-msgstr "Color per omissió"
+msgstr "Color predeterminat"
 
 #: kdeui/kcolordialog.cpp:1393
 #, kde-format
 msgid "-default-"
-msgstr "-omissió-"
+msgstr "-predeterminat-"
 
 #: kdeui/kcolordialog.cpp:1668
 #, kde-format
@@ -13146,7 +13144,7 @@ msgstr "-sense nom-"
 #, kde-format
 msgctxt "@title:window"
 msgid "Print"
-msgstr "Impressió"
+msgstr "Imprimix"
 
 #: kdeui/kdialog.cpp:271
 #, kde-format
@@ -13172,12 +13170,12 @@ msgstr "&Detalls"
 #: kdeui/kdialog.cpp:1054
 #, kde-format
 msgid "Get help..."
-msgstr "Obtén ajuda..."
+msgstr "Obtín ajuda..."
 
 #: kdeui/keditlistbox.cpp:324
 #, kde-format
 msgid "&Add"
-msgstr "&Afig"
+msgstr "Afi&g"
 
 #: kdeui/keditlistbox.cpp:336
 #, kde-format
@@ -13202,7 +13200,7 @@ msgstr "Mou a&vall"
 #, kde-format
 msgctxt "short"
 msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
-msgstr "Zel de grum: quètxup, whisky, cafè, bon vi; ja!"
+msgstr "Jove xef, porte ací per beure whisky amb quinze glaçons d'hidrogen"
 
 #. i18n: Integer which indicates the script you used in the sample text
 #. for font previews in your language. For the possible values, see
@@ -13218,7 +13216,7 @@ msgstr "1"
 #: kdeui/kfontdialog.cpp:51
 #, kde-format
 msgid "Select Font"
-msgstr "Trieu el tipus de lletra"
+msgstr "Seleccioneu el tipus de lletra"
 
 #: kdeui/kprintpreview.cpp:118
 #, kde-format
@@ -13238,7 +13236,7 @@ msgstr "Minimitza"
 #: kdeui/ksystemtrayicon.cpp:205
 #, kde-format
 msgid "&Minimize"
-msgstr "&Minimitza"
+msgstr "Mi&nimitza"
 
 #: kdeui/ksystemtrayicon.cpp:207
 #, kde-format
@@ -13248,7 +13246,7 @@ msgstr "&Restaura"
 #: kdeui/ksystemtrayicon.cpp:226
 #, kde-format
 msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
-msgstr "<qt>De veres voleu eixir de <b>%1</b>?</qt>"
+msgstr "<qt>Segur que voleu eixir de <b>%1</b>?</qt>"
 
 #: kdeui/ksystemtrayicon.cpp:229
 #, kde-format
@@ -13273,7 +13271,7 @@ msgstr "No executar en segon pla."
 #: kdeui/kuniqueapplication.cpp:81
 #, kde-format
 msgid "Internally added if launched from Finder"
-msgstr "S'afegirà internament si es llança des del cercador"
+msgstr "S'afegirà internament si s'inicia des del buscador"
 
 #: kio/kcommentwidget.cpp:68
 #, kde-format
@@ -13329,18 +13327,18 @@ msgstr ""
 #: kio/kdirselectdialog.cpp:172
 #, kde-format
 msgid "A file or folder named %1 already exists."
-msgstr "Ja existeix un fitxer o una carpeta anomenat %1."
+msgstr "Ja existix un fitxer o una carpeta anomenat %1."
 
 #: kio/kdirselectdialog.cpp:175
 #, kde-format
 msgid "You do not have permission to create that folder."
-msgstr "No teniu permís per a crear aquesta carpeta."
+msgstr "No teniu permís per a crear esta carpeta."
 
 #: kio/kdirselectdialog.cpp:290
 #, kde-format
 msgctxt "@title:window"
 msgid "Select Folder"
-msgstr "Selecció d'una carpeta"
+msgstr "Seleccioneu una carpeta"
 
 #: kio/kdirselectdialog.cpp:299
 #, kde-format
@@ -13399,7 +13397,7 @@ msgstr "Obri"
 #: kio/kfiledialog.cpp:838
 #, kde-format
 msgid "Save As"
-msgstr "Guarda com a"
+msgstr "Anomena i guarda"
 
 #: kio/kfilemetadataprovider.cpp:245
 #, kde-format
@@ -13472,7 +13470,7 @@ msgstr "KFileMetaDataReader"
 #, kde-format
 msgid "KFileMetaDataReader can be used to read metadata from a file"
 msgstr ""
-"Es pot usar el KFileMetaDataReader per a llegir les metadades d'un fitxer"
+"Es pot utilitzar KFileMetaDataReader per a llegir les metadades d'un fitxer"
 
 #: kio/kfilemetadatareaderprocess.cpp:238
 #, kde-format
@@ -13518,7 +13516,7 @@ msgstr "Totes les imatges"
 #, kde-format
 msgctxt "@title:window"
 msgid "Configure Shown Data"
-msgstr "Configuració de les dades mostrades"
+msgstr "Configureu les dades mostrades"
 
 #: kio/kmetaprops.cpp:60
 #, kde-format
@@ -13554,7 +13552,7 @@ msgstr "Mida"
 #, kde-format
 msgctxt "@label file depends from"
 msgid "Depends"
-msgstr "Depèn de"
+msgstr "Depén de"
 
 #: kio/knfotranslator.cpp:43
 #, kde-format
@@ -13677,7 +13675,7 @@ msgstr "Profunditat del color"
 #, kde-format
 msgctxt "@label"
 msgid "Duration"
-msgstr "Durada"
+msgstr "Duració"
 
 #: kio/knfotranslator.cpp:63
 #, kde-format
@@ -13881,7 +13879,7 @@ msgstr "Primer ús"
 #, kde-format
 msgctxt "@label"
 msgid "Last Usage"
-msgstr "Darrer ús"
+msgstr "Últim ús"
 
 #: kio/knfotranslator.cpp:97
 #, kde-format
@@ -13976,12 +13974,12 @@ msgstr "Captura una imatge"
 msgid "OCR Image"
 msgstr "Imatge OCR"
 
-#: kio/netaccess.cpp:103
+#: kio/netaccess.cpp:102
 #, kde-format
 msgid "File '%1' is not readable"
 msgstr "El fitxer «%1» no es pot llegir"
 
-#: kio/netaccess.cpp:437
+#: kio/netaccess.cpp:435
 #, kde-format
 msgid "ERROR: Unknown protocol '%1'"
 msgstr "ERROR: Protocol desconegut «%1»"
@@ -14051,7 +14049,7 @@ msgstr "Certificats afegits per l'usuari"
 #: kssl/kcm/cacertificatespage.cpp:302
 #, kde-format
 msgid "Pick Certificates"
-msgstr "Selecció de certificats"
+msgstr "Seleccioneu els certificats"
 
 #. i18n: ectx: property (text), widget (QLabel, subjectHeading)
 #: kssl/kcm/displaycert.ui:23
@@ -14188,7 +14186,7 @@ msgid ""
 "Retrieval of the issuer certificate failed. This means the CA's (Certificate "
 "Authority) certificate can not be found."
 msgstr ""
-"Ha fallat la recuperació del certificat de l'emissor. Això significa que no "
+"Ha fallat la recuperació del certificat de l'emissor. Açò significa que no "
 "s'ha pogut trobar el certificat de la CA (Autoritat de Certificació)."
 
 #: kssl/ksslcertificate.cpp:1069
@@ -14198,8 +14196,8 @@ msgid ""
 "CA's (Certificate Authority) CRL can not be found."
 msgstr ""
 "Ha fallat la recuperació del certificat de la CRL (Llista de Revocació de "
-"Certificats). Això significa que no s'ha pogut trobar el certificat de la "
-"CRL de la CA (Autoritat de Certificació)."
+"Certificats). Açò significa que no s'ha pogut trobar el certificat de la CRL "
+"de la CA (Autoritat de Certificació)."
 
 #: kssl/ksslcertificate.cpp:1071
 #, kde-format
@@ -14207,9 +14205,8 @@ msgid ""
 "The decryption of the certificate's signature failed. This means it could "
 "not even be calculated as opposed to just not matching the expected result."
 msgstr ""
-"Ha fallat el desencriptatge del certificat de la signatura. Això no "
-"significa que no coincideix amb el resultat esperat, sinó que no es pot "
-"calcular."
+"Ha fallat la desencriptació del certificat de la signatura. Açò no significa "
+"que no coincidix amb el resultat esperat, sinó que no es pot calcular."
 
 #: kssl/ksslcertificate.cpp:1073
 #, kde-format
@@ -14218,9 +14215,9 @@ msgid ""
 "This means it could not even be calculated as opposed to just not matching "
 "the expected result."
 msgstr ""
-"Ha fallat el desencriptatge de la signatura de la CRL (Llista de Revocació "
-"de Certificats). Això no significa que no coincideix amb el resultat "
-"esperat, sinó que no es pot calcular."
+"Ha fallat la desencriptació de la signatura de la CRL (Llista de Revocació "
+"de Certificats). Açò no significa que no coincidix amb el resultat esperat, "
+"sinó que no es pot calcular."
 
 #: kssl/ksslcertificate.cpp:1075
 #, kde-format
@@ -14229,9 +14226,9 @@ msgid ""
 "CA's (Certificate Authority) certificate can not be used to verify the "
 "certificate you wanted to use."
 msgstr ""
-"Ha fallat la descodificació de la clau pública de l'emissor. Això significa "
+"Ha fallat la descodificació de la clau pública de l'emissor. Açò significa "
 "que el certificat de la CA (Autoritat de Certificació) no es pot utilitzar "
-"per a verificar el certificat que voleu usar."
+"per a verificar el certificat que voleu utilitzar."
 
 #: kssl/ksslcertificate.cpp:1077
 #, kde-format
@@ -14239,8 +14236,8 @@ msgid ""
 "The certificate's signature is invalid. This means that the certificate can "
 "not be verified."
 msgstr ""
-"La signatura del certificat no és vàlida. Això significa que el certificat "
-"no es pot verificar."
+"La signatura del certificat no és vàlida. Açò significa que el certificat no "
+"es pot verificar."
 
 #: kssl/ksslcertificate.cpp:1079
 #, kde-format
@@ -14249,7 +14246,7 @@ msgid ""
 "that the CRL can not be verified."
 msgstr ""
 "La signatura de la CRL (Llista de Revocació de Certificats) no és vàlida. "
-"Això significa que la CRL no es pot verificar."
+"Açò significa que la CRL no es pot verificar."
 
 #: kssl/ksslcertificate.cpp:1081
 #, kde-format
@@ -14306,8 +14303,8 @@ msgid ""
 "If you want to accept this certificate, import it into the list of trusted "
 "certificates."
 msgstr ""
-"El certificat està autosignat i no es troba a la llista de certificats "
-"fiables. Si voleu acceptar aquest certificat, importeu-lo a la llista de "
+"El certificat està autosignat i no es troba en la llista de certificats "
+"fiables. Si voleu acceptar este certificat, importeu-lo cap a la llista de "
 "certificats fiables."
 
 #: kssl/ksslcertificate.cpp:1102
@@ -14336,9 +14333,9 @@ msgid ""
 "trust chain and not self-signed. If you self-sign the certificate, make sure "
 "to import it into the list of trusted certificates."
 msgstr ""
-"El certificat no es pot verificar atés que és l'únic certificat a la cadena "
+"El certificat no es pot verificar atés que és l'únic certificat en la cadena "
 "de confiança i no està autosignat. Si signeu el certificat amb ell mateix, "
-"assegureu-vos d'importar-lo a la llista de certificats fiables."
+"assegureu-vos d'importar-lo cap a la llista de certificats fiables."
 
 #: kssl/ksslcertificate.cpp:1108
 #, kde-format
@@ -14350,7 +14347,7 @@ msgstr ""
 #: kssl/ksslcertificate.cpp:1111
 #, kde-format
 msgid "The certificate has been revoked."
-msgstr "El certificat ha estat revocat."
+msgstr "El certificat ha sigut revocat."
 
 #: kssl/ksslcertificate.cpp:1113
 #, kde-format
@@ -14363,7 +14360,7 @@ msgid ""
 "The length of the trust chain exceeded one of the CA's (Certificate "
 "Authority) 'pathlength' parameters, making all subsequent signatures invalid."
 msgstr ""
-"La longitud de la cadena de confiança excedeix un dels paràmetres "
+"La llargària de la cadena de confiança excedix un dels paràmetres "
 "«pathlength» de la CA (Autoritat de Certificació), fent que totes les "
 "signatures subseqüents no siguen vàlides."
 
@@ -14373,8 +14370,8 @@ msgid ""
 "The certificate has not been signed for the purpose you tried to use it for. "
 "This means the CA (Certificate Authority) does not allow this usage."
 msgstr ""
-"El certificat no s'ha signat amb la finalitat que intenteu usar-lo. Això "
-"significa que la CA (Autoritat de Certificació) no permet aquest ús."
+"El certificat no s'ha signat amb la finalitat que intenteu utilitzar-lo. Açò "
+"significa que la CA (Autoritat de Certificació) no permet este ús."
 
 #: kssl/ksslcertificate.cpp:1120
 #, kde-format
@@ -14383,7 +14380,7 @@ msgid ""
 "to use this certificate for."
 msgstr ""
 "La CA (Autoritat de Certificació) arrel no és fiable per a la finalitat que "
-"intenteu usar aquest certificat."
+"intenteu utilitzar este certificat."
 
 #: kssl/ksslcertificate.cpp:1123
 #, kde-format
@@ -14392,7 +14389,7 @@ msgid ""
 "purpose you tried to use it for."
 msgstr ""
 "La CA (Autoritat de Certificació) arrel està marcada com a rebutjada per a "
-"la finalitat amb la qual intenteu usar-la."
+"la finalitat amb la qual intenteu utilitzar-la."
 
 #: kssl/ksslcertificate.cpp:1125
 #, kde-format
@@ -14400,7 +14397,7 @@ msgid ""
 "The certificate's CA (Certificate Authority) does not match the CA name of "
 "the certificate."
 msgstr ""
-"La CA (Autoritat de Certificació) del certificat no coincideix amb el nom de "
+"La CA (Autoritat de Certificació) del certificat no coincidix amb el nom de "
 "la CA del certificat."
 
 #: kssl/ksslcertificate.cpp:1127
@@ -14410,8 +14407,8 @@ msgid ""
 "ID in the 'Issuer' section of the certificate you are trying to use."
 msgstr ""
 "L'ID de la clau del certificat de la CA (Autoritat de Certificació) no "
-"coincideix amb l'ID de la clau a la secció «Emissor» del certificat que "
-"esteu intentant usar."
+"coincidix amb l'ID de la clau en la secció «Emissor» del certificat que "
+"esteu intentant utilitzar."
 
 #: kssl/ksslcertificate.cpp:1129
 #, kde-format
@@ -14421,8 +14418,8 @@ msgid ""
 "trying to use."
 msgstr ""
 "L'ID de la clau i el nom del certificat de la CA (Autoritat de Certificació) "
-"no coincideixen amb l'ID de la clau i el nom a la secció «Emissor» del "
-"certificat que esteu intentant usar."
+"no coincidixen amb l'ID de la clau i el nom en la secció «Emissor» del "
+"certificat que esteu intentant utilitzar."
 
 #: kssl/ksslcertificate.cpp:1131
 #, kde-format
@@ -14448,11 +14445,11 @@ msgid ""
 "are using know that he or she should use the new, more specific error "
 "messages."
 msgstr ""
-"Ha fallat la prova de la signatura per a aquest certificat. Això podria "
-"significar que la signatura d'aquest certificat o qualsevol del seu camí de "
+"Ha fallat la prova de la signatura per a este certificat. Açò podria "
+"significar que la signatura d'este certificat o qualsevol del seu camí de "
 "confiança no són vàlides, no es pot descodificar o que la CRL (Llista de "
-"Revocació de Certificats) no es pot verificar. Si veieu aquest missatge, feu "
-"que l'autor del programari que esteu utilitzant sàpiga que hauria d'usar "
+"Revocació de Certificats) no es pot verificar. Si veeu este missatge, feu "
+"que l'autor del programari que esteu utilitzant sàpia que hauria d'utilitzar "
 "alguns missatges d'error nous més específics."
 
 #: kssl/ksslcertificate.cpp:1139
@@ -14464,11 +14461,11 @@ msgid ""
 "author of the software you are using know that he or she should use the new, "
 "more specific error messages."
 msgstr ""
-"Aquest certificat, qualsevol del seu camí de confiança o la seua CRL (Llista "
+"Este certificat, qualsevol del seu camí de confiança o la seua CRL (Llista "
 "de Revocació de Certificats) de la CA (Autoritat de Certificació) no són "
-"vàlids encara o no ho seran mai més. Si veieu aquest missatge, feu que "
-"l'autor del programari que esteu utilitzant sàpiga que hauria d'utilitzar "
-"alguns missatges d'error nous més específics."
+"vàlids encara o no ho seran mai més. Si veeu este missatge, feu que l'autor "
+"del programari que esteu utilitzant sàpia que hauria d'utilitzar alguns "
+"missatges d'error nous més específics."
 
 #: kssl/ksslcertificate.cpp:1145
 #, kde-format
@@ -14492,12 +14489,12 @@ msgstr "Ha fallat la prova de la clau privada."
 #: kssl/ksslcertificate.cpp:1151
 #, kde-format
 msgid "The certificate has not been issued for this host."
-msgstr "El certificat no s'ha emés per a aquest ordinador."
+msgstr "El certificat no s'ha emés per a este ordinador."
 
 #: kssl/ksslcertificate.cpp:1153
 #, kde-format
 msgid "This certificate is not relevant."
-msgstr "Aquest certificat no és apropiat."
+msgstr "Este certificat no és apropiat."
 
 #: kssl/ksslcertificate.cpp:1158
 #, kde-format

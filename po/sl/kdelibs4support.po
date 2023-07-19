@@ -17,7 +17,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-27 00:14+0000\n"
+"POT-Creation-Date: 2023-01-14 00:53+0000\n"
 "PO-Revision-Date: 2021-07-12 14:13+0200\n"
 "Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
 "Language-Team: Slovenian <lugos-slo@lugos.si>\n"
@@ -13967,12 +13967,12 @@ msgstr "Pridobi sliko"
 msgid "OCR Image"
 msgstr "OCR slike"
 
-#: kio/netaccess.cpp:103
+#: kio/netaccess.cpp:102
 #, kde-format
 msgid "File '%1' is not readable"
 msgstr "Datoteka '%1' ni berljiva"
 
-#: kio/netaccess.cpp:437
+#: kio/netaccess.cpp:435
 #, kde-format
 msgid "ERROR: Unknown protocol '%1'"
 msgstr "NAPAKA: neznan protokol '%1'"
@@ -14487,3 +14487,216 @@ msgstr "Potrdilo ni veljavno."
 #, kde-format
 msgid "GMT"
 msgstr "GMT"
+
+#~ msgid "Test Service for Network Status kded module"
+#~ msgstr "Preizkusna storitev za modul kded stanja omrežja"
+
+#~ msgid "knetworkstatustestservice"
+#~ msgstr "knetworkstatustestservice"
+
+#~ msgid "(C) 2007 Will Stephenson"
+#~ msgstr "(C) 2007 Will Stephenson"
+
+#~ msgid "Will Stephenson"
+#~ msgstr "Will Stephenson"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:11pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "size:x-large; font-weight:600;\">Service for KDE 4 Offline Mode</span></"
+#~ "p></body></html>"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:11pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "size:x-large; font-weight:600;\">Storitev za nepovezan način KDE 4</"
+#~ "span></p></body></html>"
+
+#~ msgid "Status:"
+#~ msgstr "Stanje:"
+
+#~ msgid "STATUS"
+#~ msgstr "STANJE"
+
+#~ msgid "Change to:"
+#~ msgstr "Spremeni v:"
+
+#~ msgid "Unconnected"
+#~ msgstr "Nepovezano"
+
+#~ msgid "Disconnecting"
+#~ msgstr "Prekinjanje povezave"
+
+#~ msgid "Connecting"
+#~ msgstr "Povezovanje"
+
+#~ msgid "Connected"
+#~ msgstr "Povezano"
+
+#~ msgid "Perform Change"
+#~ msgstr "Uveljavi spremembo"
+
+#~ msgctxt "color"
+#~ msgid "alice"
+#~ msgstr "alice"
+
+#~ msgctxt "color"
+#~ msgid "antique"
+#~ msgstr "starodavna"
+
+#~ msgctxt "color"
+#~ msgid "blanched"
+#~ msgstr "zbledela"
+
+#~ msgctxt "color"
+#~ msgid "cadet"
+#~ msgstr "kadet"
+
+#~ msgctxt "color"
+#~ msgid "cornflower"
+#~ msgstr "plavica"
+
+#~ msgctxt "color"
+#~ msgid "dark"
+#~ msgstr "temna"
+
+#~ msgctxt "color"
+#~ msgid "deep"
+#~ msgstr "globoka"
+
+#~ msgctxt "color"
+#~ msgid "dim"
+#~ msgstr "potemnjena"
+
+#~ msgctxt "color"
+#~ msgid "dodger"
+#~ msgstr "dodger"
+
+#~ msgctxt "color"
+#~ msgid "floral"
+#~ msgstr "rožasta"
+
+#~ msgctxt "color"
+#~ msgid "forest"
+#~ msgstr "gozd"
+
+#~ msgctxt "color"
+#~ msgid "ghost"
+#~ msgstr "duh"
+
+#~ msgctxt "color"
+#~ msgid "hot"
+#~ msgstr "vroče"
+
+#~ msgctxt "color"
+#~ msgid "indian"
+#~ msgstr "indijska"
+
+#~ msgctxt "color"
+#~ msgid "lawn"
+#~ msgstr "zelenica"
+
+#~ msgctxt "color"
+#~ msgid "lemon"
+#~ msgstr "limona"
+
+#~ msgctxt "color"
+#~ msgid "light"
+#~ msgstr "svetla"
+
+#~ msgctxt "color"
+#~ msgid "lime"
+#~ msgstr "limeta"
+
+#~ msgctxt "color"
+#~ msgid "medium"
+#~ msgstr "srednja"
+
+#~ msgctxt "color"
+#~ msgid "midnight"
+#~ msgstr "polnoč"
+
+#~ msgctxt "color"
+#~ msgid "mint"
+#~ msgstr "meta"
+
+#~ msgctxt "color"
+#~ msgid "misty"
+#~ msgstr "megličasta"
+
+#~ msgctxt "color"
+#~ msgid "navajo"
+#~ msgstr "navajo"
+
+#~ msgctxt "color"
+#~ msgid "old"
+#~ msgstr "stara"
+
+#~ msgctxt "color"
+#~ msgid "olive"
+#~ msgstr "olivna"
+
+#~ msgctxt "color"
+#~ msgid "pale"
+#~ msgstr "bleda"
+
+#~ msgctxt "color"
+#~ msgid "papaya"
+#~ msgstr "papaja"
+
+#~ msgctxt "color"
+#~ msgid "peach"
+#~ msgstr "breskev"
+
+#~ msgctxt "color"
+#~ msgid "powder"
+#~ msgstr "prašek"
+
+#~ msgctxt "color"
+#~ msgid "rosy"
+#~ msgstr "rožnata"
+
+#~ msgctxt "color"
+#~ msgid "royal"
+#~ msgstr "kraljeva"
+
+#~ msgctxt "color"
+#~ msgid "saddle"
+#~ msgstr "sedlo"
+
+#~ msgctxt "color"
+#~ msgid "sandy"
+#~ msgstr "peščena"
+
+#~ msgctxt "color"
+#~ msgid "sea"
+#~ msgstr "morje"
+
+#~ msgctxt "color"
+#~ msgid "sky"
+#~ msgstr "nebo"
+
+#~ msgctxt "color"
+#~ msgid "slate"
+#~ msgstr "skrilasta"
+
+#~ msgctxt "color"
+#~ msgid "spring"
+#~ msgstr "pomladna"
+
+#~ msgctxt "color"
+#~ msgid "steel"
+#~ msgstr "jeklo"
+
+#~ msgctxt "@item Calendar system"
+#~ msgid "Gregorian (Proleptic)"
+#~ msgstr "Proleptični gregorijanski"

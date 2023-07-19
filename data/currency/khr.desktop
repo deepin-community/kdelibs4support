@@ -4,8 +4,8 @@ CurrencyCodeIsoNumeric3=116
 #Context for Name: Adjectival Country Name and Currency Name
 Name=Cambodian Riel
 Name[ar]=الريال الكمبودي
-Name[ast]=Riel camboyanu
 Name[az]=Kamboca Rieli
+Name[bg]=Камбоджански риел
 Name[bs]=kambodžanski rijel
 Name[ca]=Riel de Cambodja
 Name[ca@valencia]=Riel de Cambodja
@@ -26,6 +26,7 @@ Name[ia]=Riel de Cambodia
 Name[id]=Riel Kamboja
 Name[is]=Kambódísk riel
 Name[it]=Riel cambogiano
+Name[ka]=კამბოჯის რიელი
 Name[ko]=캄보디아 리엘
 Name[lt]=Kambodžos rielis
 Name[mr]=कंबोडिया रिएल

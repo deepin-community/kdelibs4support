@@ -1,8 +1,8 @@
 [KCM Locale]
 Name=Faroe Islands
 Name[ar]=جزر فارو
-Name[ast]=Islles Feroe
 Name[az]=Faroe adaları
+Name[bg]=Фарьорските острови
 Name[bs]=Farska ostrva
 Name[ca]=Illes Fèroe
 Name[ca@valencia]=Illes Fèroe
@@ -24,7 +24,7 @@ Name[ia]=Insulas Faroe, le
 Name[id]=Kepulauan Faroe
 Name[is]=Færeyjar
 Name[it]=Isole Faroe
-Name[ka]=ფარერის კუნძულები
+Name[ka]=ფაროს კუნძულები
 Name[ko]=페로 제도
 Name[lt]=Faroe salos
 Name[lv]=Fēru salas
@@ -37,6 +37,7 @@ Name[pa]=ਫਾਰੋਈ ਟਾਪੂ
 Name[pl]=Wyspy Faroe
 Name[pt]=Ilhas Faroe
 Name[pt_BR]=Ilhas Feroe
+Name[ro]=Insulele Faroe
 Name[ru]=Фарерские острова
 Name[se]=Fearsuolu
 Name[sk]=Faerské ostrovy

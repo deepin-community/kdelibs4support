@@ -1,8 +1,8 @@
 [KCM Locale]
 Name=Azerbaijan
 Name[ar]=أذربيجان
-Name[ast]=Azerbaixán
 Name[az]=Azərbaycan
+Name[bg]=Азербайджан
 Name[bs]=Azerbejdžan
 Name[ca]=Azerbaidjan
 Name[ca@valencia]=Azerbaidjan
@@ -37,6 +37,7 @@ Name[pa]=ਅਜ਼ਰਬਾਈਜਾਨ
 Name[pl]=Azerbejdżan
 Name[pt]=Azerbaijão
 Name[pt_BR]=Azerbaijão
+Name[ro]=Azerbaidjan
 Name[ru]=Азербайджан
 Name[se]=Aserbaižan
 Name[sk]=Azerbajdžan

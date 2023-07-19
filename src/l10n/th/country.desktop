@@ -1,8 +1,8 @@
 [KCM Locale]
 Name=Thailand
 Name[ar]=تايلاند
-Name[ast]=Tailandia
 Name[az]=Tailand
+Name[bg]=Тайланд
 Name[bs]=Tajland
 Name[ca]=Tailàndia
 Name[ca@valencia]=Tailàndia
@@ -37,6 +37,7 @@ Name[pa]=ਥਾਈਲੈਂਡ
 Name[pl]=Tajlandia
 Name[pt]=Tailândia
 Name[pt_BR]=Tailândia
+Name[ro]=Tailanda
 Name[ru]=Таиланд
 Name[se]=Thailand
 Name[sk]=Thajsko

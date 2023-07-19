@@ -1,8 +1,8 @@
 [KCM Locale]
 Name=Botswana
 Name[ar]=بوتسوانيا
-Name[ast]=Botsuana
 Name[az]=Botsvana
+Name[bg]=Ботсвана
 Name[bs]=Bocvana
 Name[ca]=Botswana
 Name[ca@valencia]=Botswana
@@ -37,6 +37,7 @@ Name[pa]=ਬੋਟਸਵਾਨਾ
 Name[pl]=Botswana
 Name[pt]=Botswana
 Name[pt_BR]=Botsuana
+Name[ro]=Botswana
 Name[ru]=Ботсвана
 Name[se]=Botswana
 Name[sk]=Botswana
@@ -51,7 +52,7 @@ Name[tr]=Botsvana
 Name[uk]=Ботсвана
 Name[vi]=Botswana
 Name[x-test]=xxBotswanaxx
-Name[zh_CN]=博茨瓦那
+Name[zh_CN]=博茨瓦纳
 Name[zh_TW]=波札那
 Region=southafrica
 Languages=en_GB,ts

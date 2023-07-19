@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KDE 4.4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-27 00:14+0000\n"
+"POT-Creation-Date: 2023-01-14 00:53+0000\n"
 "PO-Revision-Date: 2018-10-19 18:12+0200\n"
 "Last-Translator: Kristof Kiszel <kiszel.kristof@gmail.com>\n"
 "Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
@@ -14040,12 +14040,12 @@ msgstr "Képbeolvasás"
 msgid "OCR Image"
 msgstr "A kép szöveggé alakítása (OCR)"
 
-#: kio/netaccess.cpp:103
+#: kio/netaccess.cpp:102
 #, kde-format
 msgid "File '%1' is not readable"
 msgstr "A(z) „%1” fájl nem olvasható."
 
-#: kio/netaccess.cpp:437
+#: kio/netaccess.cpp:435
 #, kde-format
 msgid "ERROR: Unknown protocol '%1'"
 msgstr "Hiba történt: ismeretlen protokoll („%1”)"
@@ -14549,3 +14549,104 @@ msgstr "A tanúsítvány érvénytelen."
 #, kde-format
 msgid "GMT"
 msgstr "GMT"
+
+#, fuzzy
+#~| msgctxt "Calendar Era: Gregorian Christian Era, years < 0, LongFormat"
+#~| msgid "Before Christ"
+#~ msgctxt "color"
+#~ msgid "forest"
+#~ msgstr "Krisztus előtt"
+
+#, fuzzy
+#~| msgctxt "Coptic month 1 - KLocale::ShortName"
+#~| msgid "Tho"
+#~ msgctxt "color"
+#~ msgid "hot"
+#~ msgstr "Tho"
+
+#, fuzzy
+#~| msgctxt "Coptic weekday 6 - KLocale::ShortName"
+#~| msgid "Psa"
+#~ msgctxt "color"
+#~ msgid "sea"
+#~ msgstr "Psa"
+
+#, fuzzy
+#~| msgctxt "Coptic weekday 7 - KLocale::ShortName"
+#~| msgid "Tky"
+#~ msgctxt "color"
+#~ msgid "sky"
+#~ msgstr "Tky"
+
+#~ msgctxt "@item Calendar system"
+#~ msgid "Gregorian (Proleptic)"
+#~ msgstr "Gergely-naptár (proleptikus)"
+
+#~ msgctxt "Ethiopian month 1 - ShortNamePossessive"
+#~ msgid "of Mes"
+#~ msgstr "Mes"
+
+#~ msgctxt "Ethiopian month 5 - LongNamePossessive"
+#~ msgid "of Ter"
+#~ msgstr "Ter"
+
+#~ msgctxt "Ethiopian month 1 - ShortName"
+#~ msgid "Mes"
+#~ msgstr "Mes"
+
+#~ msgctxt "Ethiopian month 5 - LongName"
+#~ msgid "Ter"
+#~ msgstr "Ter"
+
+#~ msgctxt "Ethiopian weekday 4 - ShortDayName"
+#~ msgid "Ham"
+#~ msgstr "Ham"
+
+#~ msgctxt "Ethiopian weekday 5 - ShortDayName"
+#~ msgid "Arb"
+#~ msgstr "Arb"
+
+#~ msgctxt "Ethiopian weekday 3 - LongDayName"
+#~ msgid "Rob"
+#~ msgstr "Rob"
+
+#~ msgctxt "Ethiopian weekday 5 - LongDayName"
+#~ msgid "Arb"
+#~ msgstr "Arb"
+
+#~ msgctxt "of May long"
+#~ msgid "of May"
+#~ msgstr "május"
+
+#~ msgctxt "May long"
+#~ msgid "May"
+#~ msgstr "május"
+
+#~ msgid "R. Thaani"
+#~ msgstr "R. Thaani"
+
+#~ msgid "J. Thaani"
+#~ msgstr "J. Thaani"
+
+#~ msgid "Hijjah"
+#~ msgstr "Hijjah"
+
+#~ msgctxt "of Tir long"
+#~ msgid "of Tir"
+#~ msgstr "Tir"
+
+#~ msgctxt "of Dei long"
+#~ msgid "of Dei"
+#~ msgstr "Dei"
+
+#~ msgctxt "Tir long"
+#~ msgid "Tir"
+#~ msgstr "Tir"
+
+#~ msgctxt "Dei long"
+#~ msgid "Dei"
+#~ msgstr "Dei"
+
+#~ msgctxt "Shanbe short"
+#~ msgid "shn"
+#~ msgstr "shn"

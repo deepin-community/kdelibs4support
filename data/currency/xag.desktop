@@ -4,7 +4,6 @@ CurrencyCodeIsoNumeric3=961
 #Context for Name: Adjectival Country Name and Currency Name
 Name=Silver
 Name[ar]=الفضة
-Name[ast]=Plata
 Name[az]=Gümüş
 Name[bg]=Сребро
 Name[bn]=রৌপ্য
@@ -37,6 +36,7 @@ Name[ia]=Argento
 Name[id]=Perak
 Name[is]=Silfur
 Name[it]=Argento
+Name[ka]=ვერცხლი
 Name[kk]=Күміс
 Name[km]=ប្រាក់
 Name[kn]=ಬೆಳ್ಳಿ

@@ -1,7 +1,6 @@
 [KCM Locale]
 Name=Saint Barthélemy
 Name[ar]=سانت بارتليمي
-Name[ast]=San Bartolomé
 Name[az]=Sent-Bartalamey
 Name[bg]=Сен Бартелеми
 Name[bn]=সেন্ট বার্থেলেমী
@@ -32,6 +31,7 @@ Name[ia]=Saint Barthélemy
 Name[id]=Saint Barthélemy
 Name[is]=Sankti Bartelemí
 Name[it]=Saint-Barthélemy
+Name[ka]=წმინდა ბართლომე
 Name[kk]=Сент-Бартелеми
 Name[km]=សាន់​បាធឺលីម៉ី
 Name[kn]=ಸೈಂಟ್ ಬೆತ್ಲೆಹೆಲ್ಮಿ
@@ -64,7 +64,7 @@ Name[uk]=Сен-Бартельмі
 Name[vi]=Saint Barthélemy
 Name[wa]=Sint Bartelemi
 Name[x-test]=xxSaint Barthélemyxx
-Name[zh_CN]=Saint Barthélemy
+Name[zh_CN]=圣巴泰勒米
 Name[zh_TW]=Saint Barthélemy
 Region=caribbean
 Languages=fr

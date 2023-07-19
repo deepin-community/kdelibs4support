@@ -4,7 +4,6 @@ CurrencyCodeIsoNumeric3=300
 #Context for Name: Adjectival Country Name and Currency Name
 Name=Greek Drachma
 Name[ar]=الدراخما اليوناني
-Name[ast]=Dracma griegu
 Name[az]=Yunan Draxması
 Name[bg]=Гръцка драхма
 Name[bn]=গ্রীক ড্রাকমা
@@ -37,6 +36,7 @@ Name[ia]=Drachma Grec
 Name[id]=Drachma Yunani
 Name[is]=Grísk drakma
 Name[it]=Dracma greca
+Name[ka]=ბერძნული დრაქმა
 Name[kk]=Грекия драхмасы
 Name[km]=Greek Drachma
 Name[kn]=ಗ್ರೀಕ್ ಡ್ರಾಚ್ಮಾ

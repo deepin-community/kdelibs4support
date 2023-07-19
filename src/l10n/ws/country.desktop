@@ -2,8 +2,8 @@
 # Western Samoa before 1997
 Name=Samoa
 Name[ar]=ساموا
-Name[ast]=Samoa
 Name[az]=Samao
+Name[bg]=Самоа
 Name[bs]=Samoa
 Name[ca]=Samoa
 Name[ca@valencia]=Samoa
@@ -38,6 +38,7 @@ Name[pa]=ਸਾਮੋਆ
 Name[pl]=Samoa
 Name[pt]=Samoa
 Name[pt_BR]=Samoa
+Name[ro]=Samoa
 Name[ru]=Самоа
 Name[se]=Samoa
 Name[sk]=Samoa
@@ -52,7 +53,7 @@ Name[tr]=Samoa
 Name[uk]=Самоа
 Name[vi]=Samoa
 Name[x-test]=xxSamoaxx
-Name[zh_CN]=萨摩亚群岛
+Name[zh_CN]=萨摩亚
 Name[zh_TW]=薩摩亞
 Region=oceania
 Languages=en_GB

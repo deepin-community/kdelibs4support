@@ -3,33 +3,36 @@ Section: libs
 Priority: optional
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Aurélien COUDERC <coucouf@debian.org>,
-           Norbert Preining <norbert@preining.info>,
 Build-Depends: cmake (>= 3.16~),
                debhelper-compat (= 13),
-               extra-cmake-modules (>= 5.90.0~),
-               kded5-dev (>= 5.90.0~),
-               kgendesignerplugin (>= 5.90.0~),
+               dh-sequence-kf5,
+               dh-sequence-pkgkde-symbolshelper,
+               extra-cmake-modules (>= 5.103.0~),
+               kded5-dev (>= 5.103.0~),
+               kgendesignerplugin (>= 5.103.0~),
                libintl-perl,
-               libkf5completion-dev (>= 5.90.0~),
-               libkf5config-dev (>= 5.90.0~),
-               libkf5configwidgets-dev (>= 5.90.0~),
-               libkf5crash-dev (>= 5.90.0~),
-               libkf5dbusaddons-dev (>= 5.90.0~),
-               libkf5doctools-dev (>= 5.90.0~),
-               libkf5emoticons-dev (>= 5.90.0~),
-               libkf5globalaccel-dev (>= 5.90.0~),
-               libkf5guiaddons-dev (>= 5.90.0~),
-               libkf5i18n-dev (>= 5.90.0~),
-               libkf5iconthemes-dev (>= 5.90.0~),
-               libkf5kio-dev (>= 5.90.0~),
-               libkf5notifications-dev (>= 5.90.0~),
-               libkf5parts-dev (>= 5.90.0~),
-               libkf5service-dev (>= 5.90.0~),
-               libkf5textwidgets-dev (>= 5.90.0~),
-               libkf5unitconversion-dev (>= 5.90.0~),
-               libkf5widgetsaddons-dev (>= 5.90.0~),
-               libkf5windowsystem-dev (>= 5.90.0~),
-               libkf5xmlgui-dev (>= 5.90.0~),
+               libkf5auth-dev (>= 5.103.0~),
+               libkf5completion-dev (>= 5.103.0~),
+               libkf5config-dev (>= 5.103.0~),
+               libkf5configwidgets-dev (>= 5.103.0~),
+               libkf5crash-dev (>= 5.103.0~),
+               libkf5dbusaddons-dev (>= 5.103.0~),
+               libkf5doctools-dev (>= 5.103.0~),
+               libkf5emoticons-dev (>= 5.103.0~),
+               libkf5globalaccel-dev (>= 5.103.0~),
+               libkf5guiaddons-dev (>= 5.103.0~),
+               libkf5i18n-dev (>= 5.103.0~),
+               libkf5iconthemes-dev (>= 5.103.0~),
+               libkf5kio-dev (>= 5.103.0~),
+               libkf5notifications-dev (>= 5.103.0~),
+               libkf5parts-dev (>= 5.103.0~),
+               libkf5service-dev (>= 5.103.0~),
+               libkf5textwidgets-dev (>= 5.103.0~),
+               libkf5unitconversion-dev (>= 5.103.0~),
+               libkf5widgetsaddons-dev (>= 5.103.0~),
+               libkf5windowsystem-dev (>= 5.103.0~),
+               libkf5xmlgui-dev (>= 5.103.0~),
+               libnm-dev (>= 0.7.0~) [linux-any],
                libqt5svg5-dev (>= 5.15.2~),
                libqt5x11extras5-dev (>= 5.15.2~),
                libsm-dev,
@@ -38,10 +41,9 @@ Build-Depends: cmake (>= 3.16~),
                libx11-dev,
                libxcb1-dev,
                pkg-config,
-               pkg-kde-tools (>= 0.15.15ubuntu1~),
                qtbase5-dev (>= 5.15.2~),
                qttools5-dev (>= 5.15.2~),
-Standards-Version: 4.6.0
+Standards-Version: 4.6.2
 Homepage: https://invent.kde.org/frameworks/kdelibs4support
 Vcs-Browser: https://salsa.debian.org/qt-kde-team/kde/kdelibs4support
 Vcs-Git: https://salsa.debian.org/qt-kde-team/kde/kdelibs4support.git
@@ -50,7 +52,7 @@ Rules-Requires-Root: no
 Package: libkf5kdelibs4support-data
 Architecture: all
 Multi-Arch: foreign
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},
 Description: Porting aid from KDELibs4.
  This framework provides code and utilities to ease
  the transition from kdelibs 4 to KDE Frameworks 5.
@@ -68,27 +70,27 @@ Description: Porting aid from KDELibs4.
 Package: libkf5kdelibs4support-dev
 Section: libdevel
 Architecture: any
-Depends: kgendesignerplugin (>= 5.90.0~),
+Depends: kgendesignerplugin (>= 5.103.0~),
          kinit-dev (>= 5.82.0~),
          libkf5archive-dev (>= 5.82.0~),
-         libkf5auth-dev (>= 5.82.0~),
-         libkf5configwidgets-dev (>= 5.90.0~),
+         libkf5auth-dev (>= 5.103.0~),
+         libkf5configwidgets-dev (>= 5.103.0~),
          libkf5coreaddons-dev (>= 5.82.0~),
-         libkf5crash-dev (>= 5.90.0~),
-         libkf5dbusaddons-dev (>= 5.90.0~),
-         libkf5doctools-dev (>= 5.90.0~),
-         libkf5emoticons-dev (>= 5.90.0~),
-         libkf5globalaccel-dev (>= 5.90.0~),
-         libkf5guiaddons-dev (>= 5.90.0~),
-         libkf5iconthemes-dev (>= 5.90.0~),
+         libkf5crash-dev (>= 5.103.0~),
+         libkf5dbusaddons-dev (>= 5.103.0~),
+         libkf5doctools-dev (>= 5.103.0~),
+         libkf5emoticons-dev (>= 5.103.0~),
+         libkf5globalaccel-dev (>= 5.103.0~),
+         libkf5guiaddons-dev (>= 5.103.0~),
+         libkf5iconthemes-dev (>= 5.103.0~),
          libkf5itemmodels-dev (>= 5.82.0~),
          libkf5kdelibs4support5 (= ${binary:Version}),
          libkf5kdelibs4support5-bin (= ${binary:Version}),
-         libkf5notifications-dev (>= 5.90.0~),
-         libkf5parts-dev (>= 5.90.0~),
-         libkf5textwidgets-dev (>= 5.90.0~),
-         libkf5unitconversion-dev (>= 5.90.0~),
-         libkf5windowsystem-dev (>= 5.90.0~),
+         libkf5notifications-dev (>= 5.103.0~),
+         libkf5parts-dev (>= 5.103.0~),
+         libkf5textwidgets-dev (>= 5.103.0~),
+         libkf5unitconversion-dev (>= 5.103.0~),
+         libkf5windowsystem-dev (>= 5.103.0~),
          libqt5svg5-dev (>= 5.15.2~),
          libqt5x11extras5-dev (>= 5.15.2~),
          libssl-dev,
@@ -114,14 +116,13 @@ Description: development files for kde4support
  variable correctly.
  .
  Contains development files for kde4support.
-Breaks: libkf5holidays-dev (<< 1:5.54)
 
 Package: libkf5kdelibs4support5
 Architecture: any
 Depends: libkf5kdelibs4support-data (= ${source:Version}),
          ${misc:Depends},
          ${shlibs:Depends},
-Recommends: libkf5kdelibs4support5-bin (= ${binary:Version})
+Recommends: libkf5kdelibs4support5-bin (= ${binary:Version}),
 Multi-Arch: same
 Description: Porting aid from KDELibs4.
  This framework provides code and utilities to ease
@@ -144,7 +145,7 @@ Description: Porting aid from KDELibs4.
 
 Package: libkf5kdelibs4support5-bin
 Architecture: any
-Depends: ${misc:Depends}, ${perl:Depends}, ${shlibs:Depends}
+Depends: ${misc:Depends}, ${perl:Depends}, ${shlibs:Depends},
 Description: Porting aid from KDELibs4.
  This framework provides code and utilities to ease
  the transition from kdelibs 4 to KDE Frameworks 5.

@@ -4,8 +4,8 @@ CurrencyCodeIsoNumeric3=100
 #Context for Name: Adjectival Country Name and Currency Name
 Name=Bulgarian Lev A/99
 Name[ar]=الليف البلغاري (حتّى 1999)
-Name[ast]=Lev A/99 búlgaru
 Name[az]=BVolqar Levi A/99
+Name[bg]=Български лев А/99
 Name[bs]=Bugarski Lev A/99
 Name[ca]=Lev búlgar A/99
 Name[ca@valencia]=Lev búlgar A/99
@@ -27,6 +27,7 @@ Name[ia]=Lev Bulgare A/99
 Name[id]=Lev A/99 Bulgaria
 Name[is]=Búlgarskur lev A/99
 Name[it]=Lev bulgaro A/99
+Name[ka]=ბულგარული ლევ ა/99
 Name[ko]=불가리아 레프 A/99
 Name[lt]=Bulgarijos levas A/99
 Name[mr]=बुल्गारियाई लेव A/99

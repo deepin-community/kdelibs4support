@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-27 00:14+0000\n"
+"POT-Creation-Date: 2023-01-14 00:53+0000\n"
 "PO-Revision-Date: 2021-07-10 07:39+0200\n"
 "Last-Translator: Vincenzo Reale <smart2128vr@gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -13955,12 +13955,12 @@ msgstr "Acquisisci immagine"
 msgid "OCR Image"
 msgstr "Effettua OCR sull'immagine"
 
-#: kio/netaccess.cpp:103
+#: kio/netaccess.cpp:102
 #, kde-format
 msgid "File '%1' is not readable"
 msgstr "Il file «%1» non è leggibile"
 
-#: kio/netaccess.cpp:437
+#: kio/netaccess.cpp:435
 #, kde-format
 msgid "ERROR: Unknown protocol '%1'"
 msgstr "ERRORE: Protocollo «%1» sconosciuto"
@@ -14492,3 +14492,278 @@ msgstr "Il certificato non è valido."
 #, kde-format
 msgid "GMT"
 msgstr "GMT"
+
+#~ msgid "knetworkstatustestservice"
+#~ msgstr "knetworkstatustestservice"
+
+#~ msgid "(C) 2007 Will Stephenson"
+#~ msgstr "(C) 2007 Will Stephenson"
+
+#~ msgid "Will Stephenson"
+#~ msgstr "Will Stephenson"
+
+#~ msgid ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:11pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "size:x-large; font-weight:600;\">Service for KDE 4 Offline Mode</span></"
+#~ "p></body></html>"
+#~ msgstr ""
+#~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
+#~ "css\">\n"
+#~ "p, li { white-space: pre-wrap; }\n"
+#~ "</style></head><body style=\" font-family:'Sans Serif'; font-size:11pt; "
+#~ "font-weight:400; font-style:normal;\">\n"
+#~ "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+#~ "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+#~ "size:x-large; font-weight:600;\">Servizio per la modalità non in linea di "
+#~ "KDE 4</span></p></body></html>"
+
+#~ msgid "Status:"
+#~ msgstr "Stato:"
+
+#~ msgid "STATUS"
+#~ msgstr "STATO"
+
+#~ msgid "Change to:"
+#~ msgstr "Cambia in:"
+
+#~ msgid "Unconnected"
+#~ msgstr "Non connesso"
+
+#~ msgid "Disconnecting"
+#~ msgstr "Disconnessione in corso"
+
+#~ msgid "Connecting"
+#~ msgstr "Connessione in corso"
+
+#~ msgid "Connected"
+#~ msgstr "Connesso"
+
+#~ msgid "Perform Change"
+#~ msgstr "Esegui modifiche"
+
+#~ msgctxt "color"
+#~ msgid "alice"
+#~ msgstr "alice"
+
+#~ msgctxt "color"
+#~ msgid "antique"
+#~ msgstr "antico"
+
+#~ msgctxt "color"
+#~ msgid "blanched"
+#~ msgstr "sbiancato"
+
+#~ msgctxt "color"
+#~ msgid "cadet"
+#~ msgstr "cadetto"
+
+#~ msgctxt "color"
+#~ msgid "cornflower"
+#~ msgstr "fiore di granturco"
+
+#~ msgctxt "color"
+#~ msgid "dark"
+#~ msgstr "scuro"
+
+#~ msgctxt "color"
+#~ msgid "deep"
+#~ msgstr "profondo"
+
+#~ msgctxt "color"
+#~ msgid "dim"
+#~ msgstr "attenuato"
+
+#~ msgctxt "color"
+#~ msgid "dodger"
+#~ msgstr "dodger"
+
+#~ msgctxt "color"
+#~ msgid "floral"
+#~ msgstr "floreale"
+
+#~ msgctxt "color"
+#~ msgid "forest"
+#~ msgstr "foresta"
+
+#~ msgctxt "color"
+#~ msgid "ghost"
+#~ msgstr "fantasma"
+
+#~ msgctxt "color"
+#~ msgid "hot"
+#~ msgstr "caldo"
+
+#~ msgctxt "color"
+#~ msgid "indian"
+#~ msgstr "indiano"
+
+#~ msgctxt "color"
+#~ msgid "lemon"
+#~ msgstr "limone"
+
+#~ msgctxt "color"
+#~ msgid "light"
+#~ msgstr "chiaro"
+
+#~ msgctxt "color"
+#~ msgid "lime"
+#~ msgstr "lime"
+
+#~ msgctxt "color"
+#~ msgid "medium"
+#~ msgstr "medio"
+
+#~ msgctxt "color"
+#~ msgid "midnight"
+#~ msgstr "mezzanotte"
+
+#~ msgctxt "color"
+#~ msgid "mint"
+#~ msgstr "menta"
+
+#~ msgctxt "color"
+#~ msgid "misty"
+#~ msgstr "nebbioso"
+
+#~ msgctxt "color"
+#~ msgid "navajo"
+#~ msgstr "navajo"
+
+#~ msgctxt "color"
+#~ msgid "old"
+#~ msgstr "vecchio"
+
+#~ msgctxt "color"
+#~ msgid "olive"
+#~ msgstr "oliva"
+
+#~ msgctxt "color"
+#~ msgid "pale"
+#~ msgstr "pallido"
+
+#~ msgctxt "color"
+#~ msgid "papaya"
+#~ msgstr "papaya"
+
+#~ msgctxt "color"
+#~ msgid "peach"
+#~ msgstr "pesca"
+
+#~ msgctxt "color"
+#~ msgid "powder"
+#~ msgstr "polvere"
+
+#~ msgctxt "color"
+#~ msgid "rosy"
+#~ msgstr "rosato"
+
+#~ msgctxt "color"
+#~ msgid "royal"
+#~ msgstr "reale"
+
+#~ msgctxt "color"
+#~ msgid "saddle"
+#~ msgstr "sella"
+
+#~ msgctxt "color"
+#~ msgid "sandy"
+#~ msgstr "sabbia"
+
+#~ msgctxt "color"
+#~ msgid "sea"
+#~ msgstr "mare"
+
+#~ msgctxt "color"
+#~ msgid "sky"
+#~ msgstr "cielo"
+
+#~ msgctxt "color"
+#~ msgid "slate"
+#~ msgstr "ardesia"
+
+#~ msgctxt "color"
+#~ msgid "spring"
+#~ msgstr "primavera"
+
+#~ msgctxt "color"
+#~ msgid "steel"
+#~ msgstr "acciaio"
+
+#~ msgctxt "@item Calendar system"
+#~ msgid "Gregorian (Proleptic)"
+#~ msgstr "Gregoriano (prolettico)"
+
+#~ msgctxt "Ethiopian month 1 - ShortNamePossessive"
+#~ msgid "of Mes"
+#~ msgstr "di Mes"
+
+#~ msgctxt "Ethiopian month 5 - LongNamePossessive"
+#~ msgid "of Ter"
+#~ msgstr "di Ter"
+
+#~ msgctxt "Ethiopian month 1 - ShortName"
+#~ msgid "Mes"
+#~ msgstr "Mes"
+
+#~ msgctxt "Ethiopian month 5 - LongName"
+#~ msgid "Ter"
+#~ msgstr "Ter"
+
+#~ msgctxt "Ethiopian weekday 4 - ShortDayName"
+#~ msgid "Ham"
+#~ msgstr "Ham"
+
+#~ msgctxt "Ethiopian weekday 5 - ShortDayName"
+#~ msgid "Arb"
+#~ msgstr "Arb"
+
+#~ msgctxt "Ethiopian weekday 3 - LongDayName"
+#~ msgid "Rob"
+#~ msgstr "Rob"
+
+#~ msgctxt "Ethiopian weekday 5 - LongDayName"
+#~ msgid "Arb"
+#~ msgstr "Arb"
+
+#~ msgctxt "of May long"
+#~ msgid "of May"
+#~ msgstr "di maggio"
+
+#~ msgctxt "May long"
+#~ msgid "May"
+#~ msgstr "maggio"
+
+#~ msgid "R. Thaani"
+#~ msgstr "R. Thaani"
+
+#~ msgid "J. Thaani"
+#~ msgstr "J. Thaani"
+
+#~ msgid "Hijjah"
+#~ msgstr "Hijjah"
+
+#~ msgctxt "of Tir long"
+#~ msgid "of Tir"
+#~ msgstr "di Tir"
+
+#~ msgctxt "of Dei long"
+#~ msgid "of Dei"
+#~ msgstr "di Dei"
+
+#~ msgctxt "Tir long"
+#~ msgid "Tir"
+#~ msgstr "Tir"
+
+#~ msgctxt "Dei long"
+#~ msgid "Dei"
+#~ msgstr "Dei"
+
+#~ msgctxt "Shanbe short"
+#~ msgid "shn"
+#~ msgstr "shn"

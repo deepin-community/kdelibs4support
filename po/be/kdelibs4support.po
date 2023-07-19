@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-27 00:14+0000\n"
+"POT-Creation-Date: 2023-01-14 00:53+0000\n"
 "PO-Revision-Date: 2009-09-06 15:21+0300\n"
 "Last-Translator: Darafei Praliaskouski <komzpa@gmail.com>\n"
 "Language-Team: Belarusian <i18n@mova.org>\n"
@@ -23,8 +23,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Lokalize 1.0\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || n%10>=5 && n%10<=9 || n"
+"%100>=11 && n%100<=14 ? 2 : 3);\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -14657,12 +14658,12 @@ msgstr ""
 msgid "OCR Image"
 msgstr "Відарыс OCR"
 
-#: kio/netaccess.cpp:103
+#: kio/netaccess.cpp:102
 #, kde-format
 msgid "File '%1' is not readable"
 msgstr "Файл '%1' немагчыма прачытаць"
 
-#: kio/netaccess.cpp:437
+#: kio/netaccess.cpp:435
 #, kde-format
 msgid "ERROR: Unknown protocol '%1'"
 msgstr "ПАМЫЛКА: Невядомы пратакол '%1'."
@@ -15151,3 +15152,95 @@ msgstr "Несапраўдны сертыфікат."
 #, kde-format
 msgid "GMT"
 msgstr "GMT"
+
+#, fuzzy
+#~ msgctxt "color"
+#~ msgid "hot"
+#~ msgstr "Thl"
+
+#, fuzzy
+#~ msgctxt "color"
+#~ msgid "sea"
+#~ msgstr "Паўза"
+
+#, fuzzy
+#~ msgctxt "@item Calendar system"
+#~ msgid "Gregorian (Proleptic)"
+#~ msgstr "Грыгарыянсая"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 1 - ShortNamePossessive"
+#~ msgid "of Mes"
+#~ msgstr "Meh"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 5 - LongNamePossessive"
+#~ msgid "of Ter"
+#~ msgstr "Tir"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 1 - ShortName"
+#~ msgid "Mes"
+#~ msgstr "Так"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 5 - LongName"
+#~ msgid "Ter"
+#~ msgstr "Аўт"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 4 - ShortDayName"
+#~ msgid "Ham"
+#~ msgstr "am"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 5 - ShortDayName"
+#~ msgid "Arb"
+#~ msgstr "Arb"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 3 - LongDayName"
+#~ msgid "Rob"
+#~ msgstr "Заданне"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 5 - LongDayName"
+#~ msgid "Arb"
+#~ msgstr "Arb"
+
+#~ msgctxt "of May long"
+#~ msgid "of May"
+#~ msgstr "мая"
+
+#~ msgctxt "May long"
+#~ msgid "May"
+#~ msgstr "Травень"
+
+#~ msgid "R. Thaani"
+#~ msgstr "R. Thaani"
+
+#~ msgid "J. Thaani"
+#~ msgstr "J. Thaani"
+
+#~ msgid "Hijjah"
+#~ msgstr "Hijjah"
+
+#~ msgctxt "of Tir long"
+#~ msgid "of Tir"
+#~ msgstr "Tir"
+
+#~ msgctxt "of Dei long"
+#~ msgid "of Dei"
+#~ msgstr "Dei"
+
+#~ msgctxt "Tir long"
+#~ msgid "Tir"
+#~ msgstr "Tir"
+
+#~ msgctxt "Dei long"
+#~ msgid "Dei"
+#~ msgstr "Dei"
+
+#~ msgctxt "Shanbe short"
+#~ msgid "shn"
+#~ msgstr "shn"

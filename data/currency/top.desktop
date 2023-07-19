@@ -4,7 +4,6 @@ CurrencyCodeIsoNumeric3=776
 #Context for Name: Adjectival Country Name and Currency Name
 Name=Tongan Pa'anga
 Name[ar]=البانجا التونجي
-Name[ast]=Pa'anga tonganu
 Name[az]=Tonqan Paanqı
 Name[bg]=Тонгийска па'анга
 Name[bn]=টোঙ্গার পা-আংগা
@@ -37,6 +36,7 @@ Name[ia]=Tongan Pa'anga
 Name[id]=Pa'anga Tonga
 Name[is]=Tongóskt pa'anga
 Name[it]=Paʻanga tongano
+Name[ka]=ტონგური პაანგა
 Name[kk]=Тонго паангасы
 Name[km]=Tongan Pa'anga
 Name[ko]=통가 파앙가

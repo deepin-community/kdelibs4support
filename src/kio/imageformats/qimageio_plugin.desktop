@@ -4,7 +4,6 @@ X-KDE-ServiceType=QImageIOPlugins
 Comment=QImageIOHandler plugin
 Comment[af]=QImageIOHandler inprop
 Comment[as]=QImageIOHandler plugin
-Comment[ast]=Plugin QImageIOHandler
 Comment[az]=QImageIOHandler qoşması
 Comment[be@latin]=Plugin dla QImageIOHandler
 Comment[bg]=Приставка за QImageIOHandler
@@ -43,6 +42,7 @@ Comment[id]=Plugin QCitraIOHandler
 Comment[is]=QImageIOHandler viðbót
 Comment[it]=Estensione QImageIOHandler
 Comment[ja]=QImageIOHandler プラグイン
+Comment[ka]=QImageIOHandler დამაება
 Comment[kk]=QImageIOHandler плагин модулі
 Comment[km]=កម្មវិធី​ជំនួយ QImageIOHandler
 Comment[kn]=QImageIOHandler ಮಿಳಿತಾನ್ವಯ (ಪ್ಲಗಿನ್)
@@ -86,7 +86,7 @@ Comment[uk]=Додаток QImageIOHandler
 Comment[vi]=Phần cài cắm QImageIOHandler
 Comment[wa]=Tchôke-divins QImageIOHandler
 Comment[x-test]=xxQImageIOHandler pluginxx
-Comment[zh_CN]=QImage 读写处理插件
+Comment[zh_CN]=QImageIOHandler 插件
 Comment[zh_TW]=QImageIOHandler plugin
 
 [PropertyDef::X-KDE-ImageFormat]

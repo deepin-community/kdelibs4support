@@ -1,8 +1,8 @@
 [KCM Locale]
 Name=Aruba
 Name[ar]=أروبا
-Name[ast]=Aruba
 Name[az]=Aruba
+Name[bg]=Аруба
 Name[bs]=Aruba
 Name[ca]=Aruba
 Name[ca@valencia]=Aruba
@@ -38,6 +38,7 @@ Name[pa]=ਅਰੂਬੀ
 Name[pl]=Aruba
 Name[pt]=Aruba
 Name[pt_BR]=Aruba
+Name[ro]=Aruba
 Name[ru]=Аруба
 Name[se]=Áruba
 Name[sk]=Aruba
@@ -52,7 +53,7 @@ Name[tr]=Aruba
 Name[uk]=Аруба
 Name[vi]=Aruba
 Name[x-test]=xxArubaxx
-Name[zh_CN]=阿劳卡
+Name[zh_CN]=阿鲁巴
 Name[zh_TW]=阿魯巴
 Region=caribbean
 Languages=nl,en_GB,sp

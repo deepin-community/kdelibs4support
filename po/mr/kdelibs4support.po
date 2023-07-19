@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-27 00:14+0000\n"
+"POT-Creation-Date: 2023-01-14 00:53+0000\n"
 "PO-Revision-Date: 2014-10-29 10:52+0530\n"
 "Last-Translator: Chetan Khona <chetan@kompkin.com>\n"
 "Language-Team: Marathi <kde-i18n-doc@kde.org>\n"
@@ -14009,12 +14009,12 @@ msgstr "प्रतिमा प्राप्त करा"
 msgid "OCR Image"
 msgstr "ओसीआर प्रतिमा"
 
-#: kio/netaccess.cpp:103
+#: kio/netaccess.cpp:102
 #, kde-format
 msgid "File '%1' is not readable"
 msgstr "फाईल '%1' वाचण्यायोग्य नाही"
 
-#: kio/netaccess.cpp:437
+#: kio/netaccess.cpp:435
 #, kde-format
 msgid "ERROR: Unknown protocol '%1'"
 msgstr "त्रुटी : अपरिचीत शिष्टाचार '%1'"
@@ -14474,3 +14474,112 @@ msgstr "प्रमाणपत्र अवैध आहे."
 #, kde-format
 msgid "GMT"
 msgstr "GMT"
+
+#, fuzzy
+#~| msgctxt "Calendar Era: Gregorian Christian Era, years < 0, LongFormat"
+#~| msgid "Before Christ"
+#~ msgctxt "color"
+#~ msgid "forest"
+#~ msgstr "ख्रिस्त पूर्व काल"
+
+#, fuzzy
+#~| msgctxt "Coptic month 1 - KLocale::ShortName"
+#~| msgid "Tho"
+#~ msgctxt "color"
+#~ msgid "hot"
+#~ msgstr "Tho"
+
+#, fuzzy
+#~| msgctxt "Coptic weekday 6 - KLocale::ShortName"
+#~| msgid "Psa"
+#~ msgctxt "color"
+#~ msgid "sea"
+#~ msgstr "Psa"
+
+#, fuzzy
+#~| msgctxt "Coptic weekday 7 - KLocale::ShortName"
+#~| msgid "Tky"
+#~ msgctxt "color"
+#~ msgid "sky"
+#~ msgstr "Tky"
+
+#~ msgctxt "@item Calendar system"
+#~ msgid "Gregorian (Proleptic)"
+#~ msgstr "ग्रेगोरियन"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 1 - ShortNamePossessive"
+#~ msgid "of Mes"
+#~ msgstr "मेह चा"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 5 - LongNamePossessive"
+#~ msgid "of Ter"
+#~ msgstr "तिर चा"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 1 - ShortName"
+#~ msgid "Mes"
+#~ msgstr "होय"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 5 - LongName"
+#~ msgid "Ter"
+#~ msgstr "मंगळ"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 4 - ShortDayName"
+#~ msgid "Ham"
+#~ msgstr "am"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 5 - ShortDayName"
+#~ msgid "Arb"
+#~ msgstr "बुध"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 3 - LongDayName"
+#~ msgid "Rob"
+#~ msgstr "कार्य"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 5 - LongDayName"
+#~ msgid "Arb"
+#~ msgstr "बुध"
+
+#~ msgctxt "of May long"
+#~ msgid "of May"
+#~ msgstr "मे चा"
+
+#~ msgctxt "May long"
+#~ msgid "May"
+#~ msgstr "मे"
+
+#~ msgid "R. Thaani"
+#~ msgstr "आर. थानी"
+
+#~ msgid "J. Thaani"
+#~ msgstr "जे. थानी"
+
+#~ msgid "Hijjah"
+#~ msgstr "हिज्जा"
+
+#~ msgctxt "of Tir long"
+#~ msgid "of Tir"
+#~ msgstr "तिर चा"
+
+#~ msgctxt "of Dei long"
+#~ msgid "of Dei"
+#~ msgstr "देई चा"
+
+#~ msgctxt "Tir long"
+#~ msgid "Tir"
+#~ msgstr "तिर"
+
+#~ msgctxt "Dei long"
+#~ msgid "Dei"
+#~ msgstr "देई"
+
+#~ msgctxt "Shanbe short"
+#~ msgid "shn"
+#~ msgstr "shn"

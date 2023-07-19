@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-27 00:14+0000\n"
+"POT-Creation-Date: 2023-01-14 00:53+0000\n"
 "PO-Revision-Date: 2009-07-15 01:21+0200\n"
 "Last-Translator: Umesh Rudrapatna <umeshrs@gmail.com>\n"
 "Language-Team: Kannada <kde-l10n-kn@kde.org>\n"
@@ -14347,12 +14347,12 @@ msgstr ""
 msgid "OCR Image"
 msgstr ""
 
-#: kio/netaccess.cpp:103
+#: kio/netaccess.cpp:102
 #, kde-format
 msgid "File '%1' is not readable"
 msgstr ""
 
-#: kio/netaccess.cpp:437
+#: kio/netaccess.cpp:435
 #, kde-format
 msgid "ERROR: Unknown protocol '%1'"
 msgstr ""
@@ -14814,3 +14814,95 @@ msgstr ""
 #, kde-format
 msgid "GMT"
 msgstr ""
+
+#, fuzzy
+#~ msgctxt "color"
+#~ msgid "hot"
+#~ msgstr "ಥಲ್"
+
+#, fuzzy
+#~ msgctxt "color"
+#~ msgid "sea"
+#~ msgstr "ತಾತ್ಕಲಿಕ ತಡೆ"
+
+#, fuzzy
+#~ msgctxt "@item Calendar system"
+#~ msgid "Gregorian (Proleptic)"
+#~ msgstr "ಗ್ರೆಗೋರಿಯನ್"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 1 - ShortNamePossessive"
+#~ msgid "of Mes"
+#~ msgstr "ಮೆಹ್ ನ"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 5 - LongNamePossessive"
+#~ msgid "of Ter"
+#~ msgstr "ತೀರ್ ನ"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 1 - ShortName"
+#~ msgid "Mes"
+#~ msgstr "ಹೌದು"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 5 - LongName"
+#~ msgid "Ter"
+#~ msgstr "ಮಂ"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 4 - ShortDayName"
+#~ msgid "Ham"
+#~ msgstr "ಪೂರ್ವಾಹ್ನ"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 5 - ShortDayName"
+#~ msgid "Arb"
+#~ msgstr "ಅರ್ಬ್"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 3 - LongDayName"
+#~ msgid "Rob"
+#~ msgstr "ಕೆಲಸ"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 5 - LongDayName"
+#~ msgid "Arb"
+#~ msgstr "ಅರ್ಬ್"
+
+#~ msgctxt "of May long"
+#~ msgid "of May"
+#~ msgstr "ಮೇನ"
+
+#~ msgctxt "May long"
+#~ msgid "May"
+#~ msgstr "ಮೇ"
+
+#~ msgid "R. Thaani"
+#~ msgstr "ಆರ್. ಥಾನಿ"
+
+#~ msgid "J. Thaani"
+#~ msgstr "ಜೆ. ಥಾನಿ"
+
+#~ msgid "Hijjah"
+#~ msgstr "ಹಿಜ್ಜಹ್"
+
+#~ msgctxt "of Tir long"
+#~ msgid "of Tir"
+#~ msgstr "ತೀರ್ ನ"
+
+#~ msgctxt "of Dei long"
+#~ msgid "of Dei"
+#~ msgstr "ದೇಯ್ ನ"
+
+#~ msgctxt "Tir long"
+#~ msgid "Tir"
+#~ msgstr "ತೀರ್"
+
+#~ msgctxt "Dei long"
+#~ msgid "Dei"
+#~ msgstr "ಡೈ"
+
+#~ msgctxt "Shanbe short"
+#~ msgid "shn"
+#~ msgstr "ಶನ್"

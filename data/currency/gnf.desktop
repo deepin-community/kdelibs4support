@@ -4,8 +4,8 @@ CurrencyCodeIsoNumeric3=324
 #Context for Name: Adjectival Country Name and Currency Name
 Name=Guinean Franc
 Name[ar]=الفرنك الغيني
-Name[ast]=Francu guineanu
 Name[az]=Qvineya Frankı
+Name[bg]=Гвинейски франк
 Name[bs]=gvinejski franak
 Name[ca]=Franc de Guinea
 Name[ca@valencia]=Franc de Guinea
@@ -26,6 +26,7 @@ Name[ia]=Franc de Guinea
 Name[id]=Franc Guyana
 Name[is]=Gíneanskur franki
 Name[it]=Franco guineano
+Name[ka]=გვინეა ფრანკი
 Name[ko]=기니 프랑
 Name[lt]=Gvinėjos frankas
 Name[mr]=गिनिया फ्रांक

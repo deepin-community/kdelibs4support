@@ -4,7 +4,6 @@ CurrencyCodeIsoNumeric3=368
 #Context for Name: Adjectival Country Name and Currency Name
 Name=Iraqi Dinar
 Name[ar]=الدينار العراقي
-Name[ast]=Dinar iraquín
 Name[az]=İraq Dinarı
 Name[bg]=Иракски динар
 Name[bn]=ইরাকি দিনার
@@ -37,6 +36,7 @@ Name[ia]=Iraqi Dinar
 Name[id]=Dinar Irak
 Name[is]=Íraskur dínar
 Name[it]=Dinaro iracheno
+Name[ka]=ერაყული დინარი
 Name[kk]=Ирак динары
 Name[km]=Iraqi Dinar
 Name[kn]=ಇರಾಕಿ ದಿನಾರ್

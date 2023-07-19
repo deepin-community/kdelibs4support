@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-27 00:14+0000\n"
+"POT-Creation-Date: 2023-01-14 00:53+0000\n"
 "PO-Revision-Date: 2008-05-30 17:29+0200\n"
 "Last-Translator: Mashrab Kuvatov <kmashrab@uni-bremen.de>\n"
 "Language-Team: Uzbek <floss-uz-l10n@googlegroups.com>\n"
@@ -14466,12 +14466,12 @@ msgstr ""
 msgid "OCR Image"
 msgstr ""
 
-#: kio/netaccess.cpp:103
+#: kio/netaccess.cpp:102
 #, kde-format
 msgid "File '%1' is not readable"
 msgstr "'%1' faylini oʻqib boʻlmaydi"
 
-#: kio/netaccess.cpp:437
+#: kio/netaccess.cpp:435
 #, kde-format
 msgid "ERROR: Unknown protocol '%1'"
 msgstr "Xato: Nomaʼlum protokol '%1'"
@@ -14961,3 +14961,97 @@ msgstr "Sertifikat haqiqiy emas."
 #, kde-format
 msgid "GMT"
 msgstr "GMT"
+
+#, fuzzy
+#~ msgctxt "color"
+#~ msgid "hot"
+#~ msgstr "Sesh"
+
+#, fuzzy
+#~ msgctxt "color"
+#~ msgid "sea"
+#~ msgstr "Pochta"
+
+#, fuzzy
+#~ msgctxt "@item Calendar system"
+#~ msgid "Gregorian (Proleptic)"
+#~ msgstr "Gruzincha"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 1 - ShortNamePossessive"
+#~ msgid "of Mes"
+#~ msgstr "Mart"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 5 - LongNamePossessive"
+#~ msgid "of Ter"
+#~ msgstr "Tir"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 1 - ShortName"
+#~ msgid "Mes"
+#~ msgstr "Ha"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 5 - LongName"
+#~ msgid "Ter"
+#~ msgstr "Sesh"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 4 - ShortDayName"
+#~ msgid "Ham"
+#~ msgstr "ertalab"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 5 - ShortDayName"
+#~ msgid "Arb"
+#~ msgstr "Chor"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 3 - LongDayName"
+#~ msgid "Rob"
+#~ msgstr "Vazifa"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 5 - LongDayName"
+#~ msgid "Arb"
+#~ msgstr "Chor"
+
+#~ msgctxt "of May long"
+#~ msgid "of May"
+#~ msgstr "May"
+
+#~ msgctxt "May long"
+#~ msgid "May"
+#~ msgstr "May"
+
+#~ msgid "R. Thaani"
+#~ msgstr "R. Soni"
+
+#~ msgid "J. Thaani"
+#~ msgstr "J. Soni"
+
+#, fuzzy
+#~ msgctxt "of Tir long"
+#~ msgid "of Tir"
+#~ msgstr "Tir"
+
+#, fuzzy
+#~ msgctxt "of Dei long"
+#~ msgid "of Dei"
+#~ msgstr "Dek"
+
+#, fuzzy
+#~ msgctxt "Tir long"
+#~ msgid "Tir"
+#~ msgstr "Tir"
+
+#, fuzzy
+#~ msgctxt "Dei long"
+#~ msgid "Dei"
+#~ msgstr "Dei"
+
+#, fuzzy
+#~ msgctxt "Shanbe short"
+#~ msgid "shn"
+#~ msgstr "shn"

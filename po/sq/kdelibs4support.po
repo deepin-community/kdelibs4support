@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kde4libs\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-27 00:14+0000\n"
+"POT-Creation-Date: 2023-01-14 00:53+0000\n"
 "PO-Revision-Date: 2021-02-26 20:45-0500\n"
 "Last-Translator: Agron Selimaj <as9902613@gmail.com>\n"
 "Language-Team: kdeshqip\n"
@@ -13972,12 +13972,12 @@ msgstr "Merr Pamje"
 msgid "OCR Image"
 msgstr "Imazh OCR"
 
-#: kio/netaccess.cpp:103
+#: kio/netaccess.cpp:102
 #, kde-format
 msgid "File '%1' is not readable"
 msgstr ""
 
-#: kio/netaccess.cpp:437
+#: kio/netaccess.cpp:435
 #, kde-format
 msgid "ERROR: Unknown protocol '%1'"
 msgstr ""
@@ -14439,3 +14439,87 @@ msgstr ""
 #, kde-format
 msgid "GMT"
 msgstr "GMT"
+
+#, fuzzy
+#~| msgctxt "color"
+#~| msgid "AntiqueWhite"
+#~ msgctxt "color"
+#~ msgid "antique"
+#~ msgstr "AntiqueWhite"
+
+#, fuzzy
+#~| msgctxt "color"
+#~| msgid "BlanchedAlmond"
+#~ msgctxt "color"
+#~ msgid "blanched"
+#~ msgstr "BlanchedAlmond"
+
+#, fuzzy
+#~| msgctxt "color"
+#~| msgid "CornflowerBlue"
+#~ msgctxt "color"
+#~ msgid "cornflower"
+#~ msgstr "CornflowerBlue"
+
+#, fuzzy
+#~| msgctxt "color"
+#~| msgid "DodgerBlue"
+#~ msgctxt "color"
+#~ msgid "dodger"
+#~ msgstr "DodgerBlue"
+
+#, fuzzy
+#~| msgctxt "color"
+#~| msgid "coral"
+#~ msgctxt "color"
+#~ msgid "floral"
+#~ msgstr "koral"
+
+#, fuzzy
+#~| msgctxt "color"
+#~| msgid "IndianRed"
+#~ msgctxt "color"
+#~ msgid "indian"
+#~ msgstr "IndianRed"
+
+#, fuzzy
+#~| msgctxt "color"
+#~| msgid "MediumBlue"
+#~ msgctxt "color"
+#~ msgid "medium"
+#~ msgstr "MediumBlue"
+
+#, fuzzy
+#~| msgctxt "color"
+#~| msgid "MidnightBlue"
+#~ msgctxt "color"
+#~ msgid "midnight"
+#~ msgstr "MidnightBlue"
+
+#, fuzzy
+#~| msgctxt "color"
+#~| msgid "gold"
+#~ msgctxt "color"
+#~ msgid "old"
+#~ msgstr "ngjyrë ari"
+
+#, fuzzy
+#~| msgctxt "color"
+#~| msgid "PapayaWhip"
+#~ msgctxt "color"
+#~ msgid "papaya"
+#~ msgstr "PapayaWhip"
+
+#, fuzzy
+#~| msgctxt "color"
+#~| msgid "PowderBlue"
+#~ msgctxt "color"
+#~ msgid "powder"
+#~ msgstr "PowderBlue"
+
+#, fuzzy
+#~| msgctxt "color"
+#~| msgid "sienna"
+#~ msgctxt "color"
+#~ msgid "sea"
+#~ msgstr "baltë qeramike"

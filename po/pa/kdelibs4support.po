@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-27 00:14+0000\n"
+"POT-Creation-Date: 2023-01-14 00:53+0000\n"
 "PO-Revision-Date: 2018-11-08 23:07-0800\n"
 "Last-Translator: A S Alam <alam.yellow@gmail.com>\n"
 "Language-Team: Punjabi <punjabi-users@lists.sf.net>\n"
@@ -14387,12 +14387,12 @@ msgstr "ਚਿੱਤਰ ਲਵੋ"
 msgid "OCR Image"
 msgstr "OCR ਚਿੱਤਰ"
 
-#: kio/netaccess.cpp:103
+#: kio/netaccess.cpp:102
 #, kde-format
 msgid "File '%1' is not readable"
 msgstr "ਫਾਈਲ '%1' ਪੜ੍ਹਨਯੋਗ ਨਹੀਂ ਹੈ"
 
-#: kio/netaccess.cpp:437
+#: kio/netaccess.cpp:435
 #, kde-format
 msgid "ERROR: Unknown protocol '%1'"
 msgstr "ਗਲਤੀ: ਅਣਜਾਣ ਪਰੋਟੋਕਾਲ '%1'।"
@@ -14852,3 +14852,101 @@ msgstr "ਸਰਟੀਫਿਕੇਟ ਅਵੈਧ ਹੈ।"
 #, kde-format
 msgid "GMT"
 msgstr "GMT"
+
+#, fuzzy
+#~| msgctxt "Calendar Era: Gregorian Christian Era, years < 0, LongFormat"
+#~| msgid "Before Christ"
+#~ msgctxt "color"
+#~ msgid "forest"
+#~ msgstr "ਈਸਾ ਪੂਰਵ"
+
+#, fuzzy
+#~ msgctxt "color"
+#~ msgid "hot"
+#~ msgstr "ਥਲ"
+
+#, fuzzy
+#~ msgctxt "color"
+#~ msgid "sea"
+#~ msgstr "ਵਿਰਾਮ"
+
+#~ msgctxt "@item Calendar system"
+#~ msgid "Gregorian (Proleptic)"
+#~ msgstr "ਜਾਰਜੀਆਈ (ਪਰੋਲੀਪਟਿਕ)"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 1 - ShortNamePossessive"
+#~ msgid "of Mes"
+#~ msgstr "ਮੀਹ"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 5 - LongNamePossessive"
+#~ msgid "of Ter"
+#~ msgstr "ਤੀਰ"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 1 - ShortName"
+#~ msgid "Mes"
+#~ msgstr "ਹਾਂ"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 5 - LongName"
+#~ msgid "Ter"
+#~ msgstr "ਮੰਗਲ"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 4 - ShortDayName"
+#~ msgid "Ham"
+#~ msgstr "ਸਵੇਰੇ"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 5 - ShortDayName"
+#~ msgid "Arb"
+#~ msgstr "ਅਰਬ"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 3 - LongDayName"
+#~ msgid "Rob"
+#~ msgstr "ਜਾਬ"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 5 - LongDayName"
+#~ msgid "Arb"
+#~ msgstr "ਅਰਬ"
+
+#~ msgctxt "of May long"
+#~ msgid "of May"
+#~ msgstr "ਦੀ ਮਈ"
+
+#~ msgctxt "May long"
+#~ msgid "May"
+#~ msgstr "ਮਈ"
+
+#~ msgid "R. Thaani"
+#~ msgstr "ਆਰ ਥਾਈਨ"
+
+#~ msgid "J. Thaani"
+#~ msgstr "ਜੇ ਥਾਈਨ"
+
+#~ msgid "Hijjah"
+#~ msgstr "ਹੀਜਸ਼"
+
+#~ msgctxt "of Tir long"
+#~ msgid "of Tir"
+#~ msgstr "ਤੀਰ"
+
+#~ msgctxt "of Dei long"
+#~ msgid "of Dei"
+#~ msgstr "ਡੀਈ"
+
+#~ msgctxt "Tir long"
+#~ msgid "Tir"
+#~ msgstr "ਟੀਰ"
+
+#~ msgctxt "Dei long"
+#~ msgid "Dei"
+#~ msgstr "ਦੀਈ"
+
+#~ msgctxt "Shanbe short"
+#~ msgid "shn"
+#~ msgstr "ਸ਼ਨ"

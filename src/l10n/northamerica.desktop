@@ -1,8 +1,8 @@
 [KCM Locale]
 Name=America, North
 Name[ar]=شمال أمريكا
-Name[ast]=América septentrional
 Name[az]=Şimali Amerika
+Name[bg]=Америка, север
 Name[bs]=Amerika sjeverna
 Name[ca]=Amèrica del Nord
 Name[ca@valencia]=Amèrica del Nord
@@ -37,6 +37,7 @@ Name[pa]=ਅਮਰੀਕਾ, ਉੱਤਰੀ
 Name[pl]=Ameryka Północna
 Name[pt]=América do Norte
 Name[pt_BR]=América do Norte
+Name[ro]=America, nord
 Name[ru]=Северная Америка
 Name[se]=Davvi-Amerihká
 Name[sk]=Severná Amerika

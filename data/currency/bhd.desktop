@@ -4,8 +4,8 @@ CurrencyCodeIsoNumeric3=048
 #Context for Name: Adjectival Country Name and Currency Name
 Name=Bahraini Dinar
 Name[ar]=الدينار البحريني
-Name[ast]=Dinar baḥreiní
 Name[az]=Bəhreyn Dinarı
+Name[bg]=Бахрейнски динар
 Name[bs]=Bahreinski dinar
 Name[ca]=Dinar de Bahrain
 Name[ca@valencia]=Dinar de Bahrain
@@ -27,6 +27,7 @@ Name[ia]=Dinar de Bahrain
 Name[id]=Dinar Bahrain
 Name[is]=Bareinskur dínar
 Name[it]=Dinaro del Bahrain
+Name[ka]=ბაჰრეინი დინარი
 Name[ko]=바레인 디나르
 Name[lt]=Bahreino dinaras
 Name[mr]=बहरीन दिनार

@@ -1,8 +1,8 @@
 [KCM Locale]
 Name=Marshall Islands
 Name[ar]=جزر مارشال
-Name[ast]=Islles Márxal
 Name[az]=Marşal adaları
+Name[bg]=Маршалови острови
 Name[bs]=Maršalovi Otoci
 Name[ca]=Illes Marshall
 Name[ca@valencia]=Illes Marshall
@@ -37,6 +37,7 @@ Name[pa]=ਮਾਰਸ਼ਲ ਟਾਪੂ
 Name[pl]=Wyspy Marshalla
 Name[pt]=Ilhas Marshall
 Name[pt_BR]=Ilhas Marshall
+Name[ro]=Insulele Marshall
 Name[ru]=Маршалловы Острова
 Name[se]=Marshallsullot
 Name[sk]=Marshallove ostrovy
@@ -51,7 +52,7 @@ Name[tr]=Marshall Adaları
 Name[uk]=Маршаллові острови
 Name[vi]=Quần đảo Marshall
 Name[x-test]=xxMarshall Islandsxx
-Name[zh_CN]=马歇尔群岛
+Name[zh_CN]=马绍尔群岛
 Name[zh_TW]=馬紹爾群島
 Region=oceania
 Languages=en_GB

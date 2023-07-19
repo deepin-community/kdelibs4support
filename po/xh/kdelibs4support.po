@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-27 00:14+0000\n"
+"POT-Creation-Date: 2023-01-14 00:53+0000\n"
 "PO-Revision-Date: 2002-12-13 17:20SAST\n"
 "Last-Translator: Lwandle Mgidlana <lwandle@translate.org.za>\n"
 "Language-Team: Xhosa <xhosa@translate.org.za>\n"
@@ -14281,12 +14281,12 @@ msgstr "Fumana Umfanekiso"
 msgid "OCR Image"
 msgstr "Umfanekiso we OCR"
 
-#: kio/netaccess.cpp:103
+#: kio/netaccess.cpp:102
 #, kde-format
 msgid "File '%1' is not readable"
 msgstr "Ifayile '%1' ayifundeki"
 
-#: kio/netaccess.cpp:437
+#: kio/netaccess.cpp:435
 #, fuzzy, kde-format
 msgid "ERROR: Unknown protocol '%1'"
 msgstr "Umthetho olandelwayo ongaziwayo '%1'.\n"
@@ -14790,3 +14790,99 @@ msgstr "Isiqinisekiso asisebenzi."
 #, kde-format
 msgid "GMT"
 msgstr "GMT"
+
+#, fuzzy
+#~ msgctxt "color"
+#~ msgid "hot"
+#~ msgstr "Phezulu"
+
+#, fuzzy
+#~ msgctxt "color"
+#~ msgid "sea"
+#~ msgstr "Uposo"
+
+#, fuzzy
+#~ msgctxt "@item Calendar system"
+#~ msgid "Gregorian (Proleptic)"
+#~ msgstr "Georgian"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 1 - ShortNamePossessive"
+#~ msgid "of Mes"
+#~ msgstr "ka Matshi"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 5 - LongNamePossessive"
+#~ msgid "of Ter"
+#~ msgstr "ka Mat"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 1 - ShortName"
+#~ msgid "Mes"
+#~ msgstr "Ewe"
+
+#, fuzzy
+#~ msgctxt "Ethiopian month 5 - LongName"
+#~ msgid "Ter"
+#~ msgstr "Bin"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 4 - ShortDayName"
+#~ msgid "Ham"
+#~ msgstr "am"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 5 - ShortDayName"
+#~ msgid "Arb"
+#~ msgstr "Arabic"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 3 - LongDayName"
+#~ msgid "Rob"
+#~ msgstr "Phezulu"
+
+#, fuzzy
+#~ msgctxt "Ethiopian weekday 5 - LongDayName"
+#~ msgid "Arb"
+#~ msgstr "Arabic"
+
+#~ msgctxt "of May long"
+#~ msgid "of May"
+#~ msgstr "ka Mey"
+
+#~ msgctxt "May long"
+#~ msgid "May"
+#~ msgstr "Mey"
+
+#, fuzzy
+#~ msgid "R. Thaani"
+#~ msgstr "Thai"
+
+#, fuzzy
+#~ msgid "J. Thaani"
+#~ msgstr "Thai"
+
+#, fuzzy
+#~ msgctxt "of Tir long"
+#~ msgid "of Tir"
+#~ msgstr "ka Mat"
+
+#, fuzzy
+#~ msgctxt "of Dei long"
+#~ msgid "of Dei"
+#~ msgstr "ka Dis"
+
+#, fuzzy
+#~ msgctxt "Tir long"
+#~ msgid "Tir"
+#~ msgstr "ka Mat"
+
+#, fuzzy
+#~ msgctxt "Dei long"
+#~ msgid "Dei"
+#~ msgstr "Icebo"
+
+#, fuzzy
+#~ msgctxt "Shanbe short"
+#~ msgid "shn"
+#~ msgstr "Phumla"

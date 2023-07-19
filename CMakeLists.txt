@@ -1,11 +1,11 @@
 cmake_minimum_required(VERSION 3.16)
 
-set(KF_VERSION "5.90.0") # handled by release scripts
-set(KF_DEP_VERSION "5.90.0") # handled by release scripts
+set(KF_VERSION "5.103.0") # handled by release scripts
+set(KF_DEP_VERSION "5.103.0") # handled by release scripts
 project(KDELibs4Support VERSION ${KF_VERSION})
 
 include(FeatureSummary)
-find_package(ECM 5.90.0  NO_MODULE)
+find_package(ECM 5.103.0  NO_MODULE)
 set_package_properties(ECM PROPERTIES TYPE REQUIRED DESCRIPTION "Extra CMake Modules." URL "https://commits.kde.org/extra-cmake-modules")
 feature_summary(WHAT REQUIRED_PACKAGES_NOT_FOUND FATAL_ON_MISSING_REQUIRED_PACKAGES)
 
@@ -44,20 +44,25 @@ find_package(KF5WindowSystem ${KF_DEP_VERSION} REQUIRED)
 find_package(KF5XmlGui ${KF_DEP_VERSION} REQUIRED)
 find_package(KF5DBusAddons ${KF_DEP_VERSION} REQUIRED)
 find_package(KDED ${KF_DEP_VERSION} REQUIRED)
+find_package(KF5Auth ${KF_DEP_VERSION} REQUIRED)
 
 if(WIN32)
     find_package(KDEWin REQUIRED)
 endif()
 
 if (NOT APPLE AND NOT WIN32)
-    find_package(X11)
+    option(WITH_X11 "Build with X11 integration and session management" ON)
+    if(WITH_X11)
+        find_package(X11 REQUIRED)
+        set(HAVE_X11 1)
+    endif()
 endif()
-set(HAVE_X11 ${X11_FOUND})
 if (HAVE_X11)
   add_feature_info("X11 Session Management (libSM)" X11_SM_FOUND "Support for session management in KApplication")
   find_package(Qt5 ${REQUIRED_QT_VERSION} CONFIG REQUIRED X11Extras)
   find_package(XCB REQUIRED COMPONENTS XCB)
 endif ()
+
 if (APPLE)
     cmake_find_frameworks(CoreFoundation)
 endif ()
@@ -135,7 +140,7 @@ install(EXPORT KF5KDELibs4SupportTargets
         NAMESPACE KF5::)
 
 install(FILES ${CMAKE_CURRENT_BINARY_DIR}/kdelibs4support_version.h
-        DESTINATION ${KDE_INSTALL_INCLUDEDIR_KF5}
+        DESTINATION ${KDE_INSTALL_INCLUDEDIR_KF5}/KDELibs4Support
         COMPONENT Devel)
 
 

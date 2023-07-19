@@ -4,8 +4,8 @@ CurrencyCodeIsoNumeric3=690
 #Context for Name: Adjectival Country Name and Currency Name
 Name=Seychellois Rupee
 Name[ar]=الروبية السيشيلية
-Name[ast]=Rupia sixelesa
 Name[az]=Seyşel Rupisi
+Name[bg]=Сейшелска рупия
 Name[bs]=sejšelska rupija
 Name[ca]=Rupia de les Seychelles
 Name[ca@valencia]=Rupia de les Seychelles
@@ -26,6 +26,7 @@ Name[ia]=Rupia del Seychelles
 Name[id]=Rupee Seychelles
 Name[is]=Seychelles-eyja rúpía
 Name[it]=Rupia delle Seychelles
+Name[ka]=სეიშელების რუპია
 Name[ko]=세이셸 루피
 Name[lt]=Seišelių rupija
 Name[mr]=सेशेल्स रुपी
